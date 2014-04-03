@@ -1,0 +1,4525 @@
+{
+	"folder_history":
+	[
+		"/C/Sites/cfmxapps/wwwroot/old.tripplite.com"
+	],
+	"last_window_id": 41,
+	"settings":
+	{
+		"new_window_height": 964.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"userpur",
+						"userPurchaseCreate"
+					],
+					[
+						"wri",
+						"writeDump	fn. (cfscript)"
+					],
+					[
+						"serialN",
+						"serialNumberBoxes"
+					],
+					[
+						"has",
+						"hasSerialNumber"
+					],
+					[
+						"mon",
+						"modelNumber1"
+					],
+					[
+						"attrib",
+						"attributes"
+					],
+					[
+						"img",
+						"imageFilename"
+					],
+					[
+						"cf",
+						"CF_SQL_VARCHAR"
+					],
+					[
+						"compinoth",
+						"companyIndustryDomesticOther"
+					],
+					[
+						"companindu",
+						"companyIndustryDomesticOther"
+					],
+					[
+						"wir",
+						"writeOutput	fn. (cfscript)"
+					],
+					[
+						"var",
+						"variables"
+					],
+					[
+						"obj",
+						"objCompany"
+					],
+					[
+						"company",
+						"companyBean"
+					],
+					[
+						"getBy",
+						"getCompanyById"
+					],
+					[
+						"compindoth",
+						"companyIndustryDomesticOther"
+					],
+					[
+						"requir",
+						"required"
+					],
+					[
+						"comsize",
+						"companySizeDomestic"
+					],
+					[
+						"companis",
+						"companyIndustryInternational"
+					],
+					[
+						"domestic",
+						"companyIndustryDomestic"
+					],
+					[
+						"prodl",
+						"productUsageLocation"
+					],
+					[
+						"pru",
+						"productUsageLocation"
+					],
+					[
+						"job",
+						"jobTitleParent"
+					],
+					[
+						"compa",
+						"companyName"
+					],
+					[
+						"Company",
+						"Company_Size_ID"
+					],
+					[
+						"qind",
+						"qCompanyIndustryDomestic"
+					],
+					[
+						"Company_Indus",
+						"_Company_Industry"
+					],
+					[
+						"va",
+						"variables"
+					],
+					[
+						"qcompa",
+						"qCompanySizeLookup"
+					],
+					[
+						"getCompany",
+						"getCompanySizeLookupQuery"
+					],
+					[
+						"getnew",
+						"getNewResponse"
+					],
+					[
+						"qComa",
+						"qCompany"
+					],
+					[
+						"compan",
+						"companyID"
+					],
+					[
+						"las_",
+						"Last_Changed_At"
+					],
+					[
+						"companBean",
+						"CompanyBean"
+					],
+					[
+						"cf_sql",
+						"CF_SQL_BIGINT"
+					],
+					[
+						"produ",
+						"productUse"
+					],
+					[
+						"getProdu",
+						"getProductUse"
+					],
+					[
+						"newsle",
+						"newsletterSignup"
+					],
+					[
+						"remov",
+						"removeClass	.removeClass"
+					],
+					[
+						"togg",
+						"toggleCompanySize"
+					],
+					[
+						"prdu",
+						"productUsageLocation"
+					],
+					[
+						"m-Top",
+						"m-Top20"
+					],
+					[
+						"productUsa",
+						"productUsageLocation"
+					],
+					[
+						"product",
+						"productUsage"
+					],
+					[
+						"produc",
+						"productUsage"
+					],
+					[
+						"count",
+						"countryCode"
+					],
+					[
+						"coun",
+						"COUNTRY_NAME"
+					],
+					[
+						"getCountry",
+						"getCountry"
+					],
+					[
+						"disable",
+						"disabled"
+					],
+					[
+						"address",
+						"address1"
+					],
+					[
+						"logg",
+						"isUserLoggedIn"
+					],
+					[
+						"ched",
+						"checkedProductApplication"
+					],
+					[
+						"check",
+						"checked"
+					],
+					[
+						"targ",
+						"targetCheckbox"
+					],
+					[
+						"exlu",
+						"exclusiveNoLoad"
+					],
+					[
+						"target",
+						"targetApplication"
+					],
+					[
+						"user",
+						"userBean"
+					],
+					[
+						"btn",
+						"btnContinue"
+					],
+					[
+						"typ",
+						"type=\"exclusive\"	type"
+					],
+					[
+						"sc",
+						"scope=\"Session\"	scope"
+					],
+					[
+						"formfil",
+						"formFields"
+					],
+					[
+						"email",
+						"emailAddress"
+					],
+					[
+						"show",
+						"showPasswordBox"
+					],
+					[
+						"acti",
+						"active"
+					],
+					[
+						"pro",
+						"prop	.prop() - multiple"
+					],
+					[
+						"remo",
+						"removeAttr	.removeAttr()"
+					],
+					[
+						"chec",
+						"checked"
+					],
+					[
+						"Warrant",
+						"WarrantyFormBuilder"
+					],
+					[
+						"stdel",
+						"structDelete	fn. (cfscript)"
+					],
+					[
+						"pu",
+						"purchaseDate1"
+					],
+					[
+						"lisfin",
+						"listFind	fn. (cfscript)"
+					],
+					[
+						"antis",
+						"antiSpamResult"
+					],
+					[
+						"utility",
+						"utilityService"
+					],
+					[
+						"func",
+						"functionality"
+					],
+					[
+						"cfset",
+						"cfsetting	Tag (cmfl)"
+					],
+					[
+						"CFS",
+						"cfsetting"
+					],
+					[
+						"multi",
+						"multi-select"
+					],
+					[
+						"gole",
+						"goldenResellerSignup"
+					],
+					[
+						"gold",
+						"goldenResellerTraining"
+					],
+					[
+						"debuem",
+						"debugEmail"
+					],
+					[
+						"gol",
+						"goldenResellerSignup"
+					],
+					[
+						"resell",
+						"resellers"
+					],
+					[
+						"webuser",
+						"webUsersDynamicPropStruct"
+					],
+					[
+						"str",
+						"structIsEmpty	fn. (cfscript)"
+					],
+					[
+						"confirmatio",
+						"confirmationDisplayMessage"
+					],
+					[
+						"lead",
+						"leadSource"
+					],
+					[
+						"web",
+						"webteam"
+					],
+					[
+						"ipv",
+						"ipv6"
+					],
+					[
+						"gener",
+						"genericFormHandler"
+					],
+					[
+						"activity",
+						"activityID"
+					],
+					[
+						"activ",
+						"activityID"
+					],
+					[
+						"tyst",
+						"type=\"struct\"	type"
+					],
+					[
+						"sendemail",
+						"sendUserDataErrorEmail"
+					],
+					[
+						"fran",
+						"francisco_carmona"
+					],
+					[
+						"writ",
+						"writeDump	fn. (cfscript)"
+					],
+					[
+						"site",
+						"sitemap"
+					],
+					[
+						"cfs",
+						"cfscript	Tag (cmfl)"
+					],
+					[
+						"el",
+						"elDiv"
+					],
+					[
+						"data",
+						"dataCenterPowerAudit"
+					],
+					[
+						"powerAu",
+						"powerAuditForm"
+					],
+					[
+						"country",
+						"countryCode"
+					],
+					[
+						"industry",
+						"industry_name"
+					],
+					[
+						"Industry",
+						"industry_id"
+					],
+					[
+						"qindu",
+						"qIndustry"
+					],
+					[
+						"qIndu",
+						"qIndustries"
+					],
+					[
+						"indu",
+						"industry_name"
+					],
+					[
+						"qu",
+						"queryNew	fn. (cfscript)"
+					],
+					[
+						"Indus",
+						"Industries"
+					],
+					[
+						"industr",
+						"industryID"
+					],
+					[
+						"cfquer",
+						"cfqueryparam	Tag (cmfl)"
+					],
+					[
+						"IN",
+						"Industry"
+					],
+					[
+						"qryIndus",
+						"qryIndustry"
+					],
+					[
+						"PARTNER",
+						"Partner_Type_Text"
+					],
+					[
+						"qprod",
+						"qProductLineDetails"
+					],
+					[
+						"qProdu",
+						"qProductLine"
+					],
+					[
+						"customer",
+						"customerType"
+					],
+					[
+						"partner",
+						"partnerService"
+					],
+					[
+						"internal",
+						"internalEmailBody"
+					],
+					[
+						"coma",
+						"companyWebsite"
+					],
+					[
+						"pos",
+						"postalCode"
+					],
+					[
+						"stat",
+						"stateID"
+					],
+					[
+						"addre",
+						"address1"
+					],
+					[
+						"comp",
+						"companyName"
+					],
+					[
+						"parte",
+						"partnerTypeID"
+					],
+					[
+						"of",
+						"col-md-offset-1"
+					],
+					[
+						"inser",
+						"insertBefore	.insertBefore()"
+					],
+					[
+						"new",
+						"newsletter"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"snip",
+						"Snippet: rbproperty"
+					],
+					[
+						"sni",
+						"Snippet: rbproperty"
+					],
+					[
+						"ssyxml",
+						"Set Syntax: XML"
+					],
+					[
+						"ssxml",
+						"Set Syntax: XML"
+					],
+					[
+						"sn",
+						"Snippet: rbproperty"
+					],
+					[
+						"Snippet: ",
+						"Snippet: rbproperty"
+					],
+					[
+						"ssy",
+						"Set Syntax: HTML"
+					],
+					[
+						"ssycm",
+						"Set Syntax: ColdFusion Markup"
+					],
+					[
+						"ssyn",
+						"Set Syntax: XML"
+					],
+					[
+						"ssnxml",
+						"Set Syntax: XML"
+					],
+					[
+						"ssycf",
+						"Set Syntax: ColdFusion Component"
+					],
+					[
+						"SNIP",
+						"Snippet: rbproperty"
+					],
+					[
+						"ssynxm",
+						"Set Syntax: XML"
+					],
+					[
+						"ssynxml",
+						"Set Syntax: XML"
+					],
+					[
+						"snic",
+						"Snippet: CDATA"
+					],
+					[
+						"snipp",
+						"Snippet: rbproperty"
+					],
+					[
+						"ssxm",
+						"Set Syntax: XML"
+					],
+					[
+						"ssysq",
+						"Set Syntax: SQL"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pa",
+						"Package Control: Discover Packages"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"ssyxm",
+						"Set Syntax: XML"
+					],
+					[
+						"cd",
+						"Snippet: CDATA"
+					],
+					[
+						"SNI",
+						"Snippet: rbproperty"
+					],
+					[
+						"cda",
+						"Snippet: CDATA"
+					],
+					[
+						"sda",
+						"Preferences: Settings - Default"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"SNIp",
+						"Snippet: rbproperty"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"ssyh",
+						"Set Syntax: HTML"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"sss",
+						"Set Syntax: HTML (ASP)"
+					],
+					[
+						"s",
+						"Snippet: CDATA"
+					],
+					[
+						"insla",
+						"Package Control: Install Package"
+					],
+					[
+						"snipc",
+						"Snippet: CDATA"
+					],
+					[
+						"SNIPP",
+						"Snippet: rbproperty"
+					],
+					[
+						"snippr",
+						"Snippet: rbproperty"
+					],
+					[
+						"snipper",
+						"Snippet: rbproperty"
+					],
+					[
+						"snipr",
+						"Snippet: rbproperty"
+					],
+					[
+						"snippd",
+						"Snippet: CDATA"
+					],
+					[
+						"snipprb",
+						"Snippet: rbproperty"
+					],
+					[
+						"SNIPPC",
+						"Snippet: CDATA"
+					],
+					[
+						"snippe",
+						"Snippet: CDATA"
+					],
+					[
+						"ssyncfm",
+						"Set Syntax: ColdFusion Markup"
+					],
+					[
+						"removpa",
+						"Package Control: Remove Package"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"F",
+						"Fetch: Package"
+					],
+					[
+						"installpa",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"installp",
+						"Package Control: Install Package"
+					],
+					[
+						"packains",
+						"Package Control: Install Package"
+					],
+					[
+						"packin",
+						"Package Control: Install Package"
+					],
+					[
+						"ssyncold",
+						"Set Syntax: ColdFusion Markup"
+					],
+					[
+						"ssyncom",
+						"Set Syntax: ColdFusion Markup"
+					],
+					[
+						"ssycol",
+						"Set Syntax: ColdFusion Component"
+					],
+					[
+						"ssynco",
+						"Set Syntax: ColdFusion Component"
+					],
+					[
+						"ssynhtm",
+						"Set Syntax: HTML"
+					],
+					[
+						"instalpa",
+						"Package Control: Install Package"
+					],
+					[
+						"ssyncol",
+						"Set Syntax: ColdFusion Component"
+					],
+					[
+						"fetp",
+						"Fetch: Package"
+					],
+					[
+						"fet",
+						"Fetch: Manage"
+					],
+					[
+						"open",
+						"File: Open In Browser - Production Server"
+					],
+					[
+						"task",
+						"Tasks: New document"
+					],
+					[
+						"fetc",
+						"Fetch: File"
+					],
+					[
+						"ssncold",
+						"Set Syntax: ColdFusion Markup"
+					],
+					[
+						"ssn col",
+						"Set Syntax: ColdFusion Markup"
+					],
+					[
+						"sscol",
+						"Set Syntax: ColdFusion Markup"
+					],
+					[
+						"ssyhtm",
+						"Set Syntax: HTML"
+					],
+					[
+						"chang",
+						"ChangeQuotes"
+					],
+					[
+						"change",
+						"ChangeQuotes"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"INSTALL ",
+						"Package Control: Install Package"
+					],
+					[
+						"INSTALL PA",
+						"Package Control: Install Package"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 386.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/masterForm/masterForm.xml",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/support/productWarrantyRegistration.xml",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/applications.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/buyingGuides.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/company.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/main.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/pages.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/portals.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/products.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/reports.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/resellers.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/security.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/tasks.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/whereToBuy.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/logs/routeMatches.txt",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/pages/minicom.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/layouts/default.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/header.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/WarrantyFormBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/FormBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/FormService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/MyAccountProfileFormBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/BaseService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/beans/UserBean.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/UserDAO.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/UserService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/WarrantyPreFormBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/UserPurchasesService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/UserPurchasesDAO.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/UserPurchasesGateway.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/beans/UserPurchasesBean.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/beans/ModelBean.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.support.productWarrantyRegistration.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/CompanyService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/CompanyGateway.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/CompanyDAO.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/beans/CompanyBean.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/ModelDAO.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/ModelGateway.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/ModelService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.support.productSupportForm.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/GeographyService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/FormHandleBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/myAccount.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.support.productTroubleshooters.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.myAccount.newsletter.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/GetListedFormBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/UserGateway.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/org/corfield/framework.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/GeographyGateway.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/beans/BaseBean.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/main/generic.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/masterForm/fieldDataErrors.xml",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/CompanyBean.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/CompanyDAO.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/CompanyGateway.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/formValidator.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.pages.dataCenterPowerAudit.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/pages/dataCenterPowerAudit.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/lp/direct/IT-infrastructure-solutions/index.html",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/ProductSupportFormBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/GeneralInquiriesFormBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/tripplite.xml",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/MyAccountRegisterFormBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/UtilityService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/lp/policy/international-ultimate-lifetime-protection-policy.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/web.config",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/applications/government.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/TaskService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/support/productSupportForm.xml",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/css/tripplite.css",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/support/productWarrantyRegistrationRecentWinners.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/MyAccountProductsFormBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/main/masterForm.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/masterForm/requiredFieldErrors.xml",
+				"/C/Users/fcarmona/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/WishlistService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/myAccount/login.xml",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.login.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/popup/login.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/GoldenResellerSignupFormBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/css/tripplite.support.productWarranty.css",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/ProductGateway.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.myAccount.products.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/css/datepicker.css",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/bootstrap-datepicker.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/css/jquery.datepick.css",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/footer.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.whereToBuy.partnerList.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/whereToBuy/partnerList.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/PartnerService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/PartnerGateway.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/support/myAccount.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/MyAccountSubscriptionsFormBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/UserSubscriptionService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/UserSubscriptionsDAO.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/support/unsubscribe.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/layouts/standAlone.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/layouts/pages.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/main/searchFaq.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/support.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.search.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/support/search.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/logs/dumpException.txt",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/MyAccountNewsletterFormBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/searchService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.resellers.downloads.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.support.downloads.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/ProductService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/FinderService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/lp/direct/inverter-chargers-for-sump-pumps/index.html",
+				"/J/Current Jobs/2013/12 - 2013/13-12-017 WWW - Page Change - Sump Pump Landing Page/original.html",
+				"/G/Marcom/Copy & Design Boiler Plates & Templates/Tripplite Landing Page Form Template 2014/it-infrastructure-solutions/index.html",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/main/ajax.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/sidebar.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/support/downloads.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/layouts/support.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.support.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/EmailContactFormBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/rviListService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/searchGateway.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/products/modelCompare.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/Utilities.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/ResourceBundle.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/whereToBuy/ajax.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/resellers/goldenResellerSignup.xml",
+				"/C/Sites/cfmxapps/wwwroot/old.tripplite.com/ru/gr/index.cfm"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 92.0,
+				"where_history":
+				[
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model\\services",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model\\beans",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model\\gateways",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\resourceBundles",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\resoureBundles",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\controllers",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model\\builder",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\controllers",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model\\builder",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\old.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\controllers",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\resourceBundles",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\resourceBundles",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\old.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com/assets",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\old.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\old.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\old.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model, C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\controllers, C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\views",
+					"-C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\assets",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite,-C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\assets",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model\\services",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model\\services",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model\\services",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model\\services",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\resourceBundles",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\assets",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\layouts",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\controllers, C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model, C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\views",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\controllers, C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model, C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\view",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite,-/assets",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite,-\\assets",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"rc.rbPage",
+					"Value text",
+					"btnRecentWinnersOK",
+					"Recent Winners",
+					"btnRecentWinnersOK",
+					"04",
+					"rc.lang( |)=",
+					"param name=\"rc.lang\"",
+					"rc.lang",
+					"param name=\"rc.lang\"",
+					"param name=\"rc.lang\" default=\"#rc.objUser.getLanguage()#\";",
+					"param name=\"rc.lang\"",
+					"rc.lang",
+					"param name=\"rc.lang\"",
+					"rc.lang",
+					"param name=\"rc.lang\"",
+					"<cfparam name=\"rc.lang\" default=\"en\"> <!--- this method is capable of producing sitemaps in any supported language --->",
+					"param name=\"rc.lang\"",
+					"rc.lang",
+					"param name=\"rc.lang\"",
+					"rc.lang",
+					"param name=\"rc.lang\"",
+					"rc.lang",
+					"param name=\"rc.lang\"",
+					"rc.lang",
+					"objUser.getLanguage",
+					"rc.objUser",
+					"rc.lang",
+					"rc.countryCode",
+					"pageScore",
+					"siteMaintenanceCheck",
+					"rc.country",
+					"rc.lang",
+					"rc.ads.allAds",
+					"lang( |)=",
+					"rc.lang( |)=",
+					"flex",
+					"allied",
+					"rc.lang",
+					"lang",
+					"rc.lang",
+					"rc.langg",
+					"s=\"col-md-5\">",
+					"&nbsp; <!--- Spacer --->",
+					"<div class=\"row\">",
+					"</div>",
+					"div class",
+					"div class=\"row\"",
+					"<div class",
+					"processForm",
+					"cffunction name",
+					"init",
+					"createInputRadioGroup",
+					"cffunction name",
+					"this.",
+					"getSalutations",
+					"cffunction name",
+					"name",
+					"cffunction",
+					"writedu",
+					"userBean",
+					"this.formFields.password.required",
+					"myAccount/disable/disableKey/",
+					"variables.rbService",
+					"=",
+					"registerPurchase",
+					">\n",
+					"emailerService",
+					"EmailerService",
+					"emailerService",
+					"userService",
+					"UserService",
+					"userService",
+					"arguments.emailerService",
+					"arguments.userService",
+					"cfargument name\\=.*?service",
+					"argument.*=.*servcie",
+					"userService",
+					"gateways",
+					"userPurchasesGateway",
+					"userService",
+					"UserService",
+					"userService",
+					"= ",
+					"=",
+					"GeographyService",
+					"geographyService",
+					"ProductService",
+					"productService",
+					"GeographyService",
+					"geographyService",
+					"GeographyService",
+					"geographyService",
+					"ProductService",
+					"productService",
+					"emailerService",
+					"EmailerService",
+					"emailerService",
+					"ProductService",
+					"productService",
+					"registerPurchase",
+					"userBean",
+					"Published_Date",
+					"hasSerialNumber",
+					"save",
+					"requireRowFieldIDs",
+					"this",
+					"<cfif structKeyExists(arguments.groupDataStructure, \"requireRowFieldIDs\")>",
+					"true",
+					">>",
+					"requireRows",
+					"requireRowFieldIDs",
+					"requireRows",
+					"= ",
+					"requireRowFieldIDs",
+					"given",
+					"requireRowFields",
+					"local.i",
+					"local.field",
+					"local.i",
+					"getModelNumberById",
+					"serialNumberBox",
+					"serialNumberBoxes",
+					"stateDetail",
+					"index",
+					"states",
+					".each",
+					"serialNumberBoxes"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"param name=\"rc.lang\" default=rc.objUser.getLanguage();",
+					"w",
+					".$1",
+					"bean.$1",
+					"$1",
+					"ajaxResponseJSON",
+					"rbPage.",
+					"main.generic",
+					"rc.displayMessage",
+					"MID",
+					"rc.lang",
+					"$1\\['EN'\\]",
+					"$1\\['en'\\]",
+					"$1\\.en",
+					"$1\\['en'\\]",
+					"$1\\.en",
+					"$1\\['EN'\\]",
+					"getModelNumberById",
+					"hint=\"I do form processing and data validation\"",
+					"Return",
+					"variables.instance.dsn",
+					"variables.fw.setView( local.viewAction );",
+					"debug",
+					"qCreateResult[\"IDENTITYCOL\"]",
+					"<!--- Display form-wide error messages --->",
+					"site.user.myaccount",
+					"// Build internal form fields structure",
+					"\n	<property>\n		<key>step2</key>\n		<value>\n			<en lastChange=\"09/9/2013\">Step 2</en>\n			<es lastChange=\"09/9/2013\">Step 2</es>\n			<ru lastChange=\"09/9/2013\">Step 2</ru>\n		</value>\n	</property>",
+					".m-Left50 { margin-left:50px !important }",
+					"rc.qIndustries",
+					"$1$2",
+					"$1",
+					"Bean is passed in by reference",
+					"dbMaintenanceActive",
+					"<key>pageTitle</key>",
+					"insuranceClaims",
+					"<cfset variables.fw = arguments.fw />",
+					"rc.ads.allAds",
+					"<key>Rack-mount UPS for Server Rooms &amp; Data Centers",
+					"<property>\n		<key>intro</key>\n		<value>\n			<en lastChange=\"05/23/2013\">\n				<![CDATA[\n					<p>To purchase Tripp Lite products, choose your contract below and then select an authorized reseller</p>\n				]]>\n			</en>\n			<es lastChange=\"05/23/2013\"></es>\n			<ru lastChange=\"05/23/2013\"></ru>\n		</value>\n	</property>	",
+					"{$1.$2}",
+					"$1.$2",
+					"local.linkSubstituteValues",
+					"getLinkSubstituteValues",
+					"link.support.productReturns",
+					"link.applications.homeOffice",
+					"productWarranty",
+					"Product Warranty",
+					"productWarrant",
+					"Warranty Coverage",
+					"warrantyCoverage",
+					"\n	<property>\n		<key>browseTAACompliantProducts</key>\n		<value>\n			<en lastChange=\"03/11/2013\">Browse our full line of TAA-compliant products for GSA Schedule purchases.</en>\n			<es lastChange=\"03/11/2013\"></es>\n			<ru lastChange=\"03/11/2013\"></ru>\n		</value>\n	</property>",
+					"PartnerAndProductLine",
+					"cfargument name=\"fieldlist\" type=\"string\" required=\"false\" default=\"*\"",
+					"cfargument name=\"fieldlist\" type=\"string\" default=\"*\"",
+					"newsite.model.beans.",
+					"partner",
+					"\n				<cfif structKeyExists(arguments, \"partnerID\") AND len(arguments.partnerID)>\n					Partner_ID = <cfqueryparam value=\"#arguments.partnerID#\" cfsqltype=\"CF_SQL_BIGINT\" />,\n				</cfif>",
+					"- Resource Bundle</comment>",
+					"Removed",
+					">\";",
+					"isDataForPropertyValidCustom",
+					"Object",
+					"object",
+					"arguments",
+					"02/04/2013",
+					"whereToBuy.",
+					"newsite.",
+					"newsite.model",
+					"rc."
+				],
+				"reverse": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 36.0
+			},
+			"input":
+			{
+				"height": 32.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"master",
+						"resourceBundles/masterForm/masterForm.xml"
+					],
+					[
+						"tripcss",
+						"assets/css/tripplite.css"
+					],
+					[
+						"warrcss",
+						"assets/css/tripplite.support.productWarranty.css"
+					],
+					[
+						"warrprefo",
+						"model/builder/WarrantyPreFormBuilder.cfc"
+					],
+					[
+						"warranxml",
+						"resourceBundles/support/productWarrantyRegistration.xml"
+					],
+					[
+						"warxml",
+						"resourceBundles/support/productWarrantyRegistration.xml"
+					],
+					[
+						"roum",
+						"logs/routeMatches.txt"
+					],
+					[
+						"userbea",
+						"model/beans/UserBean.cfc"
+					],
+					[
+						"warfo",
+						"model/builder/WarrantyFormBuilder.cfc"
+					],
+					[
+						"page",
+						"controllers/pages.cfc"
+					],
+					[
+						"minicfm",
+						"views/pages/minicom.cfm"
+					],
+					[
+						"defa",
+						"layouts/default.cfm"
+					],
+					[
+						"header",
+						"views/header.cfm"
+					],
+					[
+						"reser",
+						"controllers/resellers.cfc"
+					],
+					[
+						"baseser",
+						"model/services/BaseService.cfc"
+					],
+					[
+						"forbu",
+						"model/builder/FormBuilder.cfc"
+					],
+					[
+						"formser",
+						"model/services/FormService.cfc"
+					],
+					[
+						"myapfob",
+						"model/builder/MyAccountProfileFormBuilder.cfc"
+					],
+					[
+						"formbu",
+						"model/builder/FormBuilder.cfc"
+					],
+					[
+						"gelisfo",
+						"model/builder/GetListedFormBuilder.cfc"
+					],
+					[
+						"modser",
+						"model/services/ModelService.cfc"
+					],
+					[
+						"userga",
+						"model/gateways/UserGateway.cfc"
+					],
+					[
+						"fra",
+						"org/corfield/framework.cfc"
+					],
+					[
+						"modelga",
+						"model/gateways/ModelGateway.cfc"
+					],
+					[
+						"modelda",
+						"model/dao/ModelDAO.cfc"
+					],
+					[
+						"getli",
+						"model/builder/GetListedFormBuilder.cfc"
+					],
+					[
+						"where",
+						"controllers/whereToBuy.cfc"
+					],
+					[
+						"geoga",
+						"model/gateways/GeographyGateway.cfc"
+					],
+					[
+						"geoser",
+						"model/services/GeographyService.cfc"
+					],
+					[
+						"basebe",
+						"model/beans/BaseBean.cfc"
+					],
+					[
+						"main",
+						"controllers/main.cfc"
+					],
+					[
+						"basbe",
+						"model/beans/BaseBean.cfc"
+					],
+					[
+						"fid",
+						"resourceBundles/masterForm/fieldDataErrors.xml"
+					],
+					[
+						"mastf",
+						"resourceBundles/masterForm/masterForm.xml"
+					],
+					[
+						"basser",
+						"model/services/BaseService.cfc"
+					],
+					[
+						"companyg",
+						"model/gateways/CompanyGateway.cfc"
+					],
+					[
+						"compan",
+						"model/services/CompanyService.cfc"
+					],
+					[
+						"data",
+						"views/pages/dataCenterPowerAudit.cfm"
+					],
+					[
+						"datcentpo",
+						"assets/js/tripplite.pages.dataCenterPowerAudit.js"
+					],
+					[
+						"userpub",
+						"model/beans/UserPurchasesBean.cfc"
+					],
+					[
+						"userpuga",
+						"model/gateways/UserPurchasesGateway.cfc"
+					],
+					[
+						"userp",
+						"model/dao/UserPurchasesDAO.cfc"
+					],
+					[
+						"userpuser",
+						"model/services/UserPurchasesService.cfc"
+					],
+					[
+						"userda",
+						"model/dao/UserDAO.cfc"
+					],
+					[
+						"hea",
+						"views/header.cfm"
+					],
+					[
+						"pordusj",
+						"assets/js/tripplite.support.productSupportForm.js"
+					],
+					[
+						"produspjs",
+						"assets/js/tripplite.support.productSupportForm.js"
+					],
+					[
+						"productsup",
+						"model/builder/ProductSupportFormBuilder.cfc"
+					],
+					[
+						"mast",
+						"resourceBundles/masterForm/masterForm.xml"
+					],
+					[
+						"tripp",
+						"resourceBundles/tripplite.xml"
+					],
+					[
+						"head",
+						"views/header.cfm"
+					],
+					[
+						"fiel",
+						"resourceBundles/masterForm/fieldDataErrors.xml"
+					],
+					[
+						"field",
+						"resourceBundles/masterForm/fieldDataErrors.xml"
+					],
+					[
+						"trippjs",
+						"assets/js/tripplite.js"
+					],
+					[
+						"modelser",
+						"model/services/ModelService.cfc"
+					],
+					[
+						"masterfo",
+						"resourceBundles/masterForm/masterForm.xml"
+					],
+					[
+						"utis",
+						"model/services/UtilityService.cfc"
+					],
+					[
+						"utitl",
+						"lp/policy/international-ultimate-lifetime-protection-policy.cfm"
+					],
+					[
+						"web",
+						"web.config"
+					],
+					[
+						"utili",
+						"model/services/UtilityService.cfc"
+					],
+					[
+						"proware",
+						"resourceBundles/support/productWarrantyRegistration.xml"
+					],
+					[
+						"produsup",
+						"resourceBundles/support/productSupportForm.xml"
+					],
+					[
+						"prodsuppjs",
+						"assets/js/tripplite.support.productSupportForm.js"
+					],
+					[
+						"produsupp",
+						"model/builder/ProductSupportFormBuilder.cfc"
+					],
+					[
+						"rout",
+						"logs/routeMatches.txt"
+					],
+					[
+						"fram",
+						"org/corfield/framework.cfc"
+					],
+					[
+						"fie",
+						"resourceBundles/masterForm/fieldDataErrors.xml"
+					],
+					[
+						"trip",
+						"assets/css/tripplite.css"
+					],
+					[
+						"producwarxm",
+						"resourceBundles/support/productWarrantyRegistration.xml"
+					],
+					[
+						"requ",
+						"resourceBundles/masterForm/requiredFieldErrors.xml"
+					],
+					[
+						"prosubui",
+						"model/builder/ProductSupportFormBuilder.cfc"
+					],
+					[
+						"produsfbu",
+						"model/builder/ProductSupportFormBuilder.cfc"
+					],
+					[
+						"mya",
+						"controllers/myAccount.cfc"
+					],
+					[
+						"formfiel",
+						"resourceBundles/masterForm/requiredFieldErrors.xml"
+					],
+					[
+						"requi",
+						"resourceBundles/masterForm/requiredFieldErrors.xml"
+					],
+					[
+						"produsj",
+						"assets/js/tripplite.support.productSupportForm.js"
+					],
+					[
+						"produsu",
+						"model/builder/ProductSupportFormBuilder.cfc"
+					],
+					[
+						"porwajs",
+						"assets/js/tripplite.support.productWarrantyRegistration.js"
+					],
+					[
+						"poplogin",
+						"views/popup/login.cfm"
+					],
+					[
+						"heade",
+						"views/header.cfm"
+					],
+					[
+						"login",
+						"assets/js/tripplite.login.js"
+					],
+					[
+						"golfo",
+						"model/builder/GoldenResellerSignupFormBuilder.cfc"
+					],
+					[
+						"war",
+						"model/builder/WarrantyFormBuilder.cfc"
+					],
+					[
+						"godfom",
+						"model/builder/GoldenResellerSignupFormBuilder.cfc"
+					],
+					[
+						"rese",
+						"controllers/resellers.cfc"
+					],
+					[
+						"userser",
+						"model/services/UserService.cfc"
+					],
+					[
+						"producwa",
+						"assets/css/tripplite.support.productWarranty.css"
+					],
+					[
+						"produga",
+						"model/gateways/ProductGateway.cfc"
+					],
+					[
+						"datpicss",
+						"assets/css/datepicker.css"
+					],
+					[
+						"datpijs",
+						"assets/js/bootstrap-datepicker.js"
+					],
+					[
+						"myprojs",
+						"assets/js/tripplite.myAccount.products.js"
+					],
+					[
+						"myapro",
+						"model/builder/MyAccountProductsFormBuilder.cfc"
+					],
+					[
+						"my",
+						"controllers/myAccount.cfc"
+					],
+					[
+						"forser",
+						"model/services/FormService.cfc"
+					],
+					[
+						"footer",
+						"views/footer.cfm"
+					],
+					[
+						"suppwarrjs",
+						"assets/js/tripplite.support.productWarrantyRegistration.js"
+					],
+					[
+						"warr",
+						"model/builder/WarrantyFormBuilder.cfc"
+					],
+					[
+						"parga",
+						"model/gateways/PartnerGateway.cfc"
+					],
+					[
+						"par",
+						"model/services/PartnerService.cfc"
+					],
+					[
+						"partnl",
+						"views/whereToBuy/partnerList.cfm"
+					],
+					[
+						"usersubd",
+						"model/dao/UserSubscriptionsDAO.cfc"
+					],
+					[
+						"ussus",
+						"model/services/UserSubscriptionService.cfc"
+					],
+					[
+						"myasubf",
+						"model/builder/MyAccountSubscriptionsFormBuilder.cfc"
+					],
+					[
+						"myac",
+						"views/support/myAccount.cfm"
+					],
+					[
+						"s",
+						"controllers/support.cfc"
+					],
+					[
+						"stand",
+						"layouts/standAlone.cfm"
+					],
+					[
+						"pages",
+						"controllers/pages.cfc"
+					],
+					[
+						"searfa",
+						"views/main/searchFaq.cfm"
+					],
+					[
+						"searj",
+						"assets/js/tripplite.search.js"
+					],
+					[
+						"dum",
+						"logs/dumpException.txt"
+					],
+					[
+						"myreg",
+						"model/builder/MyAccountRegisterFormBuilder.cfc"
+					],
+					[
+						"produwarre",
+						"assets/js/tripplite.support.productWarrantyRegistration.js"
+					],
+					[
+						"searccfm",
+						"views/support/search.cfm"
+					],
+					[
+						"formhan",
+						"model/builder/FormHandleBuilder.cfc"
+					],
+					[
+						"myacnew",
+						"model/builder/MyAccountNewsletterFormBuilder.cfc"
+					],
+					[
+						"regiform",
+						"model/builder/MyAccountRegisterFormBuilder.cfc"
+					],
+					[
+						"defaul",
+						"layouts/default.cfm"
+					],
+					[
+						"geogat",
+						"model/gateways/GeographyGateway.cfc"
+					],
+					[
+						"finderse",
+						"model/services/FinderService.cfc"
+					],
+					[
+						"produser",
+						"model/services/ProductService.cfc"
+					],
+					[
+						"fins",
+						"model/services/FinderService.cfc"
+					],
+					[
+						"produ",
+						"controllers/products.cfc"
+					],
+					[
+						"searchser",
+						"model/services/searchService.cfc"
+					],
+					[
+						"searcser",
+						"model/services/searchService.cfc"
+					],
+					[
+						"serser",
+						"model/services/UserService.cfc"
+					],
+					[
+						"suppdowj",
+						"assets/js/tripplite.support.downloads.js"
+					],
+					[
+						"supojs",
+						"assets/js/tripplite.support.js"
+					],
+					[
+						"supp",
+						"layouts/support.cfm"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"",
+						"/C/Users/fcarmona/AppData/Roaming/Sublime Text 2/Sublime Projects/tripplite.sublime-project"
+					]
+				],
+				"width": 630.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 316.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1662.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"confir",
+						"confirmEmailAddress"
+					],
+					[
+						"userpur",
+						"userPurchaseCreate"
+					],
+					[
+						"wri",
+						"writeDump	fn. (cfscript)"
+					],
+					[
+						"serialN",
+						"serialNumberBoxes"
+					],
+					[
+						"has",
+						"hasSerialNumber"
+					],
+					[
+						"mon",
+						"modelNumber1"
+					],
+					[
+						"attrib",
+						"attributes"
+					],
+					[
+						"img",
+						"imageFilename"
+					],
+					[
+						"cf",
+						"CF_SQL_VARCHAR"
+					],
+					[
+						"compinoth",
+						"companyIndustryDomesticOther"
+					],
+					[
+						"companindu",
+						"companyIndustryDomesticOther"
+					],
+					[
+						"wir",
+						"writeOutput	fn. (cfscript)"
+					],
+					[
+						"var",
+						"variables"
+					],
+					[
+						"obj",
+						"objCompany"
+					],
+					[
+						"company",
+						"companyBean"
+					],
+					[
+						"getBy",
+						"getCompanyById"
+					],
+					[
+						"compindoth",
+						"companyIndustryDomesticOther"
+					],
+					[
+						"requir",
+						"required"
+					],
+					[
+						"comsize",
+						"companySizeDomestic"
+					],
+					[
+						"companis",
+						"companyIndustryInternational"
+					],
+					[
+						"domestic",
+						"companyIndustryDomestic"
+					],
+					[
+						"prodl",
+						"productUsageLocation"
+					],
+					[
+						"pru",
+						"productUsageLocation"
+					],
+					[
+						"job",
+						"jobTitleParent"
+					],
+					[
+						"compa",
+						"companyName"
+					],
+					[
+						"Company",
+						"Company_Size_ID"
+					],
+					[
+						"qind",
+						"qCompanyIndustryDomestic"
+					],
+					[
+						"Company_Indus",
+						"_Company_Industry"
+					],
+					[
+						"va",
+						"variables"
+					],
+					[
+						"qcompa",
+						"qCompanySizeLookup"
+					],
+					[
+						"getCompany",
+						"getCompanySizeLookupQuery"
+					],
+					[
+						"getnew",
+						"getNewResponse"
+					],
+					[
+						"qComa",
+						"qCompany"
+					],
+					[
+						"compan",
+						"companyID"
+					],
+					[
+						"las_",
+						"Last_Changed_At"
+					],
+					[
+						"companBean",
+						"CompanyBean"
+					],
+					[
+						"cf_sql",
+						"CF_SQL_BIGINT"
+					],
+					[
+						"produ",
+						"productUse"
+					],
+					[
+						"getProdu",
+						"getProductUse"
+					],
+					[
+						"newsle",
+						"newsletterSignup"
+					],
+					[
+						"remov",
+						"removeClass	.removeClass"
+					],
+					[
+						"togg",
+						"toggleCompanySize"
+					],
+					[
+						"prdu",
+						"productUsageLocation"
+					],
+					[
+						"m-Top",
+						"m-Top20"
+					],
+					[
+						"productUsa",
+						"productUsageLocation"
+					],
+					[
+						"product",
+						"productUsage"
+					],
+					[
+						"produc",
+						"productUsage"
+					],
+					[
+						"count",
+						"countryCode"
+					],
+					[
+						"coun",
+						"COUNTRY_NAME"
+					],
+					[
+						"getCountry",
+						"getCountry"
+					],
+					[
+						"disable",
+						"disabled"
+					],
+					[
+						"address",
+						"address1"
+					],
+					[
+						"logg",
+						"isUserLoggedIn"
+					],
+					[
+						"ched",
+						"checkedProductApplication"
+					],
+					[
+						"check",
+						"checked"
+					],
+					[
+						"targ",
+						"targetCheckbox"
+					],
+					[
+						"exlu",
+						"exclusiveNoLoad"
+					],
+					[
+						"target",
+						"targetApplication"
+					],
+					[
+						"user",
+						"userBean"
+					],
+					[
+						"btn",
+						"btnContinue"
+					],
+					[
+						"typ",
+						"type=\"exclusive\"	type"
+					],
+					[
+						"sc",
+						"scope=\"Session\"	scope"
+					],
+					[
+						"formfil",
+						"formFields"
+					],
+					[
+						"email",
+						"emailAddress"
+					],
+					[
+						"show",
+						"showPasswordBox"
+					],
+					[
+						"acti",
+						"active"
+					],
+					[
+						"pro",
+						"prop	.prop() - multiple"
+					],
+					[
+						"remo",
+						"removeAttr	.removeAttr()"
+					],
+					[
+						"chec",
+						"checked"
+					],
+					[
+						"Warrant",
+						"WarrantyFormBuilder"
+					],
+					[
+						"stdel",
+						"structDelete	fn. (cfscript)"
+					],
+					[
+						"pu",
+						"purchaseDate1"
+					],
+					[
+						"lisfin",
+						"listFind	fn. (cfscript)"
+					],
+					[
+						"antis",
+						"antiSpamResult"
+					],
+					[
+						"utility",
+						"utilityService"
+					],
+					[
+						"func",
+						"functionality"
+					],
+					[
+						"cfset",
+						"cfsetting	Tag (cmfl)"
+					],
+					[
+						"CFS",
+						"cfsetting"
+					],
+					[
+						"multi",
+						"multi-select"
+					],
+					[
+						"gole",
+						"goldenResellerSignup"
+					],
+					[
+						"gold",
+						"goldenResellerTraining"
+					],
+					[
+						"debuem",
+						"debugEmail"
+					],
+					[
+						"gol",
+						"goldenResellerSignup"
+					],
+					[
+						"resell",
+						"resellers"
+					],
+					[
+						"webuser",
+						"webUsersDynamicPropStruct"
+					],
+					[
+						"str",
+						"structIsEmpty	fn. (cfscript)"
+					],
+					[
+						"confirmatio",
+						"confirmationDisplayMessage"
+					],
+					[
+						"lead",
+						"leadSource"
+					],
+					[
+						"web",
+						"webteam"
+					],
+					[
+						"ipv",
+						"ipv6"
+					],
+					[
+						"gener",
+						"genericFormHandler"
+					],
+					[
+						"activity",
+						"activityID"
+					],
+					[
+						"activ",
+						"activityID"
+					],
+					[
+						"tyst",
+						"type=\"struct\"	type"
+					],
+					[
+						"sendemail",
+						"sendUserDataErrorEmail"
+					],
+					[
+						"fran",
+						"francisco_carmona"
+					],
+					[
+						"writ",
+						"writeDump	fn. (cfscript)"
+					],
+					[
+						"site",
+						"sitemap"
+					],
+					[
+						"cfs",
+						"cfscript	Tag (cmfl)"
+					],
+					[
+						"el",
+						"elDiv"
+					],
+					[
+						"data",
+						"dataCenterPowerAudit"
+					],
+					[
+						"powerAu",
+						"powerAuditForm"
+					],
+					[
+						"country",
+						"countryCode"
+					],
+					[
+						"industry",
+						"industry_name"
+					],
+					[
+						"Industry",
+						"industry_id"
+					],
+					[
+						"qindu",
+						"qIndustry"
+					],
+					[
+						"qIndu",
+						"qIndustries"
+					],
+					[
+						"indu",
+						"industry_name"
+					],
+					[
+						"qu",
+						"queryNew	fn. (cfscript)"
+					],
+					[
+						"Indus",
+						"Industries"
+					],
+					[
+						"industr",
+						"industryID"
+					],
+					[
+						"cfquer",
+						"cfqueryparam	Tag (cmfl)"
+					],
+					[
+						"IN",
+						"Industry"
+					],
+					[
+						"qryIndus",
+						"qryIndustry"
+					],
+					[
+						"PARTNER",
+						"Partner_Type_Text"
+					],
+					[
+						"qprod",
+						"qProductLineDetails"
+					],
+					[
+						"qProdu",
+						"qProductLine"
+					],
+					[
+						"customer",
+						"customerType"
+					],
+					[
+						"partner",
+						"partnerService"
+					],
+					[
+						"internal",
+						"internalEmailBody"
+					],
+					[
+						"coma",
+						"companyWebsite"
+					],
+					[
+						"pos",
+						"postalCode"
+					],
+					[
+						"stat",
+						"stateID"
+					],
+					[
+						"addre",
+						"address1"
+					],
+					[
+						"comp",
+						"companyName"
+					],
+					[
+						"parte",
+						"partnerTypeID"
+					],
+					[
+						"of",
+						"col-md-offset-1"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/fcarmona/Desktop/TO DO List.TODO",
+					"settings":
+					{
+						"buffer_size": 25033,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/fcarmona/Desktop/Local Environment.txt",
+					"settings":
+					{
+						"buffer_size": 4355,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/Application.cfc",
+					"settings":
+					{
+						"buffer_size": 31383,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/support.cfc",
+					"settings":
+					{
+						"buffer_size": 98639,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/WarrantyFormBuilder.cfc",
+					"settings":
+					{
+						"buffer_size": 45175,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.support.productWarrantyRegistration.js",
+					"settings":
+					{
+						"buffer_size": 10455,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/CompanyService.cfc",
+					"settings":
+					{
+						"buffer_size": 21323,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/CompanyGateway.cfc",
+					"settings":
+					{
+						"buffer_size": 15026,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/CompanyDAO.cfc",
+					"settings":
+					{
+						"buffer_size": 10994,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/beans/CompanyBean.cfc",
+					"settings":
+					{
+						"buffer_size": 5109,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/myAccount.cfc",
+					"settings":
+					{
+						"buffer_size": 41469,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/beans/UserBean.cfc",
+					"settings":
+					{
+						"buffer_size": 9796,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/support/productWarrantyRegistration.xml",
+					"settings":
+					{
+						"buffer_size": 12329,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/css/tripplite.support.productWarranty.css",
+					"settings":
+					{
+						"buffer_size": 761,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/css/tripplite.css",
+					"settings":
+					{
+						"buffer_size": 73916,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/products.cfc",
+					"settings":
+					{
+						"buffer_size": 102279,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/products/modelPrint.cfm",
+					"settings":
+					{
+						"buffer_size": 4003,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/FormBuilder.cfc",
+					"settings":
+					{
+						"buffer_size": 41029,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/UserPurchasesService.cfc",
+					"settings":
+					{
+						"buffer_size": 14610,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"ssyxm",
+						"Set Syntax: XML"
+					],
+					[
+						"sscfm",
+						"Set Syntax: ColdFusion Markup"
+					],
+					[
+						"ssyjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"snip",
+						"Snippet: rbproperty"
+					],
+					[
+						"sni",
+						"Snippet: rbproperty"
+					],
+					[
+						"ssyxml",
+						"Set Syntax: XML"
+					],
+					[
+						"ssxml",
+						"Set Syntax: XML"
+					],
+					[
+						"sn",
+						"Snippet: rbproperty"
+					],
+					[
+						"Snippet: ",
+						"Snippet: rbproperty"
+					],
+					[
+						"ssy",
+						"Set Syntax: HTML"
+					],
+					[
+						"ssycm",
+						"Set Syntax: ColdFusion Markup"
+					],
+					[
+						"ssyn",
+						"Set Syntax: XML"
+					],
+					[
+						"ssnxml",
+						"Set Syntax: XML"
+					],
+					[
+						"ssycf",
+						"Set Syntax: ColdFusion Component"
+					],
+					[
+						"SNIP",
+						"Snippet: rbproperty"
+					],
+					[
+						"ssynxm",
+						"Set Syntax: XML"
+					],
+					[
+						"ssynxml",
+						"Set Syntax: XML"
+					],
+					[
+						"snic",
+						"Snippet: CDATA"
+					],
+					[
+						"snipp",
+						"Snippet: rbproperty"
+					],
+					[
+						"ssxm",
+						"Set Syntax: XML"
+					],
+					[
+						"ssysq",
+						"Set Syntax: SQL"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pa",
+						"Package Control: Discover Packages"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"cd",
+						"Snippet: CDATA"
+					],
+					[
+						"SNI",
+						"Snippet: rbproperty"
+					],
+					[
+						"cda",
+						"Snippet: CDATA"
+					],
+					[
+						"sda",
+						"Preferences: Settings - Default"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"SNIp",
+						"Snippet: rbproperty"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"ssyh",
+						"Set Syntax: HTML"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"sss",
+						"Set Syntax: HTML (ASP)"
+					],
+					[
+						"s",
+						"Snippet: CDATA"
+					],
+					[
+						"insla",
+						"Package Control: Install Package"
+					],
+					[
+						"snipc",
+						"Snippet: CDATA"
+					],
+					[
+						"SNIPP",
+						"Snippet: rbproperty"
+					],
+					[
+						"snippr",
+						"Snippet: rbproperty"
+					],
+					[
+						"snipper",
+						"Snippet: rbproperty"
+					],
+					[
+						"snipr",
+						"Snippet: rbproperty"
+					],
+					[
+						"snippd",
+						"Snippet: CDATA"
+					],
+					[
+						"snipprb",
+						"Snippet: rbproperty"
+					],
+					[
+						"SNIPPC",
+						"Snippet: CDATA"
+					],
+					[
+						"snippe",
+						"Snippet: CDATA"
+					],
+					[
+						"ssyncfm",
+						"Set Syntax: ColdFusion Markup"
+					],
+					[
+						"removpa",
+						"Package Control: Remove Package"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"F",
+						"Fetch: Package"
+					],
+					[
+						"installpa",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"installp",
+						"Package Control: Install Package"
+					],
+					[
+						"packains",
+						"Package Control: Install Package"
+					],
+					[
+						"packin",
+						"Package Control: Install Package"
+					],
+					[
+						"ssyncold",
+						"Set Syntax: ColdFusion Markup"
+					],
+					[
+						"ssyncom",
+						"Set Syntax: ColdFusion Markup"
+					],
+					[
+						"ssycol",
+						"Set Syntax: ColdFusion Component"
+					],
+					[
+						"ssynco",
+						"Set Syntax: ColdFusion Component"
+					],
+					[
+						"ssynhtm",
+						"Set Syntax: HTML"
+					],
+					[
+						"instalpa",
+						"Package Control: Install Package"
+					],
+					[
+						"ssyncol",
+						"Set Syntax: ColdFusion Component"
+					],
+					[
+						"fetp",
+						"Fetch: Package"
+					],
+					[
+						"fet",
+						"Fetch: Manage"
+					],
+					[
+						"open",
+						"File: Open In Browser - Production Server"
+					],
+					[
+						"task",
+						"Tasks: New document"
+					],
+					[
+						"fetc",
+						"Fetch: File"
+					],
+					[
+						"ssncold",
+						"Set Syntax: ColdFusion Markup"
+					],
+					[
+						"ssn col",
+						"Set Syntax: ColdFusion Markup"
+					],
+					[
+						"sscol",
+						"Set Syntax: ColdFusion Markup"
+					],
+					[
+						"ssyhtm",
+						"Set Syntax: HTML"
+					],
+					[
+						"chang",
+						"ChangeQuotes"
+					],
+					[
+						"change",
+						"ChangeQuotes"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"INSTALL ",
+						"Package Control: Install Package"
+					],
+					[
+						"INSTALL PA",
+						"Package Control: Install Package"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 386.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/main.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/UserService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/ResourceBundleService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/bootstrap-datepicker.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/ProductService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/products/category.xml",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/WarrantyPreFormBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/header.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/org/corfield/framework.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/logs/dumpException.txt",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/logs/routeMatches.txt",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/UserPurchasesService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/FormBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/support/test.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/web.config",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/masterForm/masterForm.xml",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/support/productWarrantyRegistration.xml",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/applications.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/buyingGuides.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/company.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/pages.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/portals.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/products.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/reports.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/resellers.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/security.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/tasks.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/whereToBuy.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/pages/minicom.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/layouts/default.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/WarrantyFormBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/FormService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/MyAccountProfileFormBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/BaseService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/beans/UserBean.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/UserDAO.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/UserPurchasesDAO.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/UserPurchasesGateway.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/beans/UserPurchasesBean.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/beans/ModelBean.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.support.productWarrantyRegistration.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/CompanyService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/CompanyGateway.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/CompanyDAO.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/beans/CompanyBean.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/ModelDAO.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/ModelGateway.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/ModelService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.support.productSupportForm.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/GeographyService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/FormHandleBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/myAccount.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.support.productTroubleshooters.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.myAccount.newsletter.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/GetListedFormBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/UserGateway.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/GeographyGateway.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/beans/BaseBean.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/main/generic.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/masterForm/fieldDataErrors.xml",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/CompanyBean.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/CompanyDAO.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/CompanyGateway.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/formValidator.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.pages.dataCenterPowerAudit.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/pages/dataCenterPowerAudit.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/lp/direct/IT-infrastructure-solutions/index.html",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/ProductSupportFormBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/GeneralInquiriesFormBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/tripplite.xml",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/MyAccountRegisterFormBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/UtilityService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/lp/policy/international-ultimate-lifetime-protection-policy.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/applications/government.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/TaskService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/support/productSupportForm.xml",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/css/tripplite.css",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/support/productWarrantyRegistrationRecentWinners.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/MyAccountProductsFormBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/main/masterForm.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/masterForm/requiredFieldErrors.xml",
+				"/C/Users/fcarmona/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/WishlistService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/myAccount/login.xml",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.login.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/popup/login.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/GoldenResellerSignupFormBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/css/tripplite.support.productWarranty.css",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/ProductGateway.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.myAccount.products.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/css/datepicker.css",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/css/jquery.datepick.css",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/footer.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.whereToBuy.partnerList.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/whereToBuy/partnerList.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/PartnerService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/PartnerGateway.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/support/myAccount.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/MyAccountSubscriptionsFormBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/UserSubscriptionService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/UserSubscriptionsDAO.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/support/unsubscribe.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/layouts/standAlone.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/layouts/pages.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/main/searchFaq.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/support.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.search.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/support/search.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/MyAccountNewsletterFormBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/searchService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.resellers.downloads.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.support.downloads.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/FinderService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/lp/direct/inverter-chargers-for-sump-pumps/index.html",
+				"/J/Current Jobs/2013/12 - 2013/13-12-017 WWW - Page Change - Sump Pump Landing Page/original.html",
+				"/G/Marcom/Copy & Design Boiler Plates & Templates/Tripplite Landing Page Form Template 2014/it-infrastructure-solutions/index.html",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/main/ajax.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/sidebar.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/support/downloads.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/layouts/support.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.support.js",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/EmailContactFormBuilder.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/rviListService.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/searchGateway.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/products/modelCompare.cfm",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/Utilities.cfc",
+				"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/ResourceBundle.cfc"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model\\services",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model\\beans",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model\\gateways",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\resourceBundles",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\resoureBundles",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\controllers",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model\\builder",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\controllers",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model\\builder",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\old.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\controllers",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\resourceBundles",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\resourceBundles",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\old.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com/assets",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\old.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\old.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\old.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model, C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\controllers, C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\views",
+					"-C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\assets",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite,-C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\assets",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model\\services",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model\\services",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model\\services",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model\\services",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\resourceBundles",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\assets",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\layouts",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\controllers, C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model, C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\views",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\controllers, C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model, C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\view",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite,-/assets",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite,-\\assets",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+					"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"rc.modelInfo",
+					"CompanyType_ID",
+					"LocPostalCode",
+					"setLocPostalCode",
+					"CompanyPostalCode",
+					"setCompanyPostalCode",
+					"LocPostalCode",
+					"userPurchaseBean",
+					"<cfreturn ",
+					"this",
+					"purchaseDate1",
+					"this.DOMRefs",
+					"checkin",
+					"purchaseDate1",
+					"datepicker",
+					"nowTemp",
+					"setValue",
+					"onRender",
+					"update",
+					".trigger",
+					"changeDate",
+					"onRender",
+					"this",
+					"changeDate",
+					"event",
+					"onRender",
+					"this",
+					"maxDate",
+					"logFile",
+					"routeMatches",
+					"logFile",
+					"objUser",
+					"rc.lang",
+					"objUser",
+					"rc.lang",
+					"<Cfif",
+					"' disabled'",
+					"' readOnly'",
+					"disabled",
+					"Editable and postable capability for the field",
+					"disabled",
+					"Disable",
+					"disabled",
+					"<cfargument name=\"disabled\"",
+					"<cfargument name=\"disabled\" type=\"boolean\" required=\"false\" default=\"false\" hint=\"Editable capability for the field\" />",
+					"disabled",
+					"' disabled'",
+					"disabled",
+					"reloadApplicationOnEveryRequest",
+					"dataStruct",
+					"register",
+					"registerProd",
+					"countryCode",
+					"formFields.countryCode",
+					"countryCode",
+					"CountryCode",
+					"countryCode",
+					"CountryCode",
+					"countryCode",
+					"CountryCode",
+					"countryCode",
+					"CountryCode",
+					"countryCode",
+					"eps|xls",
+					"eps",
+					"|html?|ico|jpe?g|js|pdf|png|swf|txt|xml|svg|eot|ttf|woff",
+					"''",
+					"rc.rbPage",
+					"Value text",
+					"btnRecentWinnersOK",
+					"Recent Winners",
+					"btnRecentWinnersOK",
+					"04",
+					"rc.lang( |)=",
+					"param name=\"rc.lang\"",
+					"rc.lang",
+					"param name=\"rc.lang\"",
+					"param name=\"rc.lang\" default=\"#rc.objUser.getLanguage()#\";",
+					"param name=\"rc.lang\"",
+					"rc.lang",
+					"param name=\"rc.lang\"",
+					"rc.lang",
+					"param name=\"rc.lang\"",
+					"<cfparam name=\"rc.lang\" default=\"en\"> <!--- this method is capable of producing sitemaps in any supported language --->",
+					"param name=\"rc.lang\"",
+					"rc.lang",
+					"param name=\"rc.lang\"",
+					"rc.lang",
+					"param name=\"rc.lang\"",
+					"rc.lang",
+					"param name=\"rc.lang\"",
+					"rc.lang",
+					"objUser.getLanguage",
+					"rc.objUser",
+					"rc.lang",
+					"rc.countryCode",
+					"pageScore",
+					"siteMaintenanceCheck",
+					"rc.country",
+					"rc.lang",
+					"rc.ads.allAds",
+					"lang( |)=",
+					"rc.lang( |)=",
+					"flex",
+					"allied",
+					"rc.lang",
+					"lang",
+					"rc.lang",
+					"rc.langg",
+					"s=\"col-md-5\">",
+					"&nbsp; <!--- Spacer --->",
+					"<div class=\"row\">",
+					"</div>",
+					"div class",
+					"div class=\"row\"",
+					"<div class",
+					"processForm",
+					"cffunction name",
+					"init",
+					"createInputRadioGroup",
+					"cffunction name",
+					"this.",
+					"getSalutations",
+					"cffunction name",
+					"name",
+					"cffunction",
+					"writedu",
+					"userBean"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"param name=\"rc.lang\" default=rc.objUser.getLanguage();",
+					"w",
+					".$1",
+					"bean.$1",
+					"$1",
+					"ajaxResponseJSON",
+					"rbPage.",
+					"main.generic",
+					"rc.displayMessage",
+					"MID",
+					"rc.lang",
+					"$1\\['EN'\\]",
+					"$1\\['en'\\]",
+					"$1\\.en",
+					"$1\\['en'\\]",
+					"$1\\.en",
+					"$1\\['EN'\\]",
+					"getModelNumberById",
+					"hint=\"I do form processing and data validation\"",
+					"Return",
+					"variables.instance.dsn",
+					"variables.fw.setView( local.viewAction );",
+					"debug",
+					"qCreateResult[\"IDENTITYCOL\"]",
+					"<!--- Display form-wide error messages --->",
+					"site.user.myaccount",
+					"// Build internal form fields structure",
+					"\n	<property>\n		<key>step2</key>\n		<value>\n			<en lastChange=\"09/9/2013\">Step 2</en>\n			<es lastChange=\"09/9/2013\">Step 2</es>\n			<ru lastChange=\"09/9/2013\">Step 2</ru>\n		</value>\n	</property>",
+					".m-Left50 { margin-left:50px !important }",
+					"rc.qIndustries",
+					"$1$2",
+					"$1",
+					"Bean is passed in by reference",
+					"dbMaintenanceActive",
+					"<key>pageTitle</key>",
+					"insuranceClaims",
+					"<cfset variables.fw = arguments.fw />",
+					"rc.ads.allAds",
+					"<key>Rack-mount UPS for Server Rooms &amp; Data Centers",
+					"<property>\n		<key>intro</key>\n		<value>\n			<en lastChange=\"05/23/2013\">\n				<![CDATA[\n					<p>To purchase Tripp Lite products, choose your contract below and then select an authorized reseller</p>\n				]]>\n			</en>\n			<es lastChange=\"05/23/2013\"></es>\n			<ru lastChange=\"05/23/2013\"></ru>\n		</value>\n	</property>	",
+					"{$1.$2}",
+					"$1.$2",
+					"local.linkSubstituteValues",
+					"getLinkSubstituteValues",
+					"link.support.productReturns",
+					"link.applications.homeOffice",
+					"productWarranty",
+					"Product Warranty",
+					"productWarrant",
+					"Warranty Coverage",
+					"warrantyCoverage",
+					"\n	<property>\n		<key>browseTAACompliantProducts</key>\n		<value>\n			<en lastChange=\"03/11/2013\">Browse our full line of TAA-compliant products for GSA Schedule purchases.</en>\n			<es lastChange=\"03/11/2013\"></es>\n			<ru lastChange=\"03/11/2013\"></ru>\n		</value>\n	</property>",
+					"PartnerAndProductLine",
+					"cfargument name=\"fieldlist\" type=\"string\" required=\"false\" default=\"*\"",
+					"cfargument name=\"fieldlist\" type=\"string\" default=\"*\"",
+					"newsite.model.beans.",
+					"partner",
+					"\n				<cfif structKeyExists(arguments, \"partnerID\") AND len(arguments.partnerID)>\n					Partner_ID = <cfqueryparam value=\"#arguments.partnerID#\" cfsqltype=\"CF_SQL_BIGINT\" />,\n				</cfif>",
+					"- Resource Bundle</comment>",
+					"Removed",
+					">\";",
+					"isDataForPropertyValidCustom",
+					"Object",
+					"object",
+					"arguments",
+					"02/04/2013",
+					"whereToBuy.",
+					"newsite.",
+					"newsite.model",
+					"rc."
+				],
+				"reverse": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/fcarmona/Desktop/TO DO List.TODO",
+							"settings":
+							{
+								"buffer_size": 25033,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										14121,
+										14121
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PlainTasks/PlainTasks.tmLanguage",
+									"tab_size": 3,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2928.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/fcarmona/Desktop/Local Environment.txt",
+							"settings":
+							{
+								"buffer_size": 4355,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3272,
+										3274
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1123.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/Application.cfc",
+							"settings":
+							{
+								"buffer_size": 31383,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										30944,
+										30944
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 835.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/support.cfc",
+							"settings":
+							{
+								"buffer_size": 98639,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										67001,
+										67001
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1673.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/WarrantyFormBuilder.cfc",
+							"settings":
+							{
+								"buffer_size": 45175,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										39876,
+										39876
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 11141.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.support.productWarrantyRegistration.js",
+							"settings":
+							{
+								"buffer_size": 10455,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/CompanyService.cfc",
+							"settings":
+							{
+								"buffer_size": 21323,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5028,
+										5028
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/CompanyGateway.cfc",
+							"settings":
+							{
+								"buffer_size": 15026,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										11418,
+										11418
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/CompanyDAO.cfc",
+							"settings":
+							{
+								"buffer_size": 10994,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6230,
+										6230
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 821.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/beans/CompanyBean.cfc",
+							"settings":
+							{
+								"buffer_size": 5109,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										517,
+										524
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/myAccount.cfc",
+							"settings":
+							{
+								"buffer_size": 41469,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										39406,
+										39406
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 746.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/beans/UserBean.cfc",
+							"settings":
+							{
+								"buffer_size": 9796,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/support/productWarrantyRegistration.xml",
+							"settings":
+							{
+								"buffer_size": 12329,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										12161,
+										12163
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/XML/XML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 540.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/css/tripplite.support.productWarranty.css",
+							"settings":
+							{
+								"buffer_size": 761,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										570,
+										570
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/css/tripplite.css",
+							"settings":
+							{
+								"buffer_size": 73916,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										40444,
+										40444
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 15814.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 15,
+							"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/products.cfc",
+							"settings":
+							{
+								"buffer_size": 102279,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										19747,
+										19747
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 328.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 16,
+							"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/products/modelPrint.cfm",
+							"settings":
+							{
+								"buffer_size": 4003,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										540,
+										496
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ColdFusion/HTML+CFML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 17,
+							"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/FormBuilder.cfc",
+							"settings":
+							{
+								"buffer_size": 41029,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										28890,
+										28890
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 4087.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 18,
+							"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/UserPurchasesService.cfc",
+							"settings":
+							{
+								"buffer_size": 14610,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										14539,
+										14442
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 225.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 36.0
+			},
+			"input":
+			{
+				"height": 32.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0,2,3,-1,-1,-1,-1,1032,25,10,1703",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"modelp",
+						"views/products/modelPrint.cfm"
+					],
+					[
+						"main",
+						"controllers/main.cfc"
+					],
+					[
+						"userser",
+						"model/services/UserService.cfc"
+					],
+					[
+						"cat",
+						"resourceBundles/products/category.xml"
+					],
+					[
+						"prodser",
+						"model/services/ProductService.cfc"
+					],
+					[
+						"pro",
+						"controllers/products.cfc"
+					],
+					[
+						"boostdat",
+						"assets/js/bootstrap-datepicker.js"
+					],
+					[
+						"war",
+						"model/builder/WarrantyPreFormBuilder.cfc"
+					],
+					[
+						"fram",
+						"org/corfield/framework.cfc"
+					],
+					[
+						"produser",
+						"model/services/ProductService.cfc"
+					],
+					[
+						"head",
+						"views/header.cfm"
+					],
+					[
+						"userpuser",
+						"model/services/UserPurchasesService.cfc"
+					],
+					[
+						"dum",
+						"logs/dumpException.txt"
+					],
+					[
+						"rou",
+						"logs/routeMatches.txt"
+					],
+					[
+						"forbu",
+						"model/builder/FormBuilder.cfc"
+					],
+					[
+						"produ",
+						"controllers/products.cfc"
+					],
+					[
+						"modprin",
+						"views/products/modelPrint.cfm"
+					],
+					[
+						"web",
+						"web.config"
+					],
+					[
+						"master",
+						"resourceBundles/masterForm/masterForm.xml"
+					],
+					[
+						"tripcss",
+						"assets/css/tripplite.css"
+					],
+					[
+						"warrcss",
+						"assets/css/tripplite.support.productWarranty.css"
+					],
+					[
+						"warrprefo",
+						"model/builder/WarrantyPreFormBuilder.cfc"
+					],
+					[
+						"warranxml",
+						"resourceBundles/support/productWarrantyRegistration.xml"
+					],
+					[
+						"warxml",
+						"resourceBundles/support/productWarrantyRegistration.xml"
+					],
+					[
+						"roum",
+						"logs/routeMatches.txt"
+					],
+					[
+						"userbea",
+						"model/beans/UserBean.cfc"
+					],
+					[
+						"warfo",
+						"model/builder/WarrantyFormBuilder.cfc"
+					],
+					[
+						"page",
+						"controllers/pages.cfc"
+					],
+					[
+						"minicfm",
+						"views/pages/minicom.cfm"
+					],
+					[
+						"defa",
+						"layouts/default.cfm"
+					],
+					[
+						"header",
+						"views/header.cfm"
+					],
+					[
+						"reser",
+						"controllers/resellers.cfc"
+					],
+					[
+						"baseser",
+						"model/services/BaseService.cfc"
+					],
+					[
+						"formser",
+						"model/services/FormService.cfc"
+					],
+					[
+						"myapfob",
+						"model/builder/MyAccountProfileFormBuilder.cfc"
+					],
+					[
+						"formbu",
+						"model/builder/FormBuilder.cfc"
+					],
+					[
+						"gelisfo",
+						"model/builder/GetListedFormBuilder.cfc"
+					],
+					[
+						"modser",
+						"model/services/ModelService.cfc"
+					],
+					[
+						"userga",
+						"model/gateways/UserGateway.cfc"
+					],
+					[
+						"fra",
+						"org/corfield/framework.cfc"
+					],
+					[
+						"modelga",
+						"model/gateways/ModelGateway.cfc"
+					],
+					[
+						"modelda",
+						"model/dao/ModelDAO.cfc"
+					],
+					[
+						"getli",
+						"model/builder/GetListedFormBuilder.cfc"
+					],
+					[
+						"where",
+						"controllers/whereToBuy.cfc"
+					],
+					[
+						"geoga",
+						"model/gateways/GeographyGateway.cfc"
+					],
+					[
+						"geoser",
+						"model/services/GeographyService.cfc"
+					],
+					[
+						"basebe",
+						"model/beans/BaseBean.cfc"
+					],
+					[
+						"basbe",
+						"model/beans/BaseBean.cfc"
+					],
+					[
+						"fid",
+						"resourceBundles/masterForm/fieldDataErrors.xml"
+					],
+					[
+						"mastf",
+						"resourceBundles/masterForm/masterForm.xml"
+					],
+					[
+						"basser",
+						"model/services/BaseService.cfc"
+					],
+					[
+						"companyg",
+						"model/gateways/CompanyGateway.cfc"
+					],
+					[
+						"compan",
+						"model/services/CompanyService.cfc"
+					],
+					[
+						"data",
+						"views/pages/dataCenterPowerAudit.cfm"
+					],
+					[
+						"datcentpo",
+						"assets/js/tripplite.pages.dataCenterPowerAudit.js"
+					],
+					[
+						"userpub",
+						"model/beans/UserPurchasesBean.cfc"
+					],
+					[
+						"userpuga",
+						"model/gateways/UserPurchasesGateway.cfc"
+					],
+					[
+						"userp",
+						"model/dao/UserPurchasesDAO.cfc"
+					],
+					[
+						"userda",
+						"model/dao/UserDAO.cfc"
+					],
+					[
+						"hea",
+						"views/header.cfm"
+					],
+					[
+						"pordusj",
+						"assets/js/tripplite.support.productSupportForm.js"
+					],
+					[
+						"produspjs",
+						"assets/js/tripplite.support.productSupportForm.js"
+					],
+					[
+						"productsup",
+						"model/builder/ProductSupportFormBuilder.cfc"
+					],
+					[
+						"mast",
+						"resourceBundles/masterForm/masterForm.xml"
+					],
+					[
+						"tripp",
+						"resourceBundles/tripplite.xml"
+					],
+					[
+						"fiel",
+						"resourceBundles/masterForm/fieldDataErrors.xml"
+					],
+					[
+						"field",
+						"resourceBundles/masterForm/fieldDataErrors.xml"
+					],
+					[
+						"trippjs",
+						"assets/js/tripplite.js"
+					],
+					[
+						"modelser",
+						"model/services/ModelService.cfc"
+					],
+					[
+						"masterfo",
+						"resourceBundles/masterForm/masterForm.xml"
+					],
+					[
+						"utis",
+						"model/services/UtilityService.cfc"
+					],
+					[
+						"utitl",
+						"lp/policy/international-ultimate-lifetime-protection-policy.cfm"
+					],
+					[
+						"utili",
+						"model/services/UtilityService.cfc"
+					],
+					[
+						"proware",
+						"resourceBundles/support/productWarrantyRegistration.xml"
+					],
+					[
+						"produsup",
+						"resourceBundles/support/productSupportForm.xml"
+					],
+					[
+						"prodsuppjs",
+						"assets/js/tripplite.support.productSupportForm.js"
+					],
+					[
+						"produsupp",
+						"model/builder/ProductSupportFormBuilder.cfc"
+					],
+					[
+						"rout",
+						"logs/routeMatches.txt"
+					],
+					[
+						"fie",
+						"resourceBundles/masterForm/fieldDataErrors.xml"
+					],
+					[
+						"trip",
+						"assets/css/tripplite.css"
+					],
+					[
+						"producwarxm",
+						"resourceBundles/support/productWarrantyRegistration.xml"
+					],
+					[
+						"requ",
+						"resourceBundles/masterForm/requiredFieldErrors.xml"
+					],
+					[
+						"prosubui",
+						"model/builder/ProductSupportFormBuilder.cfc"
+					],
+					[
+						"produsfbu",
+						"model/builder/ProductSupportFormBuilder.cfc"
+					],
+					[
+						"mya",
+						"controllers/myAccount.cfc"
+					],
+					[
+						"formfiel",
+						"resourceBundles/masterForm/requiredFieldErrors.xml"
+					],
+					[
+						"requi",
+						"resourceBundles/masterForm/requiredFieldErrors.xml"
+					],
+					[
+						"produsj",
+						"assets/js/tripplite.support.productSupportForm.js"
+					],
+					[
+						"produsu",
+						"model/builder/ProductSupportFormBuilder.cfc"
+					],
+					[
+						"porwajs",
+						"assets/js/tripplite.support.productWarrantyRegistration.js"
+					],
+					[
+						"poplogin",
+						"views/popup/login.cfm"
+					],
+					[
+						"heade",
+						"views/header.cfm"
+					],
+					[
+						"login",
+						"assets/js/tripplite.login.js"
+					],
+					[
+						"golfo",
+						"model/builder/GoldenResellerSignupFormBuilder.cfc"
+					],
+					[
+						"godfom",
+						"model/builder/GoldenResellerSignupFormBuilder.cfc"
+					],
+					[
+						"rese",
+						"controllers/resellers.cfc"
+					],
+					[
+						"producwa",
+						"assets/css/tripplite.support.productWarranty.css"
+					],
+					[
+						"produga",
+						"model/gateways/ProductGateway.cfc"
+					],
+					[
+						"datpicss",
+						"assets/css/datepicker.css"
+					],
+					[
+						"datpijs",
+						"assets/js/bootstrap-datepicker.js"
+					],
+					[
+						"myprojs",
+						"assets/js/tripplite.myAccount.products.js"
+					],
+					[
+						"myapro",
+						"model/builder/MyAccountProductsFormBuilder.cfc"
+					],
+					[
+						"my",
+						"controllers/myAccount.cfc"
+					],
+					[
+						"forser",
+						"model/services/FormService.cfc"
+					],
+					[
+						"footer",
+						"views/footer.cfm"
+					],
+					[
+						"suppwarrjs",
+						"assets/js/tripplite.support.productWarrantyRegistration.js"
+					],
+					[
+						"warr",
+						"model/builder/WarrantyFormBuilder.cfc"
+					],
+					[
+						"parga",
+						"model/gateways/PartnerGateway.cfc"
+					],
+					[
+						"par",
+						"model/services/PartnerService.cfc"
+					],
+					[
+						"partnl",
+						"views/whereToBuy/partnerList.cfm"
+					],
+					[
+						"usersubd",
+						"model/dao/UserSubscriptionsDAO.cfc"
+					],
+					[
+						"ussus",
+						"model/services/UserSubscriptionService.cfc"
+					],
+					[
+						"myasubf",
+						"model/builder/MyAccountSubscriptionsFormBuilder.cfc"
+					],
+					[
+						"myac",
+						"views/support/myAccount.cfm"
+					],
+					[
+						"s",
+						"controllers/support.cfc"
+					],
+					[
+						"stand",
+						"layouts/standAlone.cfm"
+					],
+					[
+						"pages",
+						"controllers/pages.cfc"
+					],
+					[
+						"searfa",
+						"views/main/searchFaq.cfm"
+					],
+					[
+						"searj",
+						"assets/js/tripplite.search.js"
+					],
+					[
+						"myreg",
+						"model/builder/MyAccountRegisterFormBuilder.cfc"
+					],
+					[
+						"produwarre",
+						"assets/js/tripplite.support.productWarrantyRegistration.js"
+					],
+					[
+						"searccfm",
+						"views/support/search.cfm"
+					],
+					[
+						"formhan",
+						"model/builder/FormHandleBuilder.cfc"
+					],
+					[
+						"myacnew",
+						"model/builder/MyAccountNewsletterFormBuilder.cfc"
+					],
+					[
+						"regiform",
+						"model/builder/MyAccountRegisterFormBuilder.cfc"
+					],
+					[
+						"defaul",
+						"layouts/default.cfm"
+					],
+					[
+						"geogat",
+						"model/gateways/GeographyGateway.cfc"
+					],
+					[
+						"finderse",
+						"model/services/FinderService.cfc"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"",
+						"/C/Users/fcarmona/AppData/Roaming/Sublime Text 2/Sublime Projects/tripplite.sublime-project"
+					]
+				],
+				"width": 630.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 316.0,
+			"status_bar_visible": true,
+			"window_id": 1,
+			"workspace_name": "/C/Users/fcarmona/AppData/Roaming/Sublime Text 2/Sublime Projects/tripplite.sublime-project"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/C/Users/fcarmona/AppData/Roaming/Sublime Text 2/Sublime Projects/tripplite.sublime-project"
+		]
+	}
+}

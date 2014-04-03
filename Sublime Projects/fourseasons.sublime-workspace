@@ -1,0 +1,1877 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"key",
+				"keyup"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"sele",
+				"setDefaultSelections"
+			],
+			[
+				"old",
+				"oldBlower"
+			],
+			[
+				"savin",
+				"savings"
+			],
+			[
+				"cal",
+				"calculated"
+			],
+			[
+				"savi",
+				"savings"
+			],
+			[
+				"newh",
+				"newHeatStageSavings"
+			],
+			[
+				"stag",
+				"stageSavings"
+			],
+			[
+				"exi",
+				"existingBTU"
+			],
+			[
+				"sl",
+				"slidestop"
+			],
+			[
+				"ca",
+				"calculateAirCosts"
+			],
+			[
+				"olbl",
+				"oldBlowerCost"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"newbl",
+				"newBlowerCost"
+			],
+			[
+				"blo",
+				"blowerSavingsPerYear"
+			],
+			[
+				"newBlo",
+				"newBlowerCost"
+			],
+			[
+				"oldBlow",
+				"oldBlowerCost"
+			],
+			[
+				"varia",
+				"variable"
+			],
+			[
+				"oldbl",
+				"oldBlowerCost"
+			],
+			[
+				"v",
+				"variableBlower_fanOn_Cost"
+			],
+			[
+				"sta",
+				"standardBlower_fanOff_Cost"
+			],
+			[
+				"fa",
+				"fanOption1"
+			],
+			[
+				"ol",
+				"oldBlowerOption1"
+			],
+			[
+				"foo",
+				"footerH4"
+			],
+			[
+				"saving",
+				"savingsYears"
+			],
+			[
+				"obj",
+				"objSelf"
+			],
+			[
+				"domre",
+				"DOMRefs"
+			],
+			[
+				"argu",
+				"arguments"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"salutatio",
+				"salutation"
+			],
+			[
+				"query",
+				"queryAddRow	fn. (cfscript)"
+			],
+			[
+				"salutation",
+				"salutationText"
+			],
+			[
+				"q",
+				"queryNew	fn. (cfscript)"
+			],
+			[
+				"locAddress",
+				"locAddress1"
+			],
+			[
+				"qIndus",
+				"qIndustries"
+			],
+			[
+				"re",
+				"required=\"true\"	required"
+			],
+			[
+				"ty",
+				"type=\"query\"	type"
+			],
+			[
+				"warranty",
+				"warrantyForm"
+			],
+			[
+				"FormBuilder",
+				"WarrantyFormBuilder"
+			],
+			[
+				"VARI",
+				"variables"
+			],
+			[
+				"acc",
+				"access=\"public\"	access"
+			],
+			[
+				"va",
+				"validate=\"email\"	validate"
+			],
+			[
+				"partnerLocation",
+				"partnerLocationDAO"
+			],
+			[
+				"retuty",
+				"returntype=\"boolean\"	returntype"
+			],
+			[
+				"produ",
+				"productLine"
+			],
+			[
+				"produlin",
+				"productLineCheckboxes"
+			],
+			[
+				"record",
+				"recordCount"
+			],
+			[
+				"inputBox",
+				"inputBoxHTML"
+			],
+			[
+				"direc",
+				"directories"
+			],
+			[
+				"createCheck",
+				"createCheckboxes"
+			],
+			[
+				"req",
+				"required=\"true\"	required"
+			],
+			[
+				"bu",
+				"buildURL"
+			],
+			[
+				"tst",
+				"type=\"struct\"	type"
+			],
+			[
+				"UserP",
+				"UserPurchasesService"
+			],
+			[
+				"about",
+				"aboutCFC"
+			],
+			[
+				"cfsc",
+				"cfscript	Tag (cmfl)"
+			],
+			[
+				"isd",
+				"isDate	fn. (cfscript)"
+			],
+			[
+				"type",
+				"type=\"string\"	type"
+			],
+			[
+				"struk",
+				"structKeyExists	fn. (cfscript)"
+			],
+			[
+				"create",
+				"createODBCDateTime	fn. (cfscript)"
+			],
+			[
+				"requi",
+				"required=\"false\"	required"
+			],
+			[
+				"userPurcha",
+				"UserPurchasesBean"
+			],
+			[
+				"qUserPu",
+				"qUserPurchases"
+			],
+			[
+				"userPurch",
+				"UserPurchasesGateway"
+			],
+			[
+				"User",
+				"UserPurchasesDAO"
+			],
+			[
+				"vali",
+				"validate=\"date\"	validate"
+			],
+			[
+				"is",
+				"isArray	fn. (cfscript)"
+			],
+			[
+				"require",
+				"required"
+			],
+			[
+				"reqire",
+				"requireRows"
+			],
+			[
+				"tyst",
+				"type=\"struct\"	type"
+			],
+			[
+				"horiz",
+				"horizontal"
+			],
+			[
+				"var",
+				"var	@var"
+			],
+			[
+				"horizon",
+				"horizontal-item"
+			],
+			[
+				"horizo",
+				"horizontal-item"
+			],
+			[
+				"controgrp",
+				"controlGroupClass"
+			],
+			[
+				"county",
+				"countryCode"
+			],
+			[
+				"rbStru",
+				"rbStructure"
+			],
+			[
+				"wrt",
+				"writeDump	fn. (cfscript)"
+			],
+			[
+				"writ",
+				"writeDump	fn. (cfscript)"
+			],
+			[
+				"warr",
+				"warrantyRegistration"
+			],
+			[
+				"retstr",
+				"returntype=\"Struct\"	returntype"
+			],
+			[
+				"error",
+				"errorMessage"
+			],
+			[
+				"serv",
+				"services"
+			],
+			[
+				"compoen",
+				"component"
+			],
+			[
+				"typest",
+				"type=\"struct\"	type"
+			],
+			[
+				"getResourc",
+				"getResourceBundle"
+			],
+			[
+				"rbLan",
+				"rbLanguages"
+			],
+			[
+				"files",
+				"filesOnly"
+			],
+			[
+				"lang",
+				"languages"
+			],
+			[
+				"rbLocale",
+				"rbLocales"
+			],
+			[
+				"strucl",
+				"structClear	fn. (cfscript)"
+			],
+			[
+				"rbstruc",
+				"rbStructure"
+			],
+			[
+				"a",
+				"access=\"public\"	access"
+			],
+			[
+				"wr",
+				"writeDump	fn. (cfscript)"
+			],
+			[
+				"stru",
+				"structDelete	fn. (cfscript)"
+			],
+			[
+				"resource",
+				"resourcebundle"
+			],
+			[
+				"variabl",
+				"variable"
+			],
+			[
+				"Hy",
+				"hyphenated"
+			],
+			[
+				"hyph",
+				"hyphenated"
+			],
+			[
+				"built",
+				"builtURL"
+			],
+			[
+				"country",
+				"countryCode"
+			],
+			[
+				"strk",
+				"structKeyList	fn. (cfscript)"
+			],
+			[
+				"lisl",
+				"listLen	fn. (cfscript)"
+			],
+			[
+				"res",
+				"returntype=\"Struct\"	returntype"
+			],
+			[
+				"for",
+				"for-in-loop	fn. (cfscript)"
+			],
+			[
+				"tyn",
+				"type=\"numeric\"	type"
+			],
+			[
+				"abr",
+				"abort	TagOp. (cfscript)"
+			],
+			[
+				"validat",
+				"validate=\"boolean\"	validate"
+			],
+			[
+				"ret",
+				"returntype=\"void\"	returntype"
+			],
+			[
+				"rety",
+				"returntype=\"boolean\"	returntype"
+			],
+			[
+				"missin",
+				"missingMethodArguments"
+			],
+			[
+				"proper",
+				"propertyValue"
+			],
+			[
+				"comp",
+				"cfcomponent"
+			],
+			[
+				"variable",
+				"variables"
+			],
+			[
+				"getProperty",
+				"getPropertyLabel"
+			],
+			[
+				"cfd",
+				"cfdefaultcase	Tag (cmfl)"
+			],
+			[
+				"label",
+				"label	<label>"
+			],
+			[
+				"cfre",
+				"cfrethrow	Tag (cmfl)"
+			],
+			[
+				"cfthr",
+				"cfthrow	Tag (cmfl)"
+			],
+			[
+				"i",
+				"item	@item"
+			],
+			[
+				"cfth",
+				"cfthrow	Tag (cmfl)"
+			],
+			[
+				"t",
+				"type=\"boolean\"	type"
+			],
+			[
+				"val",
+				"validate=\"string\"	validate"
+			],
+			[
+				"remo",
+				"remotePage"
+			],
+			[
+				"vari",
+				"variables"
+			],
+			[
+				"extra",
+				"extraMetaTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/L/dev.in.fourseasonsheatingcooling.com/energy-savings-calculator/assets/js/energy-savings-calculator.js",
+			"settings":
+			{
+				"buffer_size": 15936,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/L/dev.in.fourseasonsheatingcooling.com/energy-savings-calculator/index.html",
+			"settings":
+			{
+				"buffer_size": 11807,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/L/dev.in.fourseasonsheatingcooling.com/energy-savings-calculator/assets/css/energy-savings-calculator.css",
+			"settings":
+			{
+				"buffer_size": 3105,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/L/Cricket Related/Sites/dev_in_quark_merged_cricketcommunications_com/wwwroot/js/usageDetails.js",
+			"settings":
+			{
+				"buffer_size": 92062,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/L/Home Dev Env Related/Sites/dev.in.project-profile.fes.follett.com/js/projects/planning/supply-expenses-form.js",
+			"settings":
+			{
+				"buffer_size": 4484,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/L/Home Dev Env Related/Sites/dev.in.project-profile.fes.follett.com/js/projects/planning/labor-expenses-form.js",
+			"settings":
+			{
+				"buffer_size": 4574,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 85.0,
+		"selected_items":
+		[
+			[
+				"ssycss",
+				"Set Syntax: CSS"
+			],
+			[
+				"fetf",
+				"Fetch: File"
+			],
+			[
+				"fetma",
+				"Fetch: Manage"
+			],
+			[
+				"fetfi",
+				"Fetch: File"
+			],
+			[
+				"fetc",
+				"Fetch: Manage"
+			],
+			[
+				"fetp",
+				"Fetch: Package"
+			],
+			[
+				"fef",
+				"Fetch: File"
+			],
+			[
+				"fm",
+				"Fetch: Manage"
+			],
+			[
+				"ssyjavs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"fet",
+				"Fetch: Manage"
+			],
+			[
+				"copy",
+				"File: Copy as Tag script"
+			],
+			[
+				"copy ta",
+				"File: Copy as Tag style"
+			],
+			[
+				"copyta",
+				"File: Copy as Tag style"
+			],
+			[
+				"removpa",
+				"Package Control: Remove Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"F",
+				"Fetch: Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"installpa",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"packains",
+				"Package Control: Install Package"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"ssyncold",
+				"Set Syntax: ColdFusion Markup"
+			],
+			[
+				"ssyncom",
+				"Set Syntax: ColdFusion Markup"
+			],
+			[
+				"ssycol",
+				"Set Syntax: ColdFusion Component"
+			],
+			[
+				"ssynco",
+				"Set Syntax: ColdFusion Component"
+			],
+			[
+				"ssynhtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"instalpa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ssyncol",
+				"Set Syntax: ColdFusion Component"
+			],
+			[
+				"open",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"ssncold",
+				"Set Syntax: ColdFusion Markup"
+			],
+			[
+				"ssn col",
+				"Set Syntax: ColdFusion Markup"
+			],
+			[
+				"sscol",
+				"Set Syntax: ColdFusion Markup"
+			],
+			[
+				"ssyhtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"chang",
+				"ChangeQuotes"
+			],
+			[
+				"change",
+				"ChangeQuotes"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"INSTALL ",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTALL PA",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/L/dev.in.fourseasonsheatingcooling.com/energy-savings-calculator/assets/css/jquery.mobile-1.2.0.css",
+		"/L/dev.in.fourseasonsheatingcooling.com/codiqa-app/codiqa.ext.css",
+		"/C/Users/fcarmona/AppData/Roaming/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/L/dev.in.fourseasonsheatingcooling.com/energy-savings-calculator/assets/css/jquery-1.2.0.css",
+		"/L/dev.in.fourseasonsheatingcooling.com/energy-savings-calculator/live.index.html",
+		"/L/dev.in.fourseasonsheatingcooling.com/energy-savings-calculator/assets/js/live.energy-savings-calculator.js",
+		"/L/Home Dev Env Related/Sites/dev.in.project-profile.fes.follett.com/js/projects/planning/truck-expenses-form.js",
+		"/L/Home Dev Env Related/Sites/dev.in.project-profile.fes.follett.com/js/projects/planning/freight-expenses-form.js",
+		"/L/Home Dev Env Related/Sites/dev.in.project-profile.fes.follett.com/js/projects/planning/labor-expenses-list.js",
+		"/L/Home Dev Env Related/Sites/dev.in.project-profile.fes.follett.com/js/projects/planning/freight-expenses-list.js",
+		"/L/Home Dev Env Related/Sites/dev.in.project-profile.fes.follett.com/js/projects/planning/supply-expenses-list.js",
+		"/L/Home Dev Env Related/Sites/dev.in.project-profile.fes.follett.com/js/projects/planning/truck-expenses-list.js",
+		"/L/Cricket Related/Sites/dev_in_quark_merged_cricketcommunications_com/wwwroot/js/dashboard.js",
+		"/L/Cricket Related/Sites/dev_in_quark_merged_cricketcommunications_com/wwwroot/js/dateValidation.js",
+		"/L/Cricket Related/Sites/dev_in_quark_merged_cricketcommunications_com/wwwroot/js/usageData.js",
+		"/L/Cricket Related/Sites/dev_in_quark_merged_cricketcommunications_com/wwwroot/js/usageDetailsGraph.js",
+		"/L/Home Dev Env Related/Sites/dev.in.project-profile.fes.follett.com/js/projects/planning/project-planning.js",
+		"/L/Home Dev Env Related/Sites/dev.in.project-profile.fes.follett.com/js/projects/dashboard/buyops-truck-expenses-list.js",
+		"/L/Home Dev Env Related/Sites/dev.in.project-profile.fes.follett.com/js/projects/dashboard/buyops-truck-expenses-form.js",
+		"/L/Home Dev Env Related/Sites/dev.in.project-profile.fes.follett.com/js/projects/dashboard/project-dashboard.js",
+		"/L/Home Dev Env Related/Sites/dev.in.project-profile.fes.follett.com/js/projects/project-details.js",
+		"/L/Home Dev Env Related/Sites/dev.in.project-profile.fes.follett.com/js/projects/project-details-030810.js",
+		"/L/Home Dev Env Related/Sites/dev.in.project-profile.fes.follett.com/js/projects/ae-information.js",
+		"/L/Home Dev Env Related/Sites/dev.in.project-profile.fes.follett.com/js/projects/project-information.js",
+		"/L/Home Dev Env Related/Sites/dev.in.project-profile.fes.follett.com/js/fullcalendar.js",
+		"/L/Home Dev Env Related/Sites/dev.in.project-profile.fes.follett.com/js/fullcalendar.min.js",
+		"/L/dev.in.fourseasonsheatingcooling.com/codiqa-app/index.html",
+		"/L/index.html",
+		"/L/dev.in.fourseasonsheatingcooling.com/energy-savings-calculator/assets/css/bootstrap.css",
+		"/L/dev.in.fourseasonsheatingcooling.com/energy-savings-calculator/index.html",
+		"/C/Users/fcarmona/AppData/Roaming/Sublime Text 2/Packages/User/HTML.sublime-settings",
+		"/C/Users/fcarmona/AppData/Roaming/Sublime Text 2/Packages/ColdFusion/ColdFusion.sublime-settings",
+		"/C/Users/fcarmona/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/C/Users/fcarmona/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/fcarmona/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/L/dev.in.fourseasonsheatingcooling.com/energy-savings-calculator/assets/js/jquery.min.js",
+		"/L/dev.in.fourseasonsheatingcooling.com/energy-savings-calculator/assets/js/bootstrap.min.js",
+		"/L/dev.in.fourseasonsheatingcooling.com/energy-savings-calculator/assets/css/bootstrap.min.css",
+		"/L/dev.in.fourseasonsheatingcooling.com/energy-savings-calculator/assets/css/bootstrap-responsive.min.css",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/httpd.conf",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/Application.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/sidebar.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/controllers/whereToBuy.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/controllers/support.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/support/onsiteServiceCoverage.xml",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/support/productWarranty.cfm",
+		"/L/Recovered Files/recuva files/insurancePolicy.cfm",
+		"/L/Recovered Files/recuva files/insuranceCoverageAndClaims.cfm",
+		"/L/Recovered Files/recuva files/svn files/productWarranty.cfm.svn-base",
+		"/L/Recovered Files/recuva files/productWarranty.xml",
+		"/L/Recovered Files/recuva files/onsiteServiceCoverage.xml",
+		"/L/Recovered Files/New folder/.project",
+		"/L/Recovered Files/recuva files/Application.cfc",
+		"/L/Recovered Files/sublime text open files/productReturns.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/support/onsiteServiceCoverage.cfm",
+		"/L/Recovered Files/sublime text open files/productReturns.xml",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/extra/httpd-vhosts.conf",
+		"/L/Recovered Files/sublime text open files/ResourceBundleService.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/support/onsiteServicePrograms.xml",
+		"/L/Recovered Files/recuva files/onsiteServicePrograms.cfm",
+		"/L/Recovered Files/recuva files/onsiteServiceCoverage.cfm",
+		"/L/Recovered Files/sublime text open files/onsiteServicePrograms.cfm",
+		"/L/Recovered Files/recuva files/onsiteServicePrograms.xml",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/_org/corfield/framework.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/Application.cfc",
+		"/C/Users/fcarmona/Desktop/TO DO List.TODO",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/en/support/Forms/PostSales-Tech-Support.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/whereToBuy/distributors.xml",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/company/openPositions.xml",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/company/mediaContacts.xml",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/company/contacts.xml",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/en/support/important-onsite-services-information.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/en/support/on-site-service-programs.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/assets/css/core.css",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/common_2010/css/layout_960-uncompressed.css",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/support/onSiteServicePrograms.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/support/onSiteServicePrograms.xml",
+		"/C/Users/fcarmona/AppData/Roaming/Sublime Text 2/Packages/User/ColdFusionCFC.sublime-settings",
+		"/C/Users/fcarmona/AppData/Roaming/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+		"/K/Newsite 2013/Content/resourceBundles/support/onsiteServiceCoverage.xml",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/en/support/product-returns.cfm",
+		"/C/Users/fcarmona/AppData/Roaming/Sublime Text 2/Sublime Projects/tripplite.sublime-project",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/support/support.xml",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/support/productWarranty.xml",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/controllers/applications.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/support/insurancePolicy.xml",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/support/insurancePolicy.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/support/insuranceCoverageAndClaims.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/support/insuranceCoverageAndClaims.xml",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/header.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/model/services/ResourceBundleService.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/controllers/company.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/layouts/support.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/tripplite.xml",
+		"/C/Users/fcarmona/Desktop/2012 Tax Docs List.TODO",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/applications/government.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/components/recent-models-slideout.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/company/benefits.cfm",
+		"/K/Newsite 2013/Content/resourceBundles/ads.xml",
+		"/K/Newsite 2013/Content/resourceBundles/support/insuranceCoverageClaims.xml",
+		"/K/Newsite 2013/Content/resourceBundles/support/insurancePolicy.xml",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/en/support/warranty-coverage.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/ES/support/warranty-coverage.cfm",
+		"/K/Newsite 2013/Content/resourceBundles/support/warrantyCenter.xml",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/assets/js/bootstrap.js",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/assets/css/bootstrap.css",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/applications/greenPower.xml",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/ads.xml",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/ru/support/warranty-coverage.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/assets/js/support.js",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/support/help.xml",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/support/help.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/support/searchVideo.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/support/searchModel.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/support/searchAll.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/support/search.xml",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/model/services/ProductService.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/layouts/applications.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/applications/digitalsign.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/applications/datacenter.cfm",
+		"/H/EarthSea Portable/Documents/Finance Related/Tax Related Documents/2012 Charitable Contributiosn List.txt",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/applications/digitalSign.xml",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/applications/dataCenter.xml",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/applications/rackCooling.xml",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/applications/applications.xml",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/whereToBuy/whereToBuy.xml",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/company/index.xml",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/applications/index.xml"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\resourceBundles",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\resourceBundles",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\resourceBundles",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model\\gateways",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\resourceBundles",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\services",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model\\services",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model\\factory\\ObjectFactory.cfc",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite\\model",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
+			"C:\\Sites\\cfmxapps\\wwwroot\\dev.in.tripplite.com\\newsite",
+			"C:\\Sites\\cfmxapps\\wwwroot\\dev.in.tripplite.com\\where-to-buy",
+			"C:\\Sites\\cfmxapps\\wwwroot\\dev.in.fwone.org\\examples\\userManager",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console.log",
+			"21",
+			"console.log",
+			"variableBlower_fanAuto_Cost",
+			"variableBlower_fanOn_Cost",
+			"standardBlower_fanAuto_Cost",
+			"standardBlower_fanOn_Cost",
+			"oldBlowerCost",
+			"21",
+			"pctEfficiency",
+			"PctEfficiency",
+			"}",
+			"84",
+			"113",
+			"99",
+			"84",
+			"25\":",
+			"}",
+			">=",
+			" >=",
+			">=",
+			"70",
+			"slidestop",
+			");\n",
+			"event",
+			"95",
+			":",
+			"case",
+			"pctEfficiency",
+			"93,94,95",
+			"defaultcase",
+			"pctEfficiency",
+			"\":",
+			"768",
+			"fourSeasonLogo",
+			"pagecontent",
+			"fourSeasonLogo",
+			"total",
+			"estimatedSavings",
+			"130",
+			"\"130\":",
+			"btnCalculateSavings",
+			"this.",
+			" + \"\"",
+			"console.log( \"existingEfficiencyCost: \" + objSelf.acEnergyCost[existingSize][existingEfficiency] );",
+			");\n",
+			": \" objSelf",
+			"console.log(existingEfficiency);",
+			"existingEfficiency",
+			"newEfficiency",
+			"oldBlower",
+			"console.log(oldBlower);",
+			"oldBlower",
+			"fan",
+			"oldBlower",
+			"var fan",
+			"variableBlower_fanAuto_Cost",
+			"variableBlower_fanOn_Cost",
+			"standardBlower_fanAuto_Cost",
+			"standardBlower_fanOn_Cost",
+			"off",
+			"Off",
+			"off",
+			"Off",
+			"off",
+			"Off",
+			"off",
+			"Off",
+			"off",
+			"Off",
+			"off",
+			"Off",
+			"footerH4",
+			"new",
+			"newEfficiency",
+			"newSize",
+			"d",
+			"data-theme",
+			"footerH4",
+			"calculatedSavings",
+			"newHeatStageSavings",
+			"oldAirCost",
+			"stageSaving",
+			"newPctEfficiency",
+			"stageSavings",
+			"newHeatStageSavings",
+			"newHeatCost",
+			"newStageSaving",
+			"newBTU",
+			":",
+			",",
+			":",
+			"  ",
+			"Efficiency",
+			"Air",
+			"iency]",
+			"existing",
+			"existingEfficiency",
+			"}",
+			"chaining",
+			"    //",
+			"95",
+			"70",
+			"{",
+			"\"40",
+			"140",
+			",",
+			"40",
+			"14",
+			"40\"",
+			"50",
+			" ",
+			"745",
+			" ",
+			"    ",
+			"   ",
+			"  ",
+			"    ",
+			"   ",
+			"  ",
+			"1213",
+			"osts()",
+			"Costs = function",
+			"Costs",
+			"() ",
+			"90){            ",
+			"change",
+			"slidestop"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$1.$2",
+			"local.linkSubstituteValues",
+			"getLinkSubstituteValues",
+			"link.support.productReturns",
+			"link.applications.homeOffice",
+			"productWarranty",
+			"Product Warranty",
+			"productWarrant",
+			"Warranty Coverage",
+			"warrantyCoverage",
+			"\n	<property>\n		<key>browseTAACompliantProducts</key>\n		<value>\n			<en lastChange=\"03/11/2013\">Browse our full line of TAA-compliant products for GSA Schedule purchases.</en>\n			<es lastChange=\"03/11/2013\"></es>\n			<ru lastChange=\"03/11/2013\"></ru>\n		</value>\n	</property>",
+			"PartnerAndProductLine",
+			"cfargument name=\"fieldlist\" type=\"string\" required=\"false\" default=\"*\"",
+			"cfargument name=\"fieldlist\" type=\"string\" default=\"*\"",
+			"newsite.model.beans.",
+			"partner",
+			"\n				<cfif structKeyExists(arguments, \"partnerID\") AND len(arguments.partnerID)>\n					Partner_ID = <cfqueryparam value=\"#arguments.partnerID#\" cfsqltype=\"CF_SQL_BIGINT\" />,\n				</cfif>",
+			"- Resource Bundle</comment>",
+			"Removed",
+			">\";",
+			"isDataForPropertyValidCustom",
+			"Object",
+			"object",
+			"arguments",
+			"02/04/2013",
+			"whereToBuy.",
+			"newsite.",
+			"newsite.model",
+			"rc."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/L/dev.in.fourseasonsheatingcooling.com/energy-savings-calculator/assets/js/energy-savings-calculator.js",
+					"settings":
+					{
+						"buffer_size": 15936,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								844,
+								844
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/L/dev.in.fourseasonsheatingcooling.com/energy-savings-calculator/index.html",
+					"settings":
+					{
+						"buffer_size": 11807,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								524,
+								524
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/L/dev.in.fourseasonsheatingcooling.com/energy-savings-calculator/assets/css/energy-savings-calculator.css",
+					"settings":
+					{
+						"buffer_size": 3105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								810,
+								810
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/L/Cricket Related/Sites/dev_in_quark_merged_cricketcommunications_com/wwwroot/js/usageDetails.js",
+					"settings":
+					{
+						"buffer_size": 92062,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/L/Home Dev Env Related/Sites/dev.in.project-profile.fes.follett.com/js/projects/planning/supply-expenses-form.js",
+					"settings":
+					{
+						"buffer_size": 4484,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/L/Home Dev Env Related/Sites/dev.in.project-profile.fes.follett.com/js/projects/planning/labor-expenses-form.js",
+					"settings":
+					{
+						"buffer_size": 4574,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"boo",
+				"energy-savings-calculator/assets/css/bootstrap.css"
+			],
+			[
+				"federal",
+				"en/where-to-buy/federal.cfm"
+			],
+			[
+				"fram",
+				"_org/corfield/framework.cfc"
+			],
+			[
+				"importanon",
+				"en/support/important-onsite-services-information.cfm"
+			],
+			[
+				"corecss",
+				"newsite/assets/css/core.css"
+			],
+			[
+				"onsiteservicepr",
+				"en/support/on-site-service-programs.cfm"
+			],
+			[
+				"supporxml",
+				"newsite/resourceBundles/support/support.xml"
+			],
+			[
+				"side",
+				"newsite/views/sidebar.cfm"
+			],
+			[
+				"postsale",
+				"en/support/Forms/PostSales-Tech-Support.cfm"
+			],
+			[
+				"resourbunser",
+				"newsite/model/services/ResourceBundleService.cfc"
+			],
+			[
+				"produretu",
+				"en/support/product-returns.cfm"
+			],
+			[
+				"productreturns",
+				"newsite/views/support/productReturns.cfm"
+			],
+			[
+				"header",
+				"newsite/views/header.cfm"
+			],
+			[
+				"sid",
+				"newsite/views/sidebar.cfm"
+			],
+			[
+				"resourcbu",
+				"newsite/model/services/ResourceBundleService.cfc"
+			],
+			[
+				"coress",
+				"newsite/assets/css/core.css"
+			],
+			[
+				"corecc",
+				"components/recent-models-slideout.cfm"
+			],
+			[
+				"warrantycv",
+				"ES/support/warranty-coverage.cfm"
+			],
+			[
+				"core",
+				"newsite/assets/css/core.css"
+			],
+			[
+				"adsxml",
+				"newsite/resourceBundles/ads.xml"
+			],
+			[
+				"warrantcover",
+				"ru/support/warranty-coverage.cfm"
+			],
+			[
+				"warrantycover",
+				"ES/support/warranty-coverage.cfm"
+			],
+			[
+				"warranty-cov",
+				"en/support/warranty-coverage.cfm"
+			],
+			[
+				"tripplit",
+				"newsite/resourceBundles/tripplite.xml"
+			],
+			[
+				"producservi",
+				"newsite/model/services/ProductService.cfc"
+			],
+			[
+				"datacent.cfm",
+				"newsite/views/applications/datacenter.cfm"
+			],
+			[
+				"datacenxml",
+				"newsite/resourceBundles/applications/dataCenter.xml"
+			],
+			[
+				"applicxml",
+				"newsite/resourceBundles/applications/applications.xml"
+			],
+			[
+				"supporjs",
+				"newsite/assets/js/support.js"
+			],
+			[
+				"wheretobuxml",
+				"newsite/resourceBundles/whereToBuy/whereToBuy.xml"
+			],
+			[
+				"supportxml",
+				"newsite/resourceBundles/support/support.xml"
+			],
+			[
+				"sideba",
+				"newsite/views/sidebar.cfm"
+			],
+			[
+				"help.",
+				"newsite/views/support/help.cfm"
+			],
+			[
+				"suppor",
+				"newsite/controllers/support.cfc"
+			],
+			[
+				"companindex.xml",
+				"newsite/resourceBundles/company/index.xml"
+			],
+			[
+				"companyindex.xml",
+				"newsite/resourceBundles/company/index.xml"
+			],
+			[
+				"index.xml",
+				"newsite/resourceBundles/applications/index.xml"
+			],
+			[
+				"tripplite.xml",
+				"newsite/resourceBundles/tripplite.xml"
+			],
+			[
+				"applications",
+				"newsite/controllers/applications.cfc"
+			],
+			[
+				"desktop.cfm",
+				"newsite/views/applications/desktop.cfm"
+			],
+			[
+				"wiringcl",
+				"newsite/views/applications/wiringCloset.cfm"
+			],
+			[
+				"wiringclo",
+				"newsite/views/applications/wiringCloset.cfm"
+			],
+			[
+				"masterf",
+				"newsite/resourceBundles/masterForm/masterForm.xml"
+			],
+			[
+				"healcarxml",
+				"newsite/resourceBundles/applications/healthcare.xml"
+			],
+			[
+				"rackcoo",
+				"newsite/resourceBundles/applications/rackCooling.xml"
+			],
+			[
+				"health",
+				"newsite/views/applications/healthcare.cfm"
+			],
+			[
+				"educa.xm",
+				"newsite/resourceBundles/applications/education.xml"
+			],
+			[
+				"education",
+				"newsite/views/applications/education.cfm"
+			],
+			[
+				"edu",
+				"en/where-to-buy/education.cfm"
+			],
+			[
+				"rackcool",
+				"newsite/views/applications/rackCooling.cfm"
+			],
+			[
+				"healxml",
+				"newsite/resourceBundles/applications/healthcare.xml"
+			],
+			[
+				"deskxm",
+				"newsite/resourceBundles/applications/desktop.xml"
+			],
+			[
+				"des",
+				"newsite/views/applications/desktop.cfm"
+			],
+			[
+				"wiringclxml",
+				"newsite/resourceBundles/applications/wiringCloset.xml"
+			],
+			[
+				"healtcxm",
+				"newsite/resourceBundles/applications/healthcare.xml"
+			],
+			[
+				"healtcare",
+				"newsite/views/applications/healthcare.cfm"
+			],
+			[
+				"wirtingclos",
+				"newsite/resourceBundles/applications/wiringCloset.xml"
+			],
+			[
+				"deskto",
+				"newsite/views/applications/desktop.cfm"
+			],
+			[
+				"desktopxm",
+				"newsite/resourceBundles/applications/desktop.xml"
+			],
+			[
+				"homethe",
+				"newsite/views/applications/homeTheater.cfm"
+			],
+			[
+				"resbundser",
+				"newsite/model/services/ResourceBundleService.cfc"
+			],
+			[
+				"resourcbun",
+				"newsite/model/ResourceBundle.cfc"
+			],
+			[
+				"sidebar",
+				"newsite/views/sidebar.cfm"
+			],
+			[
+				"resrbser",
+				"newsite/model/services/ResourceBundleService.cfc"
+			],
+			[
+				"cssnew.",
+				"sandbox/bootstrap/css/new.css"
+			],
+			[
+				"pageheader.cfm",
+				"sandbox/bootstrap/pageHeader.cfm"
+			],
+			[
+				"formbuil",
+				"newsite/model/builder/GetListedFormBuilder.cfc"
+			],
+			[
+				"forbui",
+				"newsite/model/builder/WarrantyFormBuilder.cfc"
+			],
+			[
+				"wheretob",
+				"newsite/controllers/whereToBuy.cfc"
+			],
+			[
+				"masterform",
+				"newsite/views/main/masterForm.cfm"
+			],
+			[
+				"head",
+				"newsite/views/header.cfm"
+			],
+			[
+				"parlo",
+				"newsite/model/dao/PartnerLocationDAO.cfc"
+			],
+			[
+				"supportcfc",
+				"newsite/controllers/support.cfc"
+			],
+			[
+				"partnerconbe",
+				"newsite/model/beans/PartnerContactBean.cfc"
+			],
+			[
+				"parcontabe",
+				"newsite/model/beans/PartnerContactBean.cfc"
+			],
+			[
+				"basebean",
+				"newsite/model/beans/BaseBean.cfc"
+			],
+			[
+				"warranregi",
+				"en/support/product-warranty-registration.cfm"
+			],
+			[
+				"frm_g",
+				"sandbox/wtb/views/frm_GetListed.cfm"
+			],
+			[
+				"dsp",
+				"sandbox/wtb/views/dsp_Listing.cfm"
+			],
+			[
+				"sandboxwtbin",
+				"sandbox/wtb/index.cfm"
+			],
+			[
+				"basebea",
+				"newsite/model/beans/BaseBean.cfc"
+			],
+			[
+				"baseser",
+				"newsite/model/services/BaseService.cfc"
+			],
+			[
+				"bseser",
+				"newsite/model/services/BaseService.cfc"
+			],
+			[
+				"formser",
+				"newsite/model/services/FormService.cfc"
+			],
+			[
+				"masterfo",
+				"newsite/resourceBundles/masterForm/masterForm.xml"
+			],
+			[
+				"field",
+				"newsite/resourceBundles/masterForm/requiredFieldErrors.xml"
+			],
+			[
+				"formfiel",
+				"newsite/resourceBundles/masterForm/fieldDataErrors.xml"
+			],
+			[
+				"partnerlocabe",
+				"newsite/model/beans/PartnerLocationBean.cfc"
+			],
+			[
+				"partlocaser",
+				"newsite/model/services/PartnerLocationService.cfc"
+			],
+			[
+				"where",
+				"newsite/controllers/whereToBuy.cfc"
+			],
+			[
+				"resour",
+				"newsite/model/services/ResourceBundleService.cfc"
+			],
+			[
+				"resoubun.xm",
+				"newsite/resourceBundles/company/privacy.xml"
+			],
+			[
+				"frame",
+				"_org/corfield/framework.cfc"
+			],
+			[
+				"newsitethanks",
+				"local.tripplite.com/newsite/views/main/thanks.cfm"
+			],
+			[
+				"partlis",
+				"local.tripplite.com/newsite/resourceBundles/whereToBuy/partnerList.xml"
+			],
+			[
+				"wherexm",
+				"local.tripplite.com/newsite/resourceBundles/whereToBuy/whereToBuy.xml"
+			],
+			[
+				"resoubunser",
+				"local.tripplite.com/newsite/model/services/ResourceBundleService.cfc"
+			],
+			[
+				"userser",
+				"local.tripplite.com/newsite/model/services/UserService.cfc"
+			],
+			[
+				"basebe",
+				"local.tripplite.com/newsite/model/beans/BaseBean.cfc"
+			],
+			[
+				"forser",
+				"local.tripplite.com/newsite/model/services/FormService-042413.cfc"
+			],
+			[
+				"formserv",
+				"local.tripplite.com/newsite/model/services/FormService-042413.cfc"
+			],
+			[
+				"gatewa",
+				"local.tripplite.com/newsite/model/gateways/UserGateway.cfc"
+			],
+			[
+				"framw",
+				"local.tripplite.com/_org/corfield/framework.cfc"
+			],
+			[
+				"resourb",
+				"local.tripplite.com/newsite/model/services/ResourceBundleService.cfc"
+			],
+			[
+				"bread",
+				"local.tripplite.com/newsite/views/breadcrumbs.cfm"
+			],
+			[
+				"partnerlis",
+				"local.tripplite.com/newsite/views/whereToBuy/partnerList.cfm"
+			],
+			[
+				"modgat",
+				"local.tripplite.com/newsite/model/gateways/ModelGateway.cfc"
+			],
+			[
+				"userda",
+				"local.tripplite.com/newsite/model/dao/UserDAO.cfc"
+			],
+			[
+				"userbea",
+				"local.tripplite.com/newsite/model/beans/UserBean.cfc"
+			],
+			[
+				"basser",
+				"local.tripplite.com/newsite/model/services/BaseService.cfc"
+			],
+			[
+				"userserv",
+				"local.tripplite.com/newsite/model/services/UserService.cfc"
+			],
+			[
+				"baseserv",
+				"local.tripplite.com/newsite/model/services/BaseService.cfc"
+			],
+			[
+				"modelda",
+				"local.tripplite.com/newsite/model/dao/ModelDAO.cfc"
+			],
+			[
+				"modgatw",
+				"local.tripplite.com/newsite/model/gateways/ModelGateway.cfc"
+			],
+			[
+				"parnserv",
+				"local.tripplite.com/newsite/model/services/PartnerService.cfc"
+			],
+			[
+				"resourbund",
+				"local.tripplite.com/newsite/model/services/ResourceBundleService.cfc"
+			],
+			[
+				"produga",
+				"local.tripplite.com/newsite/model/gateways/ProductGateway.cfc"
+			],
+			[
+				"partnerserve",
+				"local.tripplite.com/sandbox/wtb/model/partnerService.cfc"
+			],
+			[
+				"partnergaa",
+				"local.tripplite.com/newsite/model/gateways/PartnerGateway.cfc"
+			],
+			[
+				"formx",
+				"local.tripplite.com/newsite/resourceBundles/masterForm/masterForm.xml"
+			],
+			[
+				"userbean",
+				"local.tripplite.com/newsite/model/beans/UserBean.cfc"
+			],
+			[
+				"trippxm",
+				"local.tripplite.com/newsite/resourceBundles/tripplite.xml"
+			],
+			[
+				"breadc",
+				"local.tripplite.com/newsite/views/breadcrumbs.cfm"
+			],
+			[
+				"wherjs",
+				"local.tripplite.com/newsite/assets/js/whereToBuy.js"
+			],
+			[
+				"partnlisc",
+				"local.tripplite.com/newsite/views/whereToBuy/partnerList.cfm"
+			],
+			[
+				"partnerlisxm",
+				"local.tripplite.com/newsite/resourceBundles/whereToBuy/partnerList.xml"
+			],
+			[
+				"utilit",
+				"local.tripplite.com/newsite/model/Utilities.cfc"
+			],
+			[
+				"resourbu",
+				"local.tripplite.com/newsite/model/services/ResourceBundleService.cfc"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/fcarmona/AppData/Roaming/Sublime Text 2/Sublime Projects/tripplite.sublime-project"
+			]
+		],
+		"width": 630.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true
+}
