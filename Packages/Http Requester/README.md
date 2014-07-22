@@ -8,7 +8,7 @@ Contact: [braindamageinc@gmail.com](mailto:braindamageinc@gmail.com)
 ##Summary
 Makes HTTP requests using the selected text as URL + headers. Useful for testing REST APIs from Sublime Text 2 editor. 
 
-##Update: Added client SSL certificates
+##Update: Added latency and download time output.
 
 ##Usage
 Select the text that represents an URL. Examples of requests:
@@ -78,6 +78,12 @@ If you wish to have all the requests responses in the same file (tab), you can u
 
 	GET http://someserver.com
 	SAME_FILE: True
+
+###Set custom timeout
+For a custom request timeout value, use the following param (timeout in **seconds**):
+
+	GET http://someserver.com
+	TIMEOUT: 5
 
 	
 ## Installation

@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"ou",
+				"output=\"true\"	output"
+			],
+			[
+				"portal",
+				"PortalElementsBean"
+			],
+			[
+				"porta",
+				"portalElementGateway"
+			],
+			[
+				"re",
+				"required=\"false\"	required"
+			],
+			[
+				"Porta",
+				"PortalElementsBean"
+			],
+			[
+				"ty",
+				"type=\"database\"	type"
+			],
+			[
 				"argu",
 				"arguments"
 			],
@@ -34,14 +58,6 @@
 			[
 				"qIndus",
 				"qIndustries"
-			],
-			[
-				"re",
-				"required=\"true\"	required"
-			],
-			[
-				"ty",
-				"type=\"query\"	type"
 			],
 			[
 				"warranty",
@@ -498,64 +514,96 @@
 			[
 				"wt",
 				"writeOutput	fn. (cfscript)"
-			],
-			[
-				"lis",
-				"replaceList	fn. (cfscript)"
-			],
-			[
-				"Re",
-				"RewriteRule"
-			],
-			[
-				"html",
-				"html	html"
-			],
-			[
-				"htm",
-				"html	html"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/Application.cfc",
+			"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/marketing/portal/portal-edit.cfm",
 			"settings":
 			{
-				"buffer_size": 8309,
+				"buffer_size": 39974,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/CFC/RB_Editor.cfc",
+			"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/marketing/portal/portal-search.cfm",
 			"settings":
 			{
-				"buffer_size": 5768,
+				"buffer_size": 6384,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/other/resource-bundle-edit.cfm",
+			"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/marketing/portal/act-portal-create.cfm",
 			"settings":
 			{
-				"buffer_size": 18466,
+				"buffer_size": 727,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/other/rb_preview.cfm",
+			"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/marketing/portal/cfc/partnerPortal.cfc",
 			"settings":
 			{
-				"buffer_size": 1088,
+				"buffer_size": 20093,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/Application.cfc",
+			"settings":
+			{
+				"buffer_size": 5979,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/model/services/BaseService.cfc",
+			"settings":
+			{
+				"buffer_size": 4555,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/layouts/marketing.cfm",
+			"settings":
+			{
+				"buffer_size": 1195,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/controllers/main.cfc",
+			"settings":
+			{
+				"buffer_size": 1360,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/model/services/PortalElementService.cfc",
+			"settings":
+			{
+				"buffer_size": 9458,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/model/gateways/PortalElementGateway.cfc",
+			"settings":
+			{
+				"buffer_size": 6145,
+				"line_ending": "Unix"
 			}
 		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 60.0,
+		"height": 375.0,
 		"selected_items":
 		[
 			[
@@ -712,6 +760,51 @@
 	},
 	"file_history":
 	[
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/products/series-headers.cfm",
+		"/C/Users/fcarmona/Desktop/Local Environment.txt",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/model/dao/PortalElementDAO.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/views/main/index.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/layouts/main.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/model/services/PromotionService.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/layouts/default.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/layouts/mains.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/logs/dumpException.txt",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/model/dao/PromotionDAO.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/model/gateways/PromotionGateway.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/model/PortalElementBean.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/model/PortalElementDAO.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/model/PortalElementGateway.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/model/PortalElementService.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/products/series-models.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/products/series-models-move.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/model/services/BaseService.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/model/beans/BaseBean.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/model/PortalElementsBean.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/model/PortalElementsDAO.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/model/PortalElementsGateway.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/translation/batch-viewer-by-model.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/marketing/portal/cfc/ajaxAPI.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/Application.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com.original/Application.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/model/dao/promotionDAO.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/model/services/promotionService.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/model/gateways/promotionGateway.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/controllers/main.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/views/main/error.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/views/main/generic.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/model/factory/ObjectFactory.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/views/main/pageNotFound.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/views/main/ajax.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/model/services/UtilityService.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/views/main/detailederror.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/CFC/Objects.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/marcom-upload/object-loader-step-1.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/marcom-upload/Application.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/model/services/AdService.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/other/rb_preview.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/other/resource-bundle-edit.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/CFC/RB_Editor.cfc",
 		"/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/other/resource-bundles.cfm",
 		"/C/Windows/System32/drivers/etc/hosts _021012",
 		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/support/productWarranty.cfm",
@@ -745,7 +838,6 @@
 		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/support/productWarranty.xml",
 		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/ru/support/warranty-coverage.cfm",
 		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/controllers/support.cfc",
-		"/C/Windows/System32/drivers/etc/hosts",
 		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/extra/httpd-vhosts.conf",
 		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/httpd.conf",
 		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/Application.cfc",
@@ -795,51 +887,7 @@
 		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/applications/greenPower.xml",
 		"/C/Users/fcarmona/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/ads.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/assets/js/support.js",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/support/help.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/support/help.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/support/searchVideo.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/support/searchModel.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/support/searchAll.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/support/search.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/model/services/ProductService.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/layouts/applications.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/applications/digitalsign.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/applications/datacenter.cfm",
-		"/H/EarthSea Portable/Documents/Finance Related/Tax Related Documents/2012 Charitable Contributiosn List.txt",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/applications/digitalSign.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/applications/dataCenter.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/applications/rackCooling.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/applications/applications.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/whereToBuy/whereToBuy.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/company/index.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/applications/index.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/applications/wiringCloset.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/applications/desktop.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/controllers/main.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/model/services/WishlistService.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/masterForm/masterForm.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/model/builder/GetListedFormBuilder.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/model/gateways/ProductGateway.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/applications/healthcare.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/applications/healthcare.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/applications/education.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/applications/government.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/applications/digitalSignage.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/applications/education.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/applications/rackCooling.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/en/where-to-buy/education.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/applications/serverRoom.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/applications/desktop.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/views/applications/homeTheater.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/applications/wiringCloset.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/applications/homeTheater.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/applications/homeTheater2.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/applications/hometheater.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/resourceBundles/applications/serverRoom.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/model/ResourceBundle.cfc",
-		"/C/Users/fcarmona/Desktop/xml2struct/xml2struct.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/model/AdServer.cfc"
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/newsite/assets/js/support.js"
 	],
 	"find":
 	{
@@ -847,9 +895,11 @@
 	},
 	"find_in_files":
 	{
-		"height": 92.0,
+		"height": 0.0,
 		"where_history":
 		[
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.admin.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.admin.tripplite.com\\newAdmin",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.admin.tripplite.com\\other",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.admin.tripplite.com",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\newsite",
@@ -904,141 +954,191 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"str_action",
-			"preview",
-			"rb_preview.cfm",
-			"webadmin",
-			"local.tripplite.com",
-			"\\{(mailto).*? (.*?)\\@.*?\\.com\\}",
-			"(mailto).*? (.*?)\\@.*?\\.com",
-			"\\{(mailto).*? (.*?)\\@.*?\\.com\\}",
-			"{(mailto).*? (.*?)\\@.*?\\.com}",
-			"(mailto).*? (.*?)\\@.*?\\.com",
-			"newsite/",
-			"a.pdf",
-			"pdf",
-			".pdf",
-			"03/11",
-			"05/15",
-			"fieldserviceadmin@tripplite.com",
-			"03/11",
-			"05/13",
-			"fade",
-			"<key>warranty.",
-			"<div class=\"tab-pane fade",
-			"</a></li>",
-			"</a></li",
-			"</a></li>",
-			"ddMenu",
-			"use resource",
-			"<option value",
-			"div id",
-			"<div id",
-			"fourseasonsheatingclooling",
-			"com",
-			"fwone.org",
-			"table-bordered",
-			"VARIABLES",
-			"todo",
-			"e-rate.cfm",
-			"startupService",
-			"linkSubstituteValues",
-			"ulSubstituteValues",
-			"linkSubstituteValues",
-			"startupService",
-			"Programs",
-			"fieldserviceadmin",
-			"href",
-			"(mailto).*? (.*?)\\@.*?\\.com",
-			"mailto: presaleshelp@tripplite.com",
-			"03/11",
-			"05/13",
-			"startupService",
-			"linkSubstituteValues",
-			"main",
-			"startupService",
-			"class=\"bullets\"",
-			"<br />",
-			"a.",
-			".pdf",
-			"threePhaseUPSServices",
-			"downloadPDFVersionOfPage",
-			"3-Phase UPS Services",
-			"action=\"",
-			"threePhaseUPSServices",
-			"<key>",
-			" ",
-			"submit",
-			"#\"> ",
-			"<br",
-			"<br />",
-			"<br",
-			"<br />",
-			"href",
-			"onsiteStartupMaintenanceServices",
-			"certKey.learnMore",
-			"variables.fw.buildURL",
-			"variables",
-			")\"#",
-			"\"#",
-			",",
-			"= variables",
+			"ATTRB_Names",
+			"MyRow",
+			"My_Atts_",
+			"#My_Atts_",
+			"ADD_ATTRB",
+			"&",
+			"originalString",
+			"hyphenatedString",
+			"local",
+			"<\\!\\[CDATA\\[((.*?(\\n)?)+.*?)\\]\\]>",
+			"<\\!\\[CDATA\\[(((.*?)(\\n))+.*?)?+\\]\\]>",
+			"<\\!\\[CDATA\\[(((.*?)(\\n))+.*?)+\\]\\]>",
+			"<\\!\\[CDATA\\[(((.*?)(\\n))+.*?)?\\]\\]>",
+			"<\\!\\[CDATA\\[(((.*?)(\\n))+.*?)\\]\\]>",
+			"<\\!\\[CDATA\\[(.*?(\\n))+.*?\\]\\]>",
+			"<\\!\\[CDATA\\[(.*?(\\n))?.*?\\]\\]>",
+			"<\\!\\[CDATA\\[(.*?(\\n))+.*?\\]\\]>",
+			"users",
+			"peBean",
+			"create",
+			"numeric",
+			"Id",
+			"ID",
+			"Id",
+			"ID",
+			"Id",
+			"id",
+			"Id",
+			"ID",
+			"Id",
+			"qPortalElementTypes",
+			"false",
+			"elementTypeID",
+			"qPortalElements",
+			"getByAttributesPortalElementTypes",
+			"arrPortalElementBeans",
+			"qPortalElements",
+			"getByAttributesQuery",
+			"getByAttributesPortalElementTypes",
+			"qryGetPortalElementTypes",
+			"cf_sql_varchar",
+			"elementTypeName",
+			"_",
+			"string",
+			"]",
+			"[",
+			"Portal_Contacts",
+			"Portal_Con",
+			"portal_con",
+			"localOnError",
+			"onError",
+			"error",
+			"dao",
+			"newAdmin.newAdmin",
+			"model.",
+			"utilities",
+			"portalElementService",
+			"promotionService",
+			"numeric",
+			"read",
+			"arrUserBeans",
+			"qUsers",
+			"User_ID",
+			"userDAO",
+			"portal element",
+			"user",
+			"userBean",
+			"UserBean",
+			"userBean",
+			"arrUserBeans",
+			"qUsers",
+			"portalElementGateway",
+			"userGateway",
+			"user",
+			"userBean",
+			"userID",
+			"userDAO",
+			"user",
+			"portalElementBean",
+			"local.country",
+			"userBean",
+			"UserBean",
+			"userDAO",
+			"userID",
+			"elementID",
+			"userID",
+			"PortalElementsBean",
+			"userBean",
+			"portalElementService",
+			"UserService",
 			"=",
-			"href=\"",
-			"link.company.awards",
-			"a {",
-			"buildURL",
-			"Single-Phase UPS Services",
-			"txtSeriesID=860",
-			"<li>",
-			"b>",
-			"b",
-			"<p>",
-			"how_can_we_help",
-			"buildURL",
-			"rma",
-			"rama",
-			"requestReturnMerchandiseAuthorizationNumber",
-			"requestRMANumber",
-			"pageTitle",
-			"imgSubstituteValue",
-			".attr",
-			"attr",
-			"03/11",
-			"imgSubstituteValues",
-			"linkSubstituteValues",
-			"insuranceCoverageAndClaims",
-			"h5.attr",
-			"substituteValues",
-			"local.substituteValues",
-			"substituteValues",
-			"getSubstituteValues",
-			"footerNav.h5.attr",
-			"formatRBString",
-			"getSubstituteValues",
-			"footerNav.h5.attr",
-			"getSubstituteValues",
-			"link.support.productReturnss",
-			"link.support.productReturn",
-			"link.applications.homeOffcie",
-			"formatRBString",
-			"Page -",
-			"03/11",
-			"04/27",
-			"rc.rb.item.main",
-			"rc.rightSidebar",
-			"ltd",
-			"limited",
-			"threeYear",
-			"threeyr",
-			"thirtymo"
+			"portalElementDAO",
+			"user",
+			"User",
+			"user",
+			"Changed_By_User_ID",
+			"createdByUserID",
+			"arguments",
+			"Date_Last_Changed",
+			"arguments.bean",
+			"getPartnerID",
+			"PartnerID",
+			"/>,",
+			"null",
+			"null=\"#not len(arguments.bean.getElementText1())#\" />,",
+			"Web_Users",
+			"qryGetUsersByAttributes",
+			"cfproperty",
+			"changedByUserID",
+			"userGateway",
+			"PortalElementGateway",
+			"PortalElements",
+			"portalElements",
+			"PortalElements",
+			"portalElements",
+			"PortalElements",
+			"PortalElementsDAO",
+			"PortalElements",
+			"PortalElementsBean",
+			"portalElementsBean",
+			"PortalElementsBean",
+			"portalElementsBean",
+			"PortalElementsBean",
+			"PortalElements",
+			"PortalElementsBean",
+			"void",
+			"output",
+			"cfsqltype"
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": true,
+		"regex": false,
 		"replace_history":
 		[
+			"$1",
+			"newAdmin.model.",
+			"$1$2",
+			"$1partnerID",
+			"$1promotionResellerID",
+			"$1attributeValue",
+			"$1promotionModelSpecificationID",
+			"$1attributeDescription",
+			"$1attributeID",
+			"$1instantRebate",
+			"$1modelDescription",
+			"$1modelID",
+			"$1promotionModelID",
+			"$1parentProductGroupID",
+			"$1rebateFootnotes",
+			"$1bodyCopy",
+			"$1imageFileName",
+			"$1productGroupName",
+			"$1sortOrder",
+			"$1productGroupID",
+			"$1lastModifiedBy",
+			"$1lastModifiedAt",
+			"$1createdBy",
+			"$1createdAt",
+			"$1languageCode",
+			"$1countryCode",
+			"$1expirationDate",
+			"$1goLiveDate",
+			"$1webStatusID",
+			"$1typeID",
+			"$1promotionName",
+			"$1promotionID",
+			"$1promotionModelSpecificationID",
+			"$1attributeValue",
+			"$1attributeID",
+			"$1attributeDescription",
+			"$1promotionResellerID",
+			"$1partnerID",
+			"$1promotionModelID",
+			"$1instantRebate",
+			"$1modelDescription",
+			"$1modelID",
+			"$1productGroupID",
+			"$1sortOrder",
+			"$1parentProductGroupID",
+			"$1productGroupID",
+			"$1promotionID",
+			"$1rebateFootnotes",
+			"$1bodyCopy",
+			"$1subhead",
 			"{$1.$2}",
 			"$1.$2",
 			"local.linkSubstituteValues",
@@ -1079,23 +1179,158 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 5,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/Application.cfc",
+					"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/marketing/portal/portal-edit.cfm",
 					"settings":
 					{
-						"buffer_size": 8309,
+						"buffer_size": 39974,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								342,
-								342
+								11162,
+								11179
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ColdFusion/HTML+CFML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 664.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/marketing/portal/portal-search.cfm",
+					"settings":
+					{
+						"buffer_size": 6384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3175,
+								3175
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ColdFusion/HTML+CFML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 300.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/marketing/portal/act-portal-create.cfm",
+					"settings":
+					{
+						"buffer_size": 727,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								151,
+								151
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ColdFusion/HTML+CFML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/marketing/portal/cfc/partnerPortal.cfc",
+					"settings":
+					{
+						"buffer_size": 20093,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								942,
+								942
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/Application.cfc",
+					"settings":
+					{
+						"buffer_size": 5979,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4056,
+								4056
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1056.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/model/services/BaseService.cfc",
+					"settings":
+					{
+						"buffer_size": 4555,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								836,
+								836
 							]
 						],
 						"settings":
@@ -1110,19 +1345,46 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/CFC/RB_Editor.cfc",
+					"buffer": 6,
+					"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/layouts/marketing.cfm",
 					"settings":
 					{
-						"buffer_size": 5768,
+						"buffer_size": 1195,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5423,
-								5423
+								1195,
+								1195
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ColdFusion/HTML+CFML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/controllers/main.cfc",
+					"settings":
+					{
+						"buffer_size": 1360,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1360,
+								1360
 							]
 						],
 						"settings":
@@ -1131,57 +1393,57 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 42.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/other/resource-bundle-edit.cfm",
+					"buffer": 8,
+					"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/model/services/PortalElementService.cfc",
 					"settings":
 					{
-						"buffer_size": 18466,
+						"buffer_size": 9458,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								17266,
-								17266
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/ColdFusion/HTML+CFML.tmLanguage",
+							"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2915.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/other/rb_preview.cfm",
+					"buffer": 9,
+					"file": "/C/Sites/cfmxapps/wwwroot/local.admin.tripplite.com/newAdmin/model/gateways/PortalElementGateway.cfc",
 					"settings":
 					{
-						"buffer_size": 1088,
+						"buffer_size": 6145,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1088,
-								1088
+								5131,
+								5131
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/ColdFusion/HTML+CFML.tmLanguage",
+							"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
@@ -1226,7 +1488,7 @@
 	"menu_visible": true,
 	"replace":
 	{
-		"height": 0.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1234,6 +1496,26 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"serihea",
+				"products/series-headers.cfm"
+			],
+			[
+				"sermodmov",
+				"products/series-models-move.cfm"
+			],
+			[
+				"serimodl",
+				"products/series-models.cfm"
+			],
+			[
+				"baseb",
+				"newAdmin/model/beans/BaseBean.cfc"
+			],
+			[
+				"bass",
+				"newAdmin/model/services/BaseService.cfc"
+			],
 			[
 				"resourser",
 				"newsite/model/services/ResourceBundleService.cfc"
@@ -1725,26 +2007,6 @@
 			[
 				"resourb",
 				"local.tripplite.com/newsite/model/services/ResourceBundleService.cfc"
-			],
-			[
-				"bread",
-				"local.tripplite.com/newsite/views/breadcrumbs.cfm"
-			],
-			[
-				"partnerlis",
-				"local.tripplite.com/newsite/views/whereToBuy/partnerList.cfm"
-			],
-			[
-				"modgat",
-				"local.tripplite.com/newsite/model/gateways/ModelGateway.cfc"
-			],
-			[
-				"userda",
-				"local.tripplite.com/newsite/model/dao/UserDAO.cfc"
-			],
-			[
-				"userbea",
-				"local.tripplite.com/newsite/model/beans/UserBean.cfc"
 			]
 		],
 		"width": 0.0
@@ -1764,7 +2026,7 @@
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 267.0,
 	"status_bar_visible": true
 }
