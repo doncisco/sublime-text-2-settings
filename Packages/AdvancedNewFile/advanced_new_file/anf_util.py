@@ -30,6 +30,17 @@ FILE_TEMPLATES_SETTING = "file_templates"
 SHELL_INPUT_SETTING = "shell_input"
 APPEND_EXTENSION_ON_MOVE_SETTING = "append_extension_on_move"
 RELATIVE_FALLBACK_INDEX_SETTING = "relative_fallback_index"
+APPEND_EXTENSION_ON_COPY_SETTING = "append_extension_on_copy"
+COPY_DEFAULT_SETTING = "copy_default"
+CUT_TO_FILE_DEFAULT_SETTING = "cut_to_file_default"
+CURRENT_FALLBACK_TO_PROJECT_SETTING = "current_fallback_to_project"
+WARN_OVERWRITE_ON_MOVE_SETTING = "warn_overwrite_on_move"
+NEW_FILE_DEFAULT_ROOT_SETTING = "new_file_default_root"
+RENAME_FILE_DEFAULT_ROOT_SETTING = "rename_file_default_root"
+COPY_FILE_DEFAULT_ROOT_SETTING = "copy_file_default_root"
+DEFAULT_NEW_FILE = "empty_filename_action"
+CURSOR_BEFORE_EXTENSION_SETTING = "cursor_before_extension"
+
 
 SETTINGS = [
     ALIAS_SETTING,
@@ -59,7 +70,17 @@ SETTINGS = [
     FILE_TEMPLATES_SETTING,
     SHELL_INPUT_SETTING,
     APPEND_EXTENSION_ON_MOVE_SETTING,
-    RELATIVE_FALLBACK_INDEX_SETTING
+    RELATIVE_FALLBACK_INDEX_SETTING,
+    APPEND_EXTENSION_ON_COPY_SETTING,
+    COPY_DEFAULT_SETTING,
+    CUT_TO_FILE_DEFAULT_SETTING,
+    CURRENT_FALLBACK_TO_PROJECT_SETTING,
+    WARN_OVERWRITE_ON_MOVE_SETTING,
+    NEW_FILE_DEFAULT_ROOT_SETTING,
+    RENAME_FILE_DEFAULT_ROOT_SETTING,
+    COPY_FILE_DEFAULT_ROOT_SETTING,
+    DEFAULT_NEW_FILE,
+    CURSOR_BEFORE_EXTENSION_SETTING
 ]
 
 NIX_ROOT_REGEX = r"^/"
@@ -69,6 +90,7 @@ PLATFORM = sublime.platform()
 TOP_LEVEL_SPLIT_CHAR = ":"
 IS_ST3 = int(sublime.version()) > 3000
 IS_X64 = sublime.arch() == "x64"
+REGION_KEY = "anf_cut_to_file"
 
 
 def generate_creation_path(settings, base, path, append_extension=False):

@@ -1,1 +1,1 @@
-{"url": "https://github.com/SublimeText/ColdFusion", "version": "2013.06.25.13.43.35", "description": "ColdFusion Sublime Text Package"}
+{"description": "ColdFusion Sublime Text Package", "url": "https://github.com/SublimeText/ColdFusion", "platforms": ["*"], "version": "2015.09.07.00.07.58", "sublime_text": "<3000", "dependencies": []}

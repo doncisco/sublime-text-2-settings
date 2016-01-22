@@ -4,9 +4,10 @@
 <property>
 	<key>${1:keyText}</key>
 	<value>
-		<en lastChange="02/15/2014">${2:Value text}</en>
-		<es lastChange="02/15/2014">${3:Value text}</es>
-		<ru lastChange="02/15/2014">${4:Value text}</ru>
+		<en lastChange="06/15/2016">${2:Value text}</en>
+		<es lastChange="06/15/2016">${3:Value text}</es>
+		<ru lastChange="06/15/2016">${4:Value text}</ru>
+		<fr lastChange="06/15/2016">${4:Value text}</fr>
 	</value>
 </property>]]>
 	</content>

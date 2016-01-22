@@ -1,4 +1,8 @@
 {
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -16,7 +20,9 @@
 		"Nettuts+ Fetch",
 		"Package Control",
 		"PlainTasks",
+		"Pretty JSON",
 		"Print to HTML",
+		"rsub",
 		"SideBarEnhancements",
 		"Theme - Soda",
 		"ToggleQuotes"

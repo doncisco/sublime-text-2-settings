@@ -2,6 +2,7 @@ import errno
 import os
 import re
 import sublime
+import sublime_plugin
 import shlex
 
 from ..anf_util import *
@@ -9,6 +10,13 @@ from ..platform.windows_platform import WindowsPlatform
 from ..platform.nix_platform import NixPlatform
 from ..completions.nix_completion import NixCompletion
 from ..completions.windows_completion import WindowsCompletion
+
+if not IS_ST3:
+    if PLATFORM == "windows":
+        import sys
+        sys.path.append(os.path.dirname(sys.executable))
+    from ..lib.ushlex import split as st2_shlex_split
+
 
 VIEW_NAME = "AdvancedNewFileCreation"
 
@@ -24,7 +32,7 @@ class AdvancedNewFileBase(object):
             self.platform = NixPlatform()
 
     def __generate_default_root(self):
-        root_setting = self.settings.get(DEFAULT_ROOT_SETTING)
+        root_setting = self._get_default_root()
         path, folder_index = self.__parse_path_setting(
             root_setting, DEFAULT_FOLDER_INDEX_SETTING)
         if path is None and folder_index is None:
@@ -46,6 +54,7 @@ class AdvancedNewFileBase(object):
         return path
 
     def generate_initial_path(self, initial_path=None):
+        path = None
         # Search for initial string
         if initial_path is not None:
             path = initial_path
@@ -54,7 +63,8 @@ class AdvancedNewFileBase(object):
                 cursor_text = self.get_cursor_path()
                 if cursor_text != "":
                     path = cursor_text
-            else:
+
+            if path is None:
                 path = self.settings.get(DEFAULT_INITIAL_SETTING)
 
         return path
@@ -93,11 +103,17 @@ class AdvancedNewFileBase(object):
         if setting == "home":
             root = os.path.expanduser("~/")
         elif setting == "current":
-            filename = self.view.file_name()
-            if filename is not None:
-                root = os.path.dirname(filename)
-            else:
-                root = os.path.expanduser("~/")
+            if self.view is not None:
+                filename = self.view.file_name()
+                if filename is not None:
+                    root = os.path.dirname(filename)
+            if root is None:
+                if self.settings.get(CURRENT_FALLBACK_TO_PROJECT_SETTING, False):
+                    folder_index = self.__validate_folder_index(0)
+                    if folder_index == -1:
+                        root = os.path.expanduser("~/")
+                else:
+                    root = os.path.expanduser("~/")
         elif setting == "project_folder":
             folder_index = self.settings.get(index_setting)
             folder_index = self.__validate_folder_index(folder_index)
@@ -118,14 +134,32 @@ class AdvancedNewFileBase(object):
             folder_index = 0
         return folder_index
 
+    def __parse_for_shell_input(self, path):
+        if not IS_ST3 and self.__contains_non_ascii(path):
+            split_path = self.__split_shell_input_for_st2_non_ascii(path)
+        else:
+            split_path = shlex.split(str(path))
+
+        return " ".join(split_path)
+
+    def __split_shell_input_for_st2_non_ascii(self, path):
+        return st2_shlex_split(path)
+
+    def __contains_non_ascii(self, string):
+        # Don't really like this....
+        try:
+            string.decode("ascii")
+        except UnicodeEncodeError:
+            return True
+        return False
+
     def split_path(self, path=""):
         HOME_REGEX = r"^~[/\\]"
         root = None
         try:
             root, path = self.platform.split(path)
             if self.settings.get(SHELL_INPUT_SETTING, False) and len(path) > 0:
-                split_path = shlex.split(str(path))
-                path = " ".join(split_path)
+                path = self.__parse_for_shell_input(path)
             # Parse if alias
             if TOP_LEVEL_SPLIT_CHAR in path and root is None:
                 parts = path.rsplit(TOP_LEVEL_SPLIT_CHAR, 1)
@@ -149,7 +183,8 @@ class AdvancedNewFileBase(object):
                 if self.view.file_name() is not None:
                     root = os.path.dirname(self.view.file_name())
                 else:
-                    folder_index = self.settings.get(RELATIVE_FALLBACK_INDEX_SETTING, 0)
+                    folder_index = self.settings.get(
+                        RELATIVE_FALLBACK_INDEX_SETTING, 0)
                     folder_index = self.__validate_folder_index(folder_index)
                     root = self.__project_folder_from_index(folder_index)
                 if re.match(r"^\.{2}[/\\]", path):
@@ -231,8 +266,10 @@ class AdvancedNewFileBase(object):
         return ""
 
     def show_filename_input(self, initial):
+        caption = self.input_panel_caption()
+
         self.input_panel_view = self.window.show_input_panel(
-            self.input_panel_caption(), initial,
+            caption, initial,
             self.on_done, self.__update_filename_input, self.clear
         )
 
@@ -242,6 +279,8 @@ class AdvancedNewFileBase(object):
         self.input_panel_view.settings().set("tab_completion", False)
         self.input_panel_view.settings().set("translate_tabs_to_spaces", False)
         self.input_panel_view.settings().set("anf_panel", True)
+        if self.settings.get(CURSOR_BEFORE_EXTENSION_SETTING):
+            self.__place_cursor_before_extension(self.input_panel_view)
 
     def __update_filename_input(self, path_in):
         new_content = path_in
@@ -268,9 +307,14 @@ class AdvancedNewFileBase(object):
     def entered_file_action(self, path):
         pass
 
+    def empty_file_action(self):
+        pass
+
     def on_done(self, input_string):
         if len(input_string) != 0:
             self.entered_filename(input_string)
+        elif self.settings.get(DEFAULT_NEW_FILE, False):
+            self.empty_file_action()
 
         self.clear()
         self.refresh_sidebar()
@@ -377,6 +421,18 @@ class AdvancedNewFileBase(object):
 
         return path
 
+    def _expand_default_path(self, path):
+        current_file = self.view.file_name()
+        if current_file:
+            directory, current_file_name = os.path.split(current_file)
+            path = path.replace("<filepath>", current_file)
+            path = path.replace("<filedirectory>", directory + os.sep)
+        else:
+            current_file_name = ""
+
+        path = path.replace("<filename>", current_file_name)
+        return path
+
     def _find_open_file(self, file_name):
         window = self.window
         if IS_ST3:
@@ -387,3 +443,26 @@ class AdvancedNewFileBase(object):
                 if view_name != "" and view_name == file_name:
                     return view
         return None
+
+    ## Should be overridden by sub class
+    def get_default_root_setting(self):
+        return DEFAULT_ROOT_SETTING
+
+    def _get_default_root(self):
+        root_setting_value = self.get_default_root_setting()
+        root_setting = self.settings.get(root_setting_value)
+        if root_setting == DEFAULT_ROOT_SETTING:
+            return self.settings.get(DEFAULT_ROOT_SETTING)
+        return root_setting
+
+    def __place_cursor_before_extension(self, view):
+        if view.settings().get("anf_panel", False):
+            cursors = view.sel()
+            cursor = cursors[0]
+            line_region = view.line(cursor)
+            content = view.substr(line_region)
+            matcher = re.match(r"(.+)\..+", content)
+            if matcher:
+                initial_position = len(matcher.group(1))
+                cursors.clear()
+                cursors.add(sublime.Region(initial_position, initial_position))
