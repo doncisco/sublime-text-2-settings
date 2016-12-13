@@ -4,534 +4,526 @@
 		"selected_items":
 		[
 			[
-				"otherIndustr",
-				"qOtherIndustryID"
-			],
-			[
-				"indus",
-				"Industry_ID"
-			],
-			[
-				"cf_",
-				"cf_sql_varchar"
-			],
-			[
-				"val",
-				"VALUES"
+				"produ",
+				"productGroupsLookup"
 			],
 			[
 				"has",
-				"hasClass	.hasClass()"
+				"hasOwnProperty"
 			],
 			[
-				"createChe",
-				"createCheckbox"
+				"ob",
+				"objFinder"
 			],
 			[
-				"isResell",
-				"isReseller"
+				"mod",
+				"modelAttributes"
 			],
 			[
-				"is",
-				"isReseller"
-			],
-			[
-				"qryid",
-				"qryModelsByProductLineId"
-			],
-			[
-				"qrymodbyid",
-				"qryModelsByProductLineId"
-			],
-			[
-				"qrymodbid",
-				"qryModelsByProductLineId"
-			],
-			[
-				"cf_sq",
-				"cf_sql_numeric"
-			],
-			[
-				"cf",
-				"cfsqltype=\"cf_sql_numeric\"	cfsqltype"
-			],
-			[
-				"li",
-				"list=\"true\"	list"
-			],
-			[
-				"WE",
-				"Web_Status_ID"
-			],
-			[
-				"ca",
-				"cachedwithin	@cachedwithin"
-			],
-			[
-				"cfquer",
-				"cfquery	Tag (cmfl)"
-			],
-			[
-				"validat",
-				"validateDataForBean"
-			],
-			[
-				"industr",
-				"industries"
-			],
-			[
-				"otherindu",
-				"otherIndustryDescription"
-			],
-			[
-				"industry",
-				"industry"
-			],
-			[
-				"m-",
-				"m-Top-15"
-			],
-			[
-				"usert",
-				"userType"
-			],
-			[
-				"newslett",
-				"newsletterSignup"
-			],
-			[
-				"email",
-				"emailAddres"
-			],
-			[
-				"newsl",
-				"newsletterSignupResponse"
-			],
-			[
-				"newle",
-				"newsletterSignupResponse"
-			],
-			[
-				"searta",
-				"searchTagCount"
-			],
-			[
-				"return",
-				"returntype"
-			],
-			[
-				"scr",
-				"script"
-			],
-			[
-				"stkey",
-				"structKeyExists	fn. (cfscript)"
-			],
-			[
-				"countryCod",
-				"countryCode"
-			],
-			[
-				"data-cat",
-				"data-cat"
-			],
-			[
-				"ui",
-				"uiDevice"
-			],
-			[
-				"countryC",
-				"countryCode"
-			],
-			[
-				"country",
-				"countryCode"
-			],
-			[
-				"dtala",
-				"dataLayerAddFilterClick"
-			],
-			[
-				"show",
-				"showOtherProductApplications"
-			],
-			[
-				"ke",
-				"keyspan"
-			],
-			[
-				"lisfin",
-				"listFindNoCase	fn. (cfscript)"
-			],
-			[
-				"suppor",
-				"supportGroup"
-			],
-			[
-				"var",
-				"variables"
-			],
-			[
-				"Produ",
-				"Product_Group_ID"
-			],
-			[
-				"sor",
-				"sortOrder"
-			],
-			[
-				"fon",
-				"font-size"
-			],
-			[
-				"racconfn",
-				"rackConfigNew"
-			],
-			[
-				"editin",
-				"editingRID"
-			],
-			[
-				"ed",
-				"editingPID"
-			],
-			[
-				"occu",
-				"occupiedSpaces"
-			],
-			[
-				"total",
-				"totalSpaces"
-			],
-			[
-				"selera",
-				"selectRackSize"
-			],
-			[
-				"projec",
-				"projects"
-			],
-			[
-				"edit",
-				"editingRID"
-			],
-			[
-				"stro",
-				"storageConfig"
-			],
-			[
-				"objra",
-				"objRackPlannerConfig"
-			],
-			[
-				"raconfi",
-				"rackConfigID"
-			],
-			[
-				"showrac",
-				"showRackConfigNameInput"
-			],
-			[
-				"selec",
-				"selectedRackID"
-			],
-			[
-				"rackcon",
-				"rackConfigNameEdit"
-			],
-			[
-				"showr",
-				"showRackConfigNameInput"
-			],
-			[
-				"showrack",
-				"showRackConfigNameSelect"
-			],
-			[
-				"toggl",
-				"toggleRackConfigName"
-			],
-			[
-				"removeC",
-				"removeClass	.removeClass()"
-			],
-			[
-				"objrac",
-				"objRackPlanner"
-			],
-			[
-				"rack",
-				"rackID"
-			],
-			[
-				"seleraconfi",
-				"selectRackConfig"
-			],
-			[
-				"proje",
-				"projects"
-			],
-			[
-				"option",
-				"options"
-			],
-			[
-				"rac",
-				"rackName"
-			],
-			[
-				"getsfm",
-				"getSFModelByName"
+				"ind",
+				"indexOf"
 			],
 			[
 				"model",
-				"modelIDSelects"
-			],
-			[
-				"cur",
-				"currSerialNumberDiv"
-			],
-			[
-				"serian",
-				"serialNumberBoxes"
-			],
-			[
-				"hidd",
-				"hidden"
-			],
-			[
-				"id",
-				"id"
-			],
-			[
-				"hor",
-				"horizontal-item"
-			],
-			[
-				"iden",
-				"identifyProductsURL"
-			],
-			[
-				"conne",
-				"connectorA"
-			],
-			[
-				"purc",
-				"purchaseDate"
-			],
-			[
-				"curre",
-				"currentRow"
-			],
-			[
-				"remov",
-				"removeClass	.removeClass()"
-			],
-			[
-				"hori",
-				"horizontal-group"
-			],
-			[
-				"produin",
-				"rowProductInfo"
-			],
-			[
-				"tri",
-				"trigger	.trigger()"
-			],
-			[
-				"filter",
-				"filters"
-			],
-			[
-				"colla",
-				"collapsed"
-			],
-			[
-				"filte",
-				"filterOptions"
-			],
-			[
-				"fil",
-				"filterOptions"
-			],
-			[
-				"compa",
-				"compareLink"
-			],
-			[
-				"ha",
-				"hasClass	.hasClass()"
-			],
-			[
-				"inser",
-				"insertBefore	.insertBefore()"
-			],
-			[
-				"usab",
-				"usableVersion"
-			],
-			[
-				"add",
-				"addClass	.addClass()"
-			],
-			[
-				"att",
-				"attr	.attr() - single"
-			],
-			[
-				"usa",
-				"usableVersion"
-			],
-			[
-				"prev",
-				"preventDefault"
-			],
-			[
-				"cfd",
-				"cfdefaultcase	Tag (cmfl)"
-			],
-			[
-				"messag",
-				"MESSAGE"
-			],
-			[
-				"ModelS",
-				"ModelSpecs"
-			],
-			[
-				"connector",
-				"Connector_Type"
-			],
-			[
-				"ups",
-				"upsrbAttributes"
-			],
-			[
-				"remo",
-				"remove	.remove()"
-			],
-			[
-				"upsrb",
-				"upsrb-notes"
+				"modelID"
 			],
 			[
 				"list-",
 				"list-group-item"
 			],
 			[
-				"usable",
-				"usableUPSModel"
+				"eac",
+				"each	.each()"
 			],
 			[
-				"ver",
-				"versionOptsCount"
+				"pric",
+				"pricesButtons"
 			],
 			[
-				"attval",
-				"attrVal"
+				"models",
+				"modelsWithPrices"
 			],
 			[
-				"UPS",
-				"UPS_MODEL_NUMBER"
-			],
-			[
-				"arrba",
-				"arrBattBrand"
-			],
-			[
-				"disp",
-				"display"
-			],
-			[
-				"attribu",
-				"upsrbAttributes"
-			],
-			[
-				"attva",
-				"attrVal"
-			],
-			[
-				"requ",
-				"required=\"false\"	required"
-			],
-			[
-				"serializ",
-				"serializeJSON	fn. (cfscript)"
-			],
-			[
-				"qrymodsp",
-				"qryModelSpecs_ReplacementBatteries"
-			],
-			[
-				"Batt",
-				"Batteries"
-			],
-			[
-				"vis",
-				"visibleModelCount"
-			],
-			[
-				"attri",
-				"attributeValue"
-			],
-			[
-				"attr",
-				"attributeValue"
-			],
-			[
-				"d",
-				"dbtype=\"query\"	dbtype"
-			],
-			[
-				"mODEL",
-				"MODEL_ID"
+				"Ali",
+				"Alias_Number"
 			],
 			[
 				"Model",
+				"ModelService"
+			],
+			[
+				"xmlSku",
+				"xmlSKUByCountry"
+			],
+			[
+				"reseller",
+				"resellerPrice"
+			],
+			[
+				"thisS",
+				"thisSku"
+			],
+			[
+				"countr",
+				"countryCode"
+			],
+			[
+				"whe",
+				"WHERE"
+			],
+			[
+				"Partn",
+				"Partners"
+			],
+			[
+				"Partner",
+				"Partner_ID"
+			],
+			[
+				"partner",
+				"partnerIndex"
+			],
+			[
+				"r",
+				"RegionId"
+			],
+			[
+				"url",
+				"urlEncodedFormat	fn. (cfscript)"
+			],
+			[
+				"cfquery",
+				"cfqueryparam	Tag (cmfl)"
+			],
+			[
+				"Par",
+				"PartDescription"
+			],
+			[
+				"Part",
+				"PartNumber"
+			],
+			[
+				"Qt",
+				"Qty_"
+			],
+			[
+				"par",
+				"partDetail"
+			],
+			[
+				"spac",
+				"spacer"
+			],
+			[
+				"utili",
+				"utilities"
+			],
+			[
+				"PartnerContact",
+				"PartnerContactDAO"
+			],
+			[
+				"change",
+				"changePassword"
+			],
+			[
+				"s",
+				"showdebugoutput=\"true\"	showdebugoutput"
+			],
+			[
+				"rbTot",
+				"rbTotalPorts"
+			],
+			[
+				"query",
+				"querystring"
+			],
+			[
+				"product",
+				"products"
+			],
+			[
+				"build",
+				"buildURL	fn. this"
+			],
+			[
+				"js",
+				"serializeJSON	fn. (cfscript)"
+			],
+			[
+				"pgmo",
+				"pgModelAttributesKey"
+			],
+			[
+				"writ",
+				"writeDump"
+			],
+			[
+				"market",
+				"marketClass"
+			],
+			[
+				"seria",
+				"serializeJSON	fn. (cfscript)"
+			],
+			[
+				"compini",
+				"companyIndustryID"
+			],
+			[
+				"datatyp",
+				"dataReturnType"
+			],
+			[
+				"attrtypi",
+				"Attribute_Type_ID"
+			],
+			[
+				"FilterS",
+				"Filter_Style_ID"
+			],
+			[
+				"attribute_typ",
+				"Attribute_Type_ID"
+			],
+			[
+				"selec",
+				"selectedProductCategory"
+			],
+			[
+				"produclin",
+				"productLinesLookup"
+			],
+			[
+				"croref",
+				"crossRefNoResultsBody"
+			],
+			[
+				"po",
+				"poweralert"
+			],
+			[
+				"UTL",
+				"utilities"
+			],
+			[
+				"country",
+				"country"
+			],
+			[
+				"session",
+				"sessionStart"
+			],
+			[
+				"Web",
+				"Web_Status_ID"
+			],
+			[
+				"Mode",
 				"Model_ID"
 			],
 			[
-				"rem",
-				"remove	.remove()"
+				"Mod",
+				"Models"
+			],
+			[
+				"searb",
+				"searchbar"
+			],
+			[
+				"pare",
+				"parents	.parents()"
+			],
+			[
+				"att",
+				"attr	.attr() - single"
+			],
+			[
+				"competitom",
+				"competitorModelLookup"
+			],
+			[
+				"cfsc",
+				"cfscript	Tag (cmfl)"
+			],
+			[
+				"cfqu",
+				"cfqueryparam	Tag (cmfl)"
+			],
+			[
+				"ac",
+				"access=\"remote\"	access"
+			],
+			[
+				"cfa",
+				"cfabort"
+			],
+			[
+				"rackpro",
+				"rackProjectConfig"
+			],
+			[
+				"edi",
+				"editPID"
+			],
+			[
+				"edit",
+				"editingPID"
+			],
+			[
+				"tye",
+				"typeof"
+			],
+			[
+				"mem",
+				"memento"
+			],
+			[
+				"objse",
+				"objSessionPrefs"
+			],
+			[
+				"sav",
+				"saveToSessionStorage"
+			],
+			[
+				"inv",
+				"invited"
+			],
+			[
+				"vis",
+				"visit"
+			],
+			[
+				"pref",
+				"preferences"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"objs",
+				"objSessionPrefs"
 			],
 			[
 				"visi",
-				"visitor"
+				"visit"
 			],
 			[
-				"hompa",
-				"homepageSettings"
+				"fun",
+				"function"
 			],
 			[
-				"bas",
-				"basePath"
+				"live",
+				"liveChat"
 			],
 			[
-				"objvi",
-				"objVisitorPrefs"
+				"cache",
+				"cacheTimeSpan"
 			],
 			[
-				"fad",
-				"fadeOut	.fadeOut()"
+				"wri",
+				"writeDump	fn. (cfscript)"
+			],
+			[
+				"produclinna",
+				"productLineName"
+			],
+			[
+				"equiv",
+				"equivalents"
+			],
+			[
+				"prolinam",
+				"productLineName"
+			],
+			[
+				"prodlini",
+				"productLineID"
+			],
+			[
+				"productGroup",
+				"productGroupsLookup"
+			],
+			[
+				"htmlmoli",
+				"htmlModelList"
+			],
+			[
+				"htmlmolis",
+				"htmlModelListByPLID"
+			],
+			[
+				"Product_Lin",
+				"Product_Line_Name"
+			],
+			[
+				"num",
+				"numeric"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"arrmatch",
+				"arrMatches"
+			],
+			[
+				"return",
+				"returntype"
+			],
+			[
+				"currkey",
+				"currKeywords"
+			],
+			[
+				"wti",
+				"writeOutput	fn. (cfscript)"
+			],
+			[
+				"strk",
+				"structKeyList	fn. (cfscript)"
+			],
+			[
+				"search_key",
+				"SEARCH_KEYWORDS"
+			],
+			[
+				"searkey",
+				"searchKeywordsList"
+			],
+			[
+				"cf",
+				"cfsqltype=\"cf_sql_numeric\"	cfsqltype"
+			],
+			[
+				"cfpara",
+				"cfqueryparam	Tag (cmfl)"
+			],
+			[
+				"qAllmo",
+				"qAllModelsTypeAhead"
+			],
+			[
+				"DB",
+				"dbtype=\"query\"	dbtype"
+			],
+			[
+				"cfque",
+				"cfquery	Tag (cmfl)"
+			],
+			[
+				"ca",
+				"cachedwithin	@cachedwithin"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"sele",
+				"selector	A basic jQuery selector"
+			],
+			[
+				"typ",
+				"typeahead"
+			],
+			[
+				"wr",
+				"writeDump	fn. (cfscript)"
+			],
+			[
+				"cf_sql_b",
+				"cf_sql_bit"
+			],
+			[
+				"mODESP",
+				"ModelSpecs"
+			],
+			[
+				"m-T",
+				"m-Top-15"
+			],
+			[
+				"comp",
+				"compareModelIDs"
+			],
+			[
+				"produc",
+				"products"
+			],
+			[
+				"filterop",
+				"filterOptionsBar"
+			],
+			[
+				"pros",
+				"productSearchResults"
+			],
+			[
+				"obj",
+				"objSelf"
+			],
+			[
+				"pro",
+				"productsFilters"
+			],
+			[
+				"checkb",
+				"checkboxes"
+			],
+			[
+				"seby",
+				"searchByTypeArgs"
+			],
+			[
+				"us",
+				"usableOpts"
+			],
+			[
+				"rb",
+				"rbTopBullets"
+			],
+			[
+				"rbBas",
+				"rbBaseBullets"
+			],
+			[
+				"html",
+				"htmlBaseHeader"
+			],
+			[
+				"htmlB",
+				"htmlBaseFeatures"
+			],
+			[
+				"grouim",
+				"groupImageID"
+			],
+			[
+				"upd",
+				"updateCarousel"
+			],
+			[
+				"groupIma",
+				"groupImageID"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "/C/Users/fcarmona/Desktop/Notes/Local Environment.txt",
+			"file": "/C/Users/fcarmona/Desktop/Notes/Scratch Paper.txt",
 			"settings":
 			{
-				"buffer_size": 5606,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/fcarmona/Desktop/Notes/TO DO List.TODO",
-			"settings":
-			{
-				"buffer_size": 12516,
+				"buffer_size": 13444,
 				"line_ending": "Windows"
 			}
 		},
@@ -539,101 +531,47 @@
 			"file": "/C/Users/fcarmona/Desktop/Notes/Notes.txt",
 			"settings":
 			{
-				"buffer_size": 19826,
+				"buffer_size": 21275,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/fcarmona/Desktop/Notes/FW1 Port Explanation - Notes.txt",
+			"file": "/C/Users/fcarmona/Desktop/Notes/TO DO List.TODO",
 			"settings":
 			{
-				"buffer_size": 15508,
+				"buffer_size": 13567,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/fcarmona/Desktop/Notes/Fusion Reactor - Notes.txt",
+			"file": "/C/Users/fcarmona/Desktop/T61 URLS 112716.txt",
 			"settings":
 			{
-				"buffer_size": 6538,
-				"line_ending": "Windows",
-				"name": "Thank you for giving FusionReactor a try!"
+				"buffer_size": 3851,
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/Application.cfc",
 			"settings":
 			{
-				"buffer_size": 29355,
+				"buffer_size": 31944,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/myAccount.cfc",
+			"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/company.cfc",
 			"settings":
 			{
-				"buffer_size": 43168,
+				"buffer_size": 34209,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "<cfcomponent extends=\"FormBuilder\" displayname=\"MyAccountNewsletterFormBuilder\" output=\"false\" hint=\"Concrete Builder (Builder Design Pattern) for Newsletter Signup Form Creation\">\n	<cffunction name=\"history\" access=\"public\" output=\"false\" returntype=\"xml\" hint=\"development history of the CFC\">\n		<cfset var local = structNew()>\n		<cfxml variable=\"local.history\"> \n			<history>\n				<change date=\"01/17/2014\" author=\"Francisco Carmona\">Initial Creation</change>\n				<change date=\"08/07/2014\" author=\"Francisco Carmona\">Updated processForm() to always update Lead Source code for new and existing users.</change>\n			</history>\n		</cfxml> \n		<cfreturn local.history>\n	</cffunction>\n\n	<cffunction name=\"init\" access=\"public\" output=\"false\" returntype=\"MyAccountNewsletterFormBuilder\">\n		<cfargument name=\"actionPage\" type=\"string\" required=\"true\" hint=\"Where form will be posting to\" />\n		<cfargument name=\"rbForm\" type=\"struct\" required=\"true\" hint=\"Master Form Resource Bundle\" />\n		<cfargument name=\"rbPage\" type=\"struct\" required=\"true\" hint=\"Newsletter Signup Form - Page Resource Bundle\" />\n		<cfargument name=\"objUser\" type=\"model.beans.UserBean\" required=\"true\" hint=\"User bean object\" />\n		<cfargument name=\"objectFactory\" type=\"model.factory.ObjectFactory\" required=\"true\" hint=\"FW1 object factory used to pull cached services\" />\n		\n		<cfscript>\n			variables.formErrorMessage        = \"\";\n			variables.formSuccessMessage      = \"\";\n			variables.actionPage              = arguments.actionPage;\n			variables.rbForm                  = arguments.rbForm;\n			variables.rbPage                  = arguments.rbPage;\n			variables.objUser                 = arguments.objUser;\n			variables.companyService          = arguments.objectFactory.getObject(\"companyService\");\n			variables.userService             = arguments.objectFactory.getObject(\"userService\");\n			variables.userSubscriptionService = arguments.objectFactory.getObject(\"userSubscriptionService\");\n			variables.qCountries              = arguments.objectFactory.getObject(\"geographyService\").getCountries().data;\n			variables.otherIndustryID         = variables.companyService.getCompanyIndustries(industryName=\"Other\").data.company_industry_id;\n			variables.qIndustries             = variables.companyService.getCompanyIndustries(market=\"1,3\", excludeIDs=variables.otherIndustryID ).data;\n		</cfscript>\n		\n		<cfreturn this />\n	</cffunction>\n\n	<cffunction name=\"buildFormFields\" access=\"public\" output=\"false\" returntype=\"void\" hint=\"I build the form fields structure for use in creating a form\">\n		<cfscript>\n			this.formFields.countryCode = {\n				id           = \"countryCode\", \n				label        = variables.rbForm.country, \n				qData        = variables.qCountries, \n				qValueField  = \"COUNTRY_CODE\",\n				qTextField   = \"COUNTRY_NAME\", \n				value        = variables.objUser.getCountryCode(),\n				required     = true, \n				errorMessage = \"\"\n			};\n			this.formFields.firstName = {\n				id           = \"firstName\", \n				label        = variables.rbForm.firstName, \n				placeholder  = \"\", \n				value        = variables.objUser.getFirstName(), \n				required     = true, \n				errorMessage = \"\"\n			};\n			this.formFields.familyName = {\n				id           = \"familyName\", \n				label        = variables.rbForm.familyName, \n				placeholder  = \"\", \n				value        = variables.objUser.getFamilyName(), \n				required     = true, \n				errorMessage = \"\"\n			};\n			this.formFields.emailAddress = {\n				id           = \"emailAddress\", \n				label        = variables.rbForm.emailAddress, \n				placeholder  = \"e.g. user@example.com\", \n				value        = variables.objUser.getEmailAddress(), \n				required     = true, \n				errorMessage = \"\"\n			};			\n			this.formFields.isReseller = {\n				id           = \"isReseller\",\n				name         = \"isReseller\",\n				label        = \"I am a Tripp Lite reseller or distributor\",\n				value        = \"isReseller\", // 1=end user, 2=reseller\n				placeholder	 = \"\",\n				required     = false, // Un-require when not showing				\n				checked      = false,\n				errorMessage = \"\"\n			};\n\n			this.formFields.companyName = {\n				id           = \"companyName\", \n				label        = variables.rbForm.companyName, \n				placeholder  = \"\", \n				value        = variables.objUser.getCompanyName(), \n				required     = false, \n				errorMessage = \"\"\n			};\n			this.formFields.title = {\n				id           = \"title\", \n				label        = variables.rbForm.title, \n				placeholder  = \"\", \n				value        = variables.objUser.getTitle(), \n				required     = false, \n				errorMessage = \"\"\n			};\n\n			// Create array of industry checkbox options\n			local.arrIndustryCheckboxes = arrayNew(1);\n			for (var i=1; i LTE variables.qIndustries.recordCount; i=i+1) {\n				// Create checkbox struct with attributes from current record\n				local.checkboxStruct = {\n					id      = \"industry#i#\",\n					name    = \"industry\",\n					label   = variables.qIndustries.company_industry_text[i],\n					value   = variables.qIndustries.company_industry_id[i], \n					checked = false\n				};\n\n				// Save to array of checkboxes to be in form field group\n				arrayAppend(local.arrIndustryCheckboxes, local.checkboxStruct);\n			}			\n			// Industry Checkboxes Group\n			this.formFields.industry = {\n				id           = \"industry\",\n				name         = \"industry\",\n				label        = variables.rbPage.companyIndustries,\n				value        = \"\",\n				required     = false, // Un-require when not showing\n				errorMessage = \"\",\n				cboxes       = local.arrIndustryCheckboxes, // Array of checkboxes (structs)\n				layout       = \"horizontal-item\",\n				splitOptions = true // Split options into 2 columns.\n			};\n			this.formFields.otherIndustry = {\n				id           = \"otherIndustry\",\n				label        = variables.rbPage.options.industry.other,\n				value        = variables.otherIndustryID, \n				placeholder	 = \"\",\n				required     = false,\n				checked      = false,\n				errorMessage = \"\"\n			};			\n			this.formFields.otherIndustryDescription = {\n				id           = \"otherIndustryDescription\",\n				label        = \"\",\n				value        = \"\", \n				placeholder	 = \"\",\n				required     = false,\n				errorMessage = \"\"\n			};\n\n			this.formFields.newsletterSignupButton = {\n				id           = \"btnNewsletterSignup\", \n				label        = variables.rbForm.submitButton, \n				placeholder  = \"\", \n				value        = \"Newsletter Signup\", \n				type         = \"submit\"\n			};\n		</cfscript>	\n	</cffunction>\n\n	<cffunction name=\"updateFormFields\" access=\"public\" output=\"false\" returntype=\"void\" hint=\"Update form field structure with data passed in\">\n		<cfargument name=\"dataStruct\" type=\"struct\" required=\"true\" hint=\"Data struct, usually a form. Struct Keys should match those in formFields struct\">\n\n		<cfscript>\n			// Update our form data structure with submitted form values\n			this.formFields.countryCode.value  = arguments.dataStruct.countryCode;\n			this.formFields.firstName.value    = arguments.dataStruct.firstName;\n			this.formFields.familyName.value   = arguments.dataStruct.familyName;\n			this.formFields.emailAddress.value = arguments.dataStruct.emailAddress;\n			this.formFields.title.value        = arguments.dataStruct.title;\n			this.formFields.companyName.value  = arguments.dataStruct.companyName;\n\n			if(structKeyExists(dataStruct, \"isReseller\")){ \n				this.formFields.isReseller.checked = true;\n			}\n			if(structKeyExists(dataStruct, \"industry\")){ \n				this.formFields.industry.value = arguments.dataStruct.industry; \n			}\n\n			if(structKeyExists(dataStruct, \"otherIndustry\")){ \n				this.formFields.otherIndustry.checked = true; \n				this.formFields.otherIndustryDescription.required = true; // Require a description\n				this.formFields.otherIndustryDescription.value = arguments.dataStruct.otherIndustryDescription; \n\n				//Add other value to the list of selected industries \n				this.formFields.industry.value = listAppend(this.formFields.industry.value, this.formFields.otherIndustry.value);\n			}\n		</cfscript>\n	</cffunction>\n\n	<cffunction name=\"generateForm\" access=\"public\" output=\"false\" returntype=\"void\" hint=\"I generate a newsletter signup form.\">\n		<cfprocessingdirective suppressWhitespace=\"true\">\n			<cfsavecontent variable=\"this.formHTML\">\n				<cfoutput>\n					<form class=\"form-horizontal col-md-12 well\" action=\"#variables.actionPage#\" method=\"post\" name=\"newsletterSingupForm\" id=\"newsletterSingupForm\">\n						<!--- Display form-wide error messages --->\n						<cfif variables.formErrorMessage NEQ \"\">\n							<div class=\"alert alert-danger\">\n								<button type=\"button\" class=\"close\" data-dismiss=\"alert\">&times;</button>\n								#variables.formErrorMessage#\n							</div>\n						</cfif>\n						\n						<cfif variables.formSuccessMessage NEQ \"\">\n							<div class=\"alert alert-success\">\n								<button type=\"button\" class=\"close\" data-dismiss=\"alert\">&times;</button>\n								#variables.formSuccessMessage#\n							</div>\n						</cfif>\n\n						<!--- main fields --->\n						<div class=\"row padLeft20\">\n							<div class=\"col-md-3\">\n								#createSelectList( argumentCollection = this.formFields.countryCode )#\n							</div>\n						</div>\n						<div class=\"row padLeft20\">\n							<div class=\"col-md-3\">\n								#createInputBox( argumentCollection = this.formFields.firstName )#\n							</div>\n							<div class=\"col-md-3 col-md-offset-1\">\n								#createInputBox( argumentCollection = this.formFields.familyName )#\n							</div>\n						</div>\n						<div class=\"row padLeft20\">\n							<div class=\"col-md-7\">\n								#createInputBox( argumentCollection = this.formFields.emailAddress )#\n							</div>\n						</div>\n						<div class=\"row padLeft20\">\n							<div class=\"col-md-7\">\n								#createCheckbox( argumentCollection = this.formFields.isReseller )#\n							</div>\n						</div>\n						\n						<hr />\n						<h5 class=\"m-Bottom25\">PLEASE HELP US TO SERVE YOU BETTER (optional)</h5>\n\n						<div class=\"row padLeft20\">\n							<div class=\"col-md-3\">\n								#createInputBox( argumentCollection = this.formFields.companyName )#\n							</div>\n						</div>\n						<div class=\"row padLeft20\">\n							<div class=\"col-md-3\">\n								#createInputBox( argumentCollection = this.formFields.title )#\n							</div>\n						</div>\n\n						<!--- INDUSTRY CHECKBOX OPTIONS --->\n						<div class=\"row padLeft20\" id=\"rowIndustry\" style=\"display: none;\">\n							<div class=\"col-md-7\">\n								#createCheckboxes( argumentCollection = this.formFields.Industry )#\n							</div>\n						</div>\n						<div class=\"row padLeft20\" id=\"rowIndustryOther\" style=\"display: none;\">\n							<div class=\"col-md-1 m-Right20\">\n								#createCheckbox( argumentCollection = this.formFields.otherIndustry )#\n							</div>\n							<div class=\"col-md-3 m-Top-15\">\n								#createInputBox( argumentCollection = this.formFields.otherIndustryDescription )#\n							</div>\n						</div>\n\n						<!--- submit button --->\n						<div class=\"row padLeft35 m-Top30\">\n							#createButton( argumentCollection = this.formFields.newsletterSignupButton )#								\n						</div>\n					</form>\n				</cfoutput>\n			</cfsavecontent>\n		</cfprocessingdirective>\n	</cffunction>\n	\n	<cffunction name=\"processForm\" access=\"public\" output=\"false\" returntype=\"boolean\" hint=\"I do form processing and data validation\">\n		<cfscript>\n		// ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::\n		// Check that required fields are filled in properly\n		// ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::\n			local.requiredFieldsFilled = super.processForm(errorLabels = variables.rbForm.requiredFieldErrors); \n			\n			// Required fields test fail. formFields.errorMessages is updated by parent object. Simply exit\n			if( !local.requiredFieldsFilled ){ return false; }	\n\n		// ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::\n		// Create user bean from info passed in - this will trigger data validation\n		// ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::\n			local.createUserBean = variables.userService.create(\n				countryCode    = this.formFields.countryCode.value,\n				firstName      = this.formFields.firstName.value,\n				familyName     = this.formFields.familyName.value,\n				emailAddress   = this.formFields.emailAddress.value,\n				title          = this.formFields.title.value,\n				companyName    = this.formFields.companyName.value,\n				userStatus	   = \"visitor\"\n			);\n\n			// Found errors with user bean data. Update error messages and exit.\n			if( !local.createUserBean.success ){\n				// Loop through errors structure and determine which form fields to update with language specific error messages\n				for(local.key in local.createUserBean.errors) {\n					if( structKeyExists(this.formFields, local.key) ){\n						// Using the form field ids (which match the bean properties) as the keys for the resource bundle.\n						this.formFields[local.key].errorMessage &= variables.rbForm.fieldDataErrors[local.key] & \"<br>\";\n					}else{\n						// No matching form element to insert error into, show in form-wide errors\n						variables.formErrorMessage &= variables.rbForm.fieldDataErrors[local.key] & \"<br>\";\n					}\n				}\n				\n				return false;\n			}else{\n				// Check for existing user by email address\n				local.findUserByEmail = variables.userService.getByAttributes( emailAddress = this.formFields.emailAddress.value );\n\n				// Set DB user or new user bean to signup for newsletter\n				local.userBean = local.findUserByEmail.success ? local.findUserByEmail.data[1] : local.createUserBean.data;\n			}\n\n		// ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::\n		// Create company related records from info passed in\n		// ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::\n			if( len(this.formFields.companyName.value) ){\n				// Create company bean from info passed in - this will trigger data validation\n				local.createCompanyBean = variables.companyService.create(\n					companyTypeID = 0,\n					companyName = this.formFields.companyName.value\n				);\n\n				// Found errors with company bean data. Update error messages and exit.\n				if( !local.createCompanyBean.success ){\n					// Loop through errors structure and determine which form fields to update with language specific error messages\n					for( local.key in local.createCompanyBean.errors ){\n						if( structKeyExists(this.formFields, local.key) ){\n							// Using the form field ids (which match the bean properties) as the keys for the resource bundle.\n							this.formFields[local.key].errorMessage &= variables.rbForm.fieldDataErrors[local.key] & \"<br>\";\n						}else{\n							// No matching form element to insert error into, show in form-wide errors\n							variables.formErrorMessage &= variables.rbForm.fieldDataErrors[local.key] & \"<br>\";\n						}\n					}\n					return false;\n				}else{\n					// Always create new company and update web_user record. \n					// Don't use existing company records that may be found in existing user's Company_ID;\n					local.companyBean = local.createCompanyBean.data;\n					\n					// Save new company data\n					local.saveCompany = variables.companyService.save( local.companyBean );\n\n					// Ignore Problems saving company bean information to DB\n					if( local.saveCompany.success ){\n						// Add company id to (new/existing user) without an associated company record\n						local.userBean.setCompanyID( local.companyBean.getCompanyID() );\n\n						// Industries Selected? Make company industry DB entries\n						if( len(this.formFields.industry.value) ){\n							// Industry checkbox selections will be list\n							for (i=1; i<=listLen(this.formFields.industry.value); i=i+1) {\n								variables.companyService.saveCompanyIndustry(\n									companyID = local.companyBean.getCompanyID(),\n									industryID = listGetAt(this.formFields.industry.value, i)\n								);\n							}\n						}\n					}\n				}\n			}\n\n		// ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::\n		// Update user bean and save to DB\n		// ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::\n			// Update lead source for all users - dan fiedler appends this info in SF DB when it changes in webcat\n			local.userBean.setLeadSource( \"NEWSLETTER SUBSCRIPTION\" );\n\n			// User wishes to recieve emails\n			local.userBean.setDoNotEmail( false ); \n\n			// Saves new user OR updates found user (and their doNotEmail status)\n			local.saveUser = variables.userService.save( local.userBean );\n\n			// Problems saving user bean information to DB\n			if( !local.saveUser.success ){ \n				variables.formErrorMessage = variables.rbPage.newsletterSignup.fail;\n				return false; \n			}\n\n		// ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::\n		// Signup user for tripplite newsletter\n		// ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::\n			local.userType = this.formFields.isReseller.checked ? 2 : 1; \n\n			// Create user subscription bean. initiates data validation\n			local.createUserSubscriptionBean = variables.userSubscriptionService.create(\n				userID            = local.userBean.getUserID(),\n				subscriptionID    = local.userType,\n				startDate         = NOW(),\n				subscriptionEmail = local.userBean.getEmailAddress()\n			);\n\n			// Data good. Save user subscription to DB\n			if( local.createUserSubscriptionBean.success ){\n				variables.userSubscriptionService.save( local.createUserSubscriptionBean.data );\n			}else{	\n				variables.formErrorMessage = variables.rbPage.newsletterSignup.fail & \"<br>\";\n				return false;\n			}\n\n		// ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::\n		// Log user Activity?\n		// ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::\n		\n\n		// ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::\n		// We got this far means processing form was successful. \n		// ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::\n			return true;\n		</cfscript>\n	</cffunction>\n</cfcomponent>",
-			"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/MyAccountNewsletterFormBuilder.cfc",
-			"file_size": 18539,
-			"file_write_time": 130977044193520639,
+			"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/GeneralInquiriesFormBuilder.cfc",
 			"settings":
 			{
-				"buffer_size": 18281,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/WarrantyFormBuilder.cfc",
-			"settings":
-			{
-				"buffer_size": 48089,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/CompanyService.cfc",
-			"settings":
-			{
-				"buffer_size": 21719,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/CompanyDAO.cfc",
-			"settings":
-			{
-				"buffer_size": 11626,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/CompanyGateway.cfc",
-			"settings":
-			{
-				"buffer_size": 15253,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "Searching 6811 files for \"getCompanyIndustries\"\n\nC:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model\\builder\\MyAccountNewsletterFormBuilder.cfc:\n   29  			variables.userSubscriptionService = arguments.objectFactory.getObject(\"userSubscriptionService\");\n   30  			variables.qCountries              = arguments.objectFactory.getObject(\"geographyService\").getCountries().data;\n   31: 			variables.qIndustries             = variables.companyService.getCompanyIndustries(market=\"1,3\").data;\n   32: 			variables.qOtherIndustry          = variables.companyService.getCompanyIndustries(industryName=\"Other\").data;\n   33  		</cfscript>\n   34  		\n\nC:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model\\builder\\WarrantyFormBuilder.cfc:\n   58  			variables.qCompanySizeDomestic = variables.companyService.getCompanySizes().data;\n   59  			variables.qCompanySizeInternational = variables.companyService.getCompanySizes(market=2).data;\n   60: 			variables.qCompanyIndustryDomestic = variables.companyService.getCompanyIndustries(market=\"1,3\").data;\n   61: 			variables.qCompanyIndustryInternational = variables.companyService.getCompanyIndustries(market=\"2,3\").data;\n   62  \n   63  			// check if existing user has a companyID and use it to look up the values for the company size and company industry to pre-populate.\n\nC:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model\\services\\CompanyService.cfc:\n  193  	</cffunction>\n  194  \n  195: 	<cffunction name=\"getCompanyIndustries\" access=\"public\" output=\"false\" returntype=\"struct\" hint=\"Returns all company Industries.\">\n  196  		<cfargument name=\"industryID\" type=\"numeric\" required=\"false\" />\n  197  		<cfargument name=\"industryName\" type=\"string\" required=\"false\" />\n\n5 matches across 3 files\n",
-			"settings":
-			{
-				"buffer_size": 1729,
-				"line_ending": "Windows",
-				"name": "Find Results",
-				"scratch": true
-			}
-		},
-		{
-			"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.myAccount.newsletter.js",
-			"settings":
-			{
-				"buffer_size": 1771,
+				"buffer_size": 15619,
 				"line_ending": "Windows"
 			}
 		}
@@ -641,20 +579,372 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 235.0,
+		"height": 375.0,
 		"selected_items":
 		[
 			[
-				"sscf",
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"ssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"ssc#",
+				"Set Syntax: C#"
+			],
+			[
+				"html",
+				"Snippet: Simple HTML5 Boilerplate"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"sspla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"ssplain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"JSON",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Package Control: List Packages"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"SSPLAN",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"SSJSON",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssme",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"ssc",
+				"Set Syntax: C#"
+			],
+			[
+				"sscold",
+				"Set Syntax: ColdFusion Markup"
+			],
+			[
+				"hmt",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"plai",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"ssplan",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"sspl",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"ssmae",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"sstext",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"snipma",
+				"Snippet: Markdown Codeblock"
+			],
+			[
+				"snime",
+				"Snippet: Markdown Codeblock"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"snimar",
+				"Snippet: Markdown Codeblock"
+			],
+			[
+				"ssypl",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"sst",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"sste",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"sstex",
+				"Set Syntax: TeX"
+			],
+			[
+				"ssxml",
+				"Set Syntax: XML"
+			],
+			[
+				"ssmaex",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"ssmar",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"SNIPmak",
+				"Snippet: Markdown Codeblock"
+			],
+			[
+				"snipm",
+				"Snippet: Markdown Codeblock"
+			],
+			[
+				"ssmee",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"snipmark",
+				"Snippet: Markdown Codeblock"
+			],
+			[
+				"snimak",
+				"Snippet: Markdown Codeblock"
+			],
+			[
+				"snipmar",
+				"Snippet: Markdown Codeblock"
+			],
+			[
+				"snipc",
+				"Snippet: Markdown Codeblock"
+			],
+			[
+				"sssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"snipmak",
+				"Snippet: Markdown Codeblock"
+			],
+			[
+				"snimark",
+				"Snippet: Markdown Codeblock"
+			],
+			[
+				"ssmare",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"ssmark",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"sscod",
 				"Set Syntax: ColdFusion Component"
+			],
+			[
+				"ssmarke",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"ssymark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ssymak",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"makpre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"h3",
+				"Snippet: Markdown Header 3"
+			],
+			[
+				"makli",
+				"Snippet: Markdown Hyperlink"
+			],
+			[
+				"makrpre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"mapre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markpre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"makr",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"prevbr",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ssma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"mak",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"markprev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"makpreb",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preiv",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ssmak",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"j",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"jso",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"xm",
+				"Set Syntax: XML"
+			],
+			[
+				"snip",
+				"Snippet: rbproperty"
+			],
+			[
+				"coldfu",
+				"Set Syntax: ColdFusion Markup"
+			],
+			[
+				"cfc",
+				"Set Syntax: ColdFusion Component"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
 			],
 			[
 				"sni",
 				"Snippet: rbproperty"
 			],
 			[
-				"snip",
+				"cold",
+				"Set Syntax: ColdFusion Component"
+			],
+			[
+				"SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"cfm",
+				"Set Syntax: ColdFusion Markup"
+			],
+			[
+				"cda",
+				"Snippet: CDATA"
+			],
+			[
+				"SNIP",
 				"Snippet: rbproperty"
+			],
+			[
+				"sscf",
+				"Set Syntax: ColdFusion Component"
 			],
 			[
 				"Snippet: ",
@@ -669,92 +959,28 @@
 				"Package Control: Remove Package"
 			],
 			[
-				"remo",
-				"Package Control: Remove Package"
-			],
-			[
 				"tidy",
 				"Tidy HTML"
-			],
-			[
-				"instal",
-				"Package Control: Install Package"
 			],
 			[
 				"java",
 				"Set Syntax: JavaScript"
 			],
 			[
-				"j",
-				"Pretty JSON: Format (Pretty Print) JSON"
-			],
-			[
-				"xml",
-				"Set Syntax: XML"
-			],
-			[
-				"json",
-				"Pretty JSON: Minify (compress) JSON"
-			],
-			[
-				"cold",
-				"Set Syntax: ColdFusion Markup"
-			],
-			[
-				"html",
-				"Set Syntax: HTML"
-			],
-			[
-				"sql",
-				"Set Syntax: SQL"
-			],
-			[
 				"cml",
 				"Set Syntax: camlp4"
-			],
-			[
-				"SQL",
-				"Set Syntax: SQL"
 			],
 			[
 				"ja",
 				"Set Syntax: JavaScript"
 			],
 			[
-				"jso",
-				"Pretty JSON: Format (Pretty Print) JSON"
-			],
-			[
-				"js",
-				"Pretty JSON: Format (Pretty Print) JSON"
-			],
-			[
-				"cfc",
-				"Set Syntax: ColdFusion Component"
-			],
-			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
 				"INSTALL",
 				"Package Control: Install Package"
 			],
 			[
-				"JSON",
-				"Set Syntax: JSON"
-			],
-			[
 				"ssjs",
 				"Set Syntax: JavaScript"
-			],
-			[
-				"sssql",
-				"Set Syntax: SQL"
-			],
-			[
-				"ssxml",
-				"Set Syntax: XML"
 			],
 			[
 				"ssja",
@@ -763,10 +989,6 @@
 			[
 				"SSXML",
 				"Set Syntax: XML"
-			],
-			[
-				"ssql",
-				"Set Syntax: SQL"
 			],
 			[
 				"ssj",
@@ -811,10 +1033,6 @@
 			[
 				"sstx",
 				"Set Syntax: Plain Text"
-			],
-			[
-				"ins",
-				"Package Control: Install Package"
 			],
 			[
 				"pack",
@@ -865,20 +1083,8 @@
 				"Snippet: CDATA"
 			],
 			[
-				"cda",
-				"Snippet: CDATA"
-			],
-			[
-				"SNIP",
-				"Snippet: rbproperty"
-			],
-			[
 				"snc",
 				"Snippet: CDATA"
-			],
-			[
-				"remov",
-				"Package Control: Remove Package"
 			],
 			[
 				"sscfm",
@@ -887,230 +1093,6 @@
 			[
 				"ssyjs",
 				"Set Syntax: JavaScript"
-			],
-			[
-				"ssy",
-				"Set Syntax: HTML"
-			],
-			[
-				"ssycm",
-				"Set Syntax: ColdFusion Markup"
-			],
-			[
-				"ssyn",
-				"Set Syntax: XML"
-			],
-			[
-				"ssnxml",
-				"Set Syntax: XML"
-			],
-			[
-				"ssycf",
-				"Set Syntax: ColdFusion Component"
-			],
-			[
-				"ssynxm",
-				"Set Syntax: XML"
-			],
-			[
-				"ssynxml",
-				"Set Syntax: XML"
-			],
-			[
-				"snic",
-				"Snippet: CDATA"
-			],
-			[
-				"ssysq",
-				"Set Syntax: SQL"
-			],
-			[
-				"pa",
-				"Package Control: Discover Packages"
-			],
-			[
-				"SNI",
-				"Snippet: rbproperty"
-			],
-			[
-				"sda",
-				"Preferences: Settings - Default"
-			],
-			[
-				"SNIp",
-				"Snippet: rbproperty"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
-				"ssyh",
-				"Set Syntax: HTML"
-			],
-			[
-				"Package Control: inst",
-				"Package Control: Install Package"
-			],
-			[
-				"sss",
-				"Set Syntax: HTML (ASP)"
-			],
-			[
-				"s",
-				"Snippet: CDATA"
-			],
-			[
-				"insla",
-				"Package Control: Install Package"
-			],
-			[
-				"snipc",
-				"Snippet: CDATA"
-			],
-			[
-				"SNIPP",
-				"Snippet: rbproperty"
-			],
-			[
-				"snippr",
-				"Snippet: rbproperty"
-			],
-			[
-				"snipper",
-				"Snippet: rbproperty"
-			],
-			[
-				"snipr",
-				"Snippet: rbproperty"
-			],
-			[
-				"snippd",
-				"Snippet: CDATA"
-			],
-			[
-				"snipprb",
-				"Snippet: rbproperty"
-			],
-			[
-				"SNIPPC",
-				"Snippet: CDATA"
-			],
-			[
-				"snippe",
-				"Snippet: CDATA"
-			],
-			[
-				"ssyncfm",
-				"Set Syntax: ColdFusion Markup"
-			],
-			[
-				"removpa",
-				"Package Control: Remove Package"
-			],
-			[
-				"install p",
-				"Package Control: Install Package"
-			],
-			[
-				"F",
-				"Fetch: Package"
-			],
-			[
-				"installpa",
-				"Package Control: Install Package"
-			],
-			[
-				"install ",
-				"Package Control: Install Package"
-			],
-			[
-				"installp",
-				"Package Control: Install Package"
-			],
-			[
-				"packains",
-				"Package Control: Install Package"
-			],
-			[
-				"packin",
-				"Package Control: Install Package"
-			],
-			[
-				"ssyncold",
-				"Set Syntax: ColdFusion Markup"
-			],
-			[
-				"ssyncom",
-				"Set Syntax: ColdFusion Markup"
-			],
-			[
-				"ssynco",
-				"Set Syntax: ColdFusion Component"
-			],
-			[
-				"ssynhtm",
-				"Set Syntax: HTML"
-			],
-			[
-				"instalpa",
-				"Package Control: Install Package"
-			],
-			[
-				"ssyncol",
-				"Set Syntax: ColdFusion Component"
-			],
-			[
-				"fetp",
-				"Fetch: Package"
-			],
-			[
-				"fet",
-				"Fetch: Manage"
-			],
-			[
-				"open",
-				"File: Open In Browser - Production Server"
-			],
-			[
-				"task",
-				"Tasks: New document"
-			],
-			[
-				"fetc",
-				"Fetch: File"
-			],
-			[
-				"ssncold",
-				"Set Syntax: ColdFusion Markup"
-			],
-			[
-				"ssn col",
-				"Set Syntax: ColdFusion Markup"
-			],
-			[
-				"ssyhtm",
-				"Set Syntax: HTML"
-			],
-			[
-				"chang",
-				"ChangeQuotes"
-			],
-			[
-				"change",
-				"ChangeQuotes"
-			],
-			[
-				"INSTALL ",
-				"Package Control: Install Package"
-			],
-			[
-				"INSTALL PA",
-				"Package Control: Install Package"
-			],
-			[
-				"install pa",
-				"Package Control: Install Package"
 			]
 		],
 		"width": 514.0
@@ -1130,134 +1112,134 @@
 	},
 	"file_history":
 	[
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/beans/UserBean.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/UserDAO.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/UserGateway.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/FormBuilder.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/CompanyService.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/beans/CompanyBean.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/ClickStreamService.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/framework/one.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/BaseService.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.myAccount.newsletter.js",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/myAccount/newsletter.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/company.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/WarrantyFormBuilder.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.support.productWarrantyRegistration.js",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/snippets/products/modelList.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/products.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/layouts/products.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.products.category.js",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/layouts/category.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/logs/dumpException.txt",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/logs/dbException.txt",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.js",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/myAccount.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/UserService.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/support/downloads.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/support.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.support.productSupportForm.js",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/whereToBuy.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/resellers.cfc",
 		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/ProductSupportFormBuilder.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/ProductGateway.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/support.cfc",
 		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/ProductService.cfc",
-		"/C/FusionReactor/instance/cfusion.cf11/log/20160113120000/request.log",
-		"/C/ColdFusion11/cfusion/logs/application.log",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/ProductGateway.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/SupportService.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/ModelService.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/MessageQueueService.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/MessageQueueDAO.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/web.config",
+		"/C/Users/fcarmona/Desktop/pgpl.txt",
+		"/C/Users/fcarmona/Desktop/duplicate objects.txt",
+		"/C/Users/fcarmona/Desktop/pg.txt",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/tripplite.xml",
+		"/C/Users/fcarmona/Desktop/fr-logrotator-plugin/request.log",
+		"/C/Users/fcarmona/Desktop/fr-logrotator-plugin/crashprotection.log",
+		"/C/Users/fcarmona/Desktop/exception.log",
+		"/C/Users/fcarmona/Desktop/Notes/Local Environment.txt",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/jobs/resellerDatafeeds/model/resellerService.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/main.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/jobs/resellerDatafeeds/actions/5_ImportCiData.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/jobs/resellerDatafeeds/actions/1_LoadModelData.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/jobs/resellerDatafeeds/resellerLoadPart1.cfm",
+		"/K/_Francisco Carmona/Sites/aspnet/local.tripplite.com/TLDC.Web/Services/ProductService.cs",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/jobs/outboundData/powerReviews/prPPMDataFeed.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/ModelGateway.cfc",
+		"/C/Sites/aspnet/tldc.tripplite.com/index.html",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/fcarmona/Desktop/ProductGateway.qryModelSpecs - Network cables",
+		"/C/Users/fcarmona/Desktop/URLS.txt",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/jobs/outboundData/Lingo24/rbExport.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/products/category.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/snippets/products/modelList.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.products.finder.js",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/products.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.products.category.js",
+		"/C/Users/fcarmona/AppData/Local/Temp/busybox.DMP",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/ResourceBundleService.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/footer.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/prefooter.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourcebundles/tripplite.xml",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/ObjectDAO.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/tasks.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/ObjectService.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/pages.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/beans/ObjectBean.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/jobs/logs/resellerDatafeeds.txt",
+		"/C/Users/fcarmona/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/fcarmona/AppData/Roaming/Sublime Text 2/Packages/User/Plain text.sublime-settings",
+		"/C/Users/fcarmona/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/ModelDAO.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/jobs/resellerDatafeeds/actions/resellerLoaders/loader_Cdw.cfm",
+		"/E/Notes/ColdBox Developer Week 2016 - Session Notes.txt",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/SearchEngineService.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/TaskGateway.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/searchGateway.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/jobs/resellerDatafeeds/actions/5_ImportCiData-new.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/jobs/resellerDatafeeds/actions/1_LoadModelData-new-1.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/jobs/resellerDatafeeds/actions/1_LoadModelData-new.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/jobs/resellerDatafeeds/resellerConfig.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/jobs/resellerDatafeeds/actions/4_CheckResellerData.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/jobs/resellerDatafeeds/resellerLoadPart1new.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/jobs/resellerDatafeeds/pstest.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/sandbox/pdfGenerator/Application.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/support/productSupportForm.xml",
+		"/C/ColdFusion11/cfusion/logs/http.log",
 		"/C/ColdFusion11/cfusion/logs/coldfusion-error.log",
 		"/C/ColdFusion11/cfusion/logs/coldfusion-out.log",
-		"/C/ColdFusion11/cfusion/logs/esapiconfig.log",
-		"/C/ColdFusion11/cfusion/logs/exception.log",
+		"/C/ColdFusion11/cfusion/logs/monitor.log",
 		"/C/ColdFusion11/cfusion/logs/server.log",
-		"/C/ColdFusion11/cfusion/logs/http.log",
-		"/C/FusionReactor/instance/cfusion.cf11/log/20160113120000/dbpoolstats.log",
-		"/C/FusionReactor/instance/cfusion.cf11/log/20160113120000/fr-coldfusion-log.log",
-		"/C/FusionReactor/instance/cfusion.cf11/log/20160113120000/gc-ConcurrentMarkSweep.log",
-		"/C/FusionReactor/instance/cfusion.cf11/log/20160113120000/gc-ParNew.log",
-		"/C/FusionReactor/instance/cfusion.cf11/log/20160113120000/heartbeat.log",
-		"/C/FusionReactor/instance/cfusion.cf11/log/20160113120000/memory-CMS-Old-Gen.log",
-		"/C/FusionReactor/instance/cfusion.cf11/log/20160113120000/memory-Code-Cache.log",
-		"/C/FusionReactor/instance/cfusion.cf11/log/20160113120000/memory-Compressed-Class-Space.log",
-		"/C/FusionReactor/instance/cfusion.cf11/log/20160113120000/memory-Metaspace.log",
-		"/C/FusionReactor/instance/cfusion.cf11/log/20160113120000/memory-Par-Eden-Space.log",
-		"/C/FusionReactor/instance/cfusion.cf11/log/20160113120000/memory-Par-Survivor-Space.log",
-		"/C/FusionReactor/instance/cfusion.cf11/log/20160113120000/memorysummary.log",
-		"/C/FusionReactor/instance/cfusion.cf11/log/20160113120000/odl.log",
-		"/C/FusionReactor/instance/cfusion.cf11/log/20160113120000/osgi.log",
-		"/C/FusionReactor/instance/cfusion.cf11/log/20160113120000/realtimestats.log",
-		"/C/FusionReactor/instance/cfusion.cf11/log/20160113120000/resource.log",
-		"/C/FusionReactor/instance/cfusion.cf11/log/20160113120000/classes.log",
-		"/C/FusionReactor/instance/FRAM/log/20160113120000/classes.log",
-		"/C/FusionReactor/instance/FRAM/log/20160113120000/memory-Code-Cache.log",
-		"/C/FusionReactor/instance/FRAM/log/20160113120000/memory-PS-Survivor-Space.log",
-		"/C/FusionReactor/instance/FRAM/log/20160113120000/thread-state.log",
-		"/C/FusionReactor/instance/FRAM/log/20160113120000/resource.log",
-		"/C/FusionReactor/instance/cfusion.cf11/log/20160113120000/thread-state.log",
-		"/C/FusionReactor/instance/cfusion.cf11/log/20160113120000/plugin-fr-logrotator-plugin.log",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/popup/preSalesHelp.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.products.model.js",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/products/model.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/products/catalog.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/CompanyGateway.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/PartnerGateway.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.products.js",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/ModelGateway.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/ModelService.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/ModelDAO.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/MyAccountNewsletterFormBuilder.cfc",
-		"/C/Users/fcarmona/Desktop/ColdBox Developer Week 2015 - Session Notes.txt",
-		"/C/Users/fcarmona/Desktop/Notes/WebDev - Notes.txt",
-		"/C/Users/fcarmona/Desktop/Notes/Scratch Paper.txt",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/beans/PartnerContactBean.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/CompanyProfileFormBuilder.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/GetListedFormBuilder.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/beans/BaseBean.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/partners.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/PartnerLoginFormBuilder.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/security.cfc",
-		"/C/Users/fcarmona/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/ColdFusion11/cfusion/logs/application.log",
+		"/C/ColdFusion11/cfusion/logs/exception.log",
+		"/E/Notes/ColdBox Developer Week 2015 - Session Notes.txt",
+		"/E/Notes/ColdBox Developer Week 2014 - Session Notes.txt",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/jobs/index.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/jobs/resellerDatafeeds/resellerLoadPart2.cfm",
+		"/C/Users/fcarmona/AppData/Roaming/Sublime Text 2/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/PartnerContactDAO.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/UserDAO.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/jobs/resellerDatafeeds/actions/1_LoadModelData_New.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/PartnerDAO.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/jobs/resellerDataFeeds/actions/5_ImportCiData.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/jobs/resellerDataFeeds/actions/2_DownloadResellerFeed.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/jobs/resellerDataFeeds/actions/resellerLoaders/loader_Amazon.cfm",
+		"/C/Users/fcarmona/Desktop/Notes/C# Fundamentals with Visual Studio 2015 - Notes.md",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/GeographyGateway.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/GeographyService.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/beans/PartnerLocationBean.cfc",
+		"/C/Sites/cfmxapps/wwwroot/dev.in.francisco.org/test.cfm",
+		"/C/Sites/cfmxapps/wwwroot/dev.in.francisco.org/index.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/pages/video.cfm",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/searchService.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/UtilityService.cfc",
+		"/C/Users/fcarmona/AppData/Roaming/Sublime Text 2/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/C/Users/fcarmona/Desktop/Notes/Visual Studio IDE - Notes.md",
+		"/C/Users/fcarmona/Desktop/Notes/C# Programming Paradigms.md",
+		"/C/Users/fcarmona/Desktop/Notes/ASP.NET - Notes.md",
+		"/C/Users/fcarmona/Desktop/Notes/Build an HTML Helper Library for ASP.NET MVC 5 - Notes.md",
+		"/C/Users/fcarmona/Desktop/Notes/ASP.NET MVC 5 Fundamentals.md",
+		"/C/ColdFusion11/cfusion/bin/jvm.config.frbak",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/UserService.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/beans/UserBean.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/ClickStreamDAO.cfc",
 		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/CompanyDAO.cfc",
-		"/C/Users/fcarmona/Desktop/Notes/OneTab Current URLS.txt",
-		"/C/Users/fcarmona/Desktop/Notes/opentabs062014.txt",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/WarrantyPreFormBuilder.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/footer.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/whereToBuy.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/GeneralInquiriesFormBuilder.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/masterForm/masterForm.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/support/productSupportForm.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/products/checkPrices.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/whereToBuy/partnerList.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/tripplite.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/applications/applications.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/support/productWarrantyRegistration.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/masterForm/fieldDataErrors.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/myAccount/reset.xml",
-		"/C/Users/fcarmona/AppData/Roaming/Sublime Text 2/Packages/User/rbproperty.sublime-snippet",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/css/tripplite.css",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/css/tripplite.homepage.css",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/layouts/default.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.products.series.js",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/Application.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.support.js",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/partners/profile.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/LocationProfileFormBuilder.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.partners.profile.js",
-		"/C/Users/fcarmona/Desktop/Notes/Local Environment.txt",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.products.finder.js",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/views/products/category.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/logs/routeMatches.txt",
-		"/C/Users/fcarmona/Desktop/Tripplite Web Dev Related/Framework One Related/local.tripplite.com/org/corfield/framework.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/web.config",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/resourceBundles/support/downloads.xml",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/layouts/jqLoad.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.resellers.productFinder.js",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/resellers.cfc",
-		"/C/Users/fcarmona/Desktop/Notes/Notes.txt",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/layouts/findit.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/ResourceBundle.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/api/HTML-SF-Data-Push.cfm",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/UserSubscriptionService.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/LocationTerritoryDAO.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/PartnerLocationDAO.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/UserHistoryDAO.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/UserPurchasesDAO.cfc",
 		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/UserPurchasesService.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/PartnerService.cfc",
-		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/PartnerLocationService.cfc"
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/PartnerTypeService.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/PartnerIndustryService.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/PartnerAndProductLineService.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/LoadCalculatorService.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/LoadCalculatorGateway.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/WishlistDAO.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/UserSubscriptionsDAO.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/FaqDAO.cfc",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/FormBuilder.cfc",
+		"/C/Users/fcarmona/Desktop/Notes/Notes.txt",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/rviListService.cfc",
+		"/C/Users/fcarmona/Desktop/Notes/Fusion Reactor - Notes.txt",
+		"/C/Users/fcarmona/Desktop/Notes/Scratch Paper.txt",
+		"/C/Users/fcarmona/Desktop/Notes/.NET Port and I.S. Specific - Notes.md",
+		"/C/Users/fcarmona/Desktop/urls.txt",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/framework/one.cfc",
+		"/C/Users/fcarmona/Desktop/Notes/FW1 Port Explanation - Notes.txt",
+		"/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/FormService.cfc"
 	],
 	"find":
 	{
@@ -1268,134 +1250,134 @@
 		"height": 92.0,
 		"where_history":
 		[
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\views",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\jobs\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\jobs\\resellerDatafeeds",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\resourcebundles",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\views",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\jobs",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\jobs\\resellerDataFeeds",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\jobs\\resellerDataFeeds",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assetss",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\resourceBundles",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model\\gateways",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\models\\gateways",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\controllers",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\jobs",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\resourceBundles",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\resourceBundles",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\controllers",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model\\builder",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets\\js",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\resourceBundles",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\views",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\controllers",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\controller",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\resourceBundles",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets\\js",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\js",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\views",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model\\builder",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets\\js",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\views",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\resourcebundles",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets\\js",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\controllers",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\resourceBundles",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\views",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\views",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\c",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\resourceBundles",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\resourceBundles",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets\\js",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\controllers",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\controller",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\resourcebundles",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\resource bundles",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\controllers",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets\\js",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\controllers",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\views",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\jobs\\inbounddata\\lingo24\\downloads",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\jobs\\resellerDatafeeds",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\jobs",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\layouts",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\sandbox",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\jobs\\resellerDatafeeds",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\MODEL",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\jobs",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\jobs\\resellerDataFeeds",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\controllers",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\controllers",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets\\js",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model\\services",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets\\js",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets\\",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\views",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets\\js",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model\\assets\\js",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model\\assests\\js",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model\\services",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\views",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model\\",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\resourceBundles",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\jobs\\resellerDatafeeds",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\jobs",
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model\\dao",
 			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model\\builder",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\layouts,C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\views,C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\,-C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\sandbox,-C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\lp",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\views",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets\\js",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\resourceBundles",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\views",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\resourceBundles",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\views",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\controllers",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets\\js",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\views",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\controller",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\controllers",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\views",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\controllers",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\controllerd",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets\\js",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\resourceBundles",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\controllers",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model\\gateways",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model\\gatewayes",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\model",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets\\js",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets\\js",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets\\js",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com",
-			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\assets\\js"
+			"C:\\Sites\\cfmxapps\\wwwroot\\local.tripplite.com\\"
 		]
 	},
 	"find_state":
@@ -1403,134 +1385,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"getCompanyID",
-			"excludeIDs",
-			"exclude",
-			"excludeID",
-			"excludeIDs",
-			"industryID",
-			"numeric",
-			"excludeIndustryID",
-			"companyIndustryDomestic",
-			"companyID",
+			"GeneralInquiriesFormBuilder",
+			"GoldenResellerSignupFormBuilder",
+			"GetListedFormBuilder",
+			"<p>&nbsp;</p>\n				=========================================<br/>\n				Customer Product Details<br/>\n				=========================================<br/>\n            	Customer Product: #(local.qModelByID.recordCount) ? local.qModelByID.model_number : \"\"# <br/><br/>\n            	Serial Number: #local.salesForceCaseProduct.serialNo# <br/><br/>\n            	Purchase Date: #local.purchaseDate# <br/><br/>\n            	Time in Service: #local.salesForceCaseProduct.timeInService# <br/><br/>\n				Application: #local.salesForceCaseProduct.application# <br/><br/>\n            	Application/Other Description: #local.salesForceCaseProduct.appOtherDesc# <br/><br/>\n            	Environment: #local.salesForceCaseProduct.environment# <br/><br/>\n            	Environment/Other Description: #local.salesForceCaseProduct.environmentOrOther# <br/><br/>\n            	Total Load: #local.salesForceCaseProduct.totalLoad# <br/><br/>\n            	Unit of Power: #local.salesForceCaseProduct.unitOfPower# <br/><br/>",
+			"<p>&nbsp;</p>\n				=========================================<br/>\n				Customer Product Details<br/>\n				=========================================<br/>\n            	Customer Product: #(local.qModelByID.recordCount) ? local.qModelByID.model_number : \"\"# <br/><br/>\n            	Serial Number: #local.salesForceCaseProduct.serialNo# <br/><br/>\n            	Purchase Date: #local.purchaseDate# <br/><br/>\n            	Time in Service: #local.salesForceCaseProduct.timeInService# <br/><br/>\n				Application: #local.salesForceCaseProduct.application# <br/><br/>\n            	Application/Other Description: #local.salesForceCaseProduct.appOtherDesc# <br/><br/>\n            	Environment: #local.salesForceCaseProduct.environment# <br/><br/>\n            	Environment/Other Description: #local.salesForceCaseProduct.environmentOrOther# <br/><br/>",
+			"<p>&nbsp;</p>\n				=========================================<br/>\n				Customer Product Details<br/>\n				=========================================<br/>\n            	Customer Product: #(local.qModelByID.recordCount) ? local.qModelByID.model_number : \"\"# <br/><br/>\n            	Serial Number: #local.salesForceCaseProduct.serialNo# <br/><br/>\n            	Purchase Date: #local.purchaseDate# <br/><br/>\n            	Time in Service: #local.salesForceCaseProduct.timeInService# <br/><br/>",
+			"<p>&nbsp;</p>\n				=========================================<br/>\n				Customer Shipping Info<br/>\n				=========================================<br/>\n				First Name: #this.formFields.firstName.value# <br/><br/>\n				Last Name: #this.formFields.familyName.value# <br/><br/>\n				Company Name: #local.salesForceCase.shipCompany# <br/><br/>\n				Shipping Address: #local.salesForceCase.shipAddress# <br/><br/>\n				Shipping City: #local.salesForceCase.shipCity# <br/><br/>\n				Shipping State: #local.salesForceCase.shipState# <br/><br/>\n				Shipping Postal Code: #local.salesForceCase.shipZip# <br/><br/>\n				Shipping Country: #local.salesForceCase.shipCountry# <br/>",
+			"<p>&nbsp;</p>\n				=========================================<br/>\n				Customer Shipping Info<br/>\n				=========================================<br/>\n				First Name: #this.formFields.firstName.value# <br/><br/>\n				Last Name: #this.formFields.familyName.value# <br/><br/>\n				Company Name: #local.salesForceCase.shipCompany# <br/><br/>\n				Shipping Address: #local.salesForceCase.shipAddress# <br/><br/>\n				Shipping City: #local.salesForceCase.shipCity# <br/><br/>\n				Shipping State: #local.salesForceCase.shipState# <br/><br/>\n				Shipping Postal Code: #local.salesForceCase.shipZip# <br/><br/>\n				Shipping Country: #local.salesForceCase.shipCountry# <br/>\n\n				<p>&nbsp;</p>\n				=========================================<br/>\n				Customer Product Details<br/>\n				=========================================<br/>\n            	Customer Product: #(local.qModelByID.recordCount) ? local.qModelByID.model_number : \"\"# <br/><br/>\n            	Serial Number: #local.salesForceCaseProduct.serialNo# <br/><br/>\n            	Purchase Date: #local.purchaseDate# <br/><br/>\n            	Time in Service: #local.salesForceCaseProduct.timeInService# <br/><br/>\n				Application: #local.salesForceCaseProduct.application# <br/><br/>\n            	Application/Other Description: #local.salesForceCaseProduct.appOtherDesc# <br/><br/>\n            	Environment: #local.salesForceCaseProduct.environment# <br/><br/>\n            	Environment/Other Description: #local.salesForceCaseProduct.environmentOrOther# <br/><br/>\n            	Total Load: #local.salesForceCaseProduct.totalLoad# <br/><br/>\n            	Unit of Power: #local.salesForceCaseProduct.unitOfPower# <br/><br/>",
+			"<p> #local.salesForceCase.desc# </p>\n\n				=========================================<br/>\n				Customer Contact Info<br/>\n				=========================================<br/>\n				First Name: #this.formFields.firstName.value# <br/><br/>\n				Last Name: #this.formFields.familyName.value# <br/><br/>\n				Company Name: #local.salesForceCase.spCompany# <br/><br/>\n				Contact Title: #local.salesForceCase.job# <br/><br/>\n				Contact Address: #local.salesForceCase.address# <br/><br/>\n				Contact City: #local.salesForceCase.city# <br/><br/>\n				Contact State: #local.salesForceCase.state# <br/><br/>\n				Contact Postal Code: #local.salesForceCase.zip# <br/><br/>\n				Contact Country: #local.salesForceCase.country# <br/><br/>\n				Email Address: #local.salesForceCase.spEmail# <br/><br/>\n				Telephone: #local.salesForceCase.spPhone# <br/><br/>",
+			"caseFieldsList",
+			"sfCase",
+			"this.formFields",
+			"#sfCase",
+			"local.sfCase",
+			"salesForceCaseProduct",
+			"local",
+			"private",
 			"string",
-			"languageCode",
-			"other",
-			"getCompanyIndustries",
-			"toggleIndustries",
-			"var",
-			"company_industry_id",
-			"market",
-			"companyIndustryID",
-			"companyIndustryName",
-			"companyIndustryID",
-			"getCompanyIndustries",
-			"companyIndustryName",
-			"market",
-			"cf_sql_numeric",
-			"Company_Industry_ID",
-			"companyIndustryID",
-			"numeric",
-			"userBean",
-			"industryID",
-			"name",
-			"array",
-			"for",
-			"cfcatch",
-			"()",
-			"update",
-			"catch(database",
-			"try",
-			"companyID",
-			"Company",
-			"qCreate",
-			"createCompanyIndustry",
-			"companyID",
-			"exists",
-			"Company_Industries",
-			"companyBean",
-			"createUserBean",
-			"findUserByEmail",
-			"companyService",
-			"userService",
-			"Company_Type_ID",
-			"user",
-			"company",
-			"userSubscriptionService",
+			"[",
+			"createMessageQueueBean",
+			"messageQueueBean",
+			"MessageQueueService",
+			"formFields.country",
+			"sfPurchaseMonth",
+			"Other",
+			"productEnvironment",
+			"unitOfPower",
+			"timeInService",
+			"ctssCallID",
+			".value",
+			"this.formFields",
 			"=",
-			"qCompanyIndustries",
-			"qCompanyIndustryDomestic",
+			"howHelp",
+			"this.formFields",
 			"=",
-			"qIndustries",
-			"qCompanyIndustryDomestic",
-			"qIndustries",
-			"qCompanyIndustryDomestic",
-			"qIndustries",
-			"qCompanyIndustryDomestic",
-			"getCompanyIndustries",
-			"qryCompanyIndustries",
-			"Company_Industry_Lookup",
-			"qIndustries",
-			"//",
+			"= ",
+			"qSFModelByName",
+			" ,",
+			"[",
+			"sfModelName",
+			"string",
+			"shipZip",
 			"=",
-			"linkSubstituteValues",
-			"userService",
-			"rbService",
-			"geoService",
-			"formService",
-			"geoService",
-			"userService",
-			"qStates",
-			"getCountries",
-			"country",
-			"geoService",
-			"userService",
-			"userSubscriptionService",
-			"ger",
-			"userService",
-			"objectFactory",
-			"rowIndustry",
-			"rowIndustryOther",
-			"rowIndustry",
-			"hide",
-			"rowIndustryDomesticOther",
-			"rowIndustry",
-			"hasClass",
-			"rowIndustryDomesticOther",
-			"rowIndustry",
-			"rowIndustryDomesticOther",
-			"rowIndustry",
-			"companyName",
-			"rowIndustry",
-			"hide",
-			"conent",
-			"this",
-			"change",
-			"country",
-			"countryCode",
-			"country",
-			"keyUp",
-			"key",
-			"toggleIndustryDomesticOther",
-			"industry",
-			"industries",
-			"toggleIndustries",
-			"updateStateList",
-			"state",
-			"cache",
-			"Stg",
-			"hide",
-			"industry",
-			"companyIndustries",
-			"industry",
-			"company industries",
-			"companyName",
-			"userType.value",
-			"userType",
-			"isReseller",
-			"userType",
-			"value",
-			"userType"
+			"sendEmailInternational",
+			"sendEmailTechSupport",
+			"productGroupDto.GroupName[LanguageId.EN]",
+			"IntlProductCount = NULL",
+			"IntlProductCount",
+			"<p id=\"solutionLead\" class=\"lead\">",
+			"\"<p id=\"solutionLead\" class=\"lead\">",
+			"\"NULL\"",
+			"ProductLineImage = \"NULL\"",
+			"ProductLineSortOrder = NULL",
+			"ProductLines.",
+			"ProductLineId = [0-9]+",
+			"ProductLineId",
+			"ProductLineId = 64",
+			"ProductLineId",
+			"ProductLineId = 18",
+			"ProductLineId",
+			"ProductLineId = 16",
+			"ProductLineId",
+			"ProductLineId = 48",
+			"ProductLineId",
+			"ProductLineId = 13",
+			"ProductLineId",
+			"ProductLineId = 20",
+			"ProductLineId = 11",
+			"ProductLineId",
+			"ProductLineId = 7;",
+			"ProductLineId",
+			"ProductLineId = 63",
+			"ProductLineId",
+			"ProductLineId = 6;",
+			"ProductLineId",
+			"ProductLineId = 5;",
+			"ProductLineId = 5",
+			"ProductLineId",
+			"ProductLineId = 8",
+			"ProductLineId",
+			"ProductLineId = 12",
+			"ProductLineId = 62",
+			"GroupSortOrder",
+			"\"ru\"",
+			"\"fr\"",
+			"\"es\"",
+			"\"en\"",
+			"new ProductGroupDto();",
+			"=",
+			"productGroupDto",
+			"{ get",
+			"public",
+			"productGroupDto.IntlProductCount",
+			"new ProductGroupDto();",
+			"ProductGroupDto",
+			"productGroupDto",
+			"ProductGroupDto",
+			"productGroupDto",
+			"ProductGroupDto",
+			"productGroupDto",
+			"ProductGroupDto",
+			"productGroupDto",
+			"ProductGroupDto",
+			"productGroupDto",
+			"ProductGroupDto",
+			"productGroupDto",
+			"ProductGroupDto",
+			"productGroupDto",
+			"ProductGroupDto",
+			"productGroupDto",
+			"ProductGroupDto",
+			"productGroupDto",
+			"ProductGroupDto",
+			"productGroupDto",
+			"mark",
+			"\"Câbles et connecteurs \";",
+			"mark",
+			"LockAttributeSort",
+			"Id =",
+			"=",
+			"mark",
+			"	",
+			"mark",
+			"	",
+			"ar",
+			"ko",
+			"de",
+			"fr"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1538,6 +1520,60 @@
 		"regex": false,
 		"replace_history":
 		[
+			"$1-$2-$3",
+			"		\n",
+			"Racks",
+			"AttributeValue = \"$1\"",
+			"$1",
+			"LastUpdate",
+			"Mylist",
+			"mylistID",
+			"main/my-list",
+			"main/mylist",
+			"rc.mylistID",
+			"saveToLocalStorage",
+			"loadFromLocalStorage",
+			"localStorageKey",
+			"// Update desk combo image\n		$('img', objSelf.DOMRefs.deskCombo)\n			.hide()\n			.attr('src', $('#'+groupImageID).data('img-group') )\n			.fadeIn('slow');",
+			"\n\n		                    <div class=\"item\">\n		                        <div class=\"row padLeft25 padRight20\">\n		                            <div class=\"col-md-4 noPadLeft noPadRight\">\n		                            	<a href=\"javascript:void(0);\" class=\"thumbnail\">\n		                            		<img src=\"#application.cdnSharedURL#/group-images/sit-stand-desk/WWBASEGY-WWTOP48ES-S.jpg\" data-group-image=\"#application.cdnSharedURL#/product-images/med/MT6PLUS-FRONT-M.jpg\" id=\"MT6PLUS-FRONT-M\" alt=\"Image\" class=\"img-responsive\">\n		                            	</a>\n		                            </div>\n		                            <div class=\"col-md-4 noPadLeft noPadRight\">\n		                            	<a href=\"javascript:void(0);\" class=\"thumbnail\">\n		                            		<img src=\"#application.cdnSharedURL#/group-images/sit-stand-desk/WWBASEGY-WWTOP60BKC-S.jpg\" data-group-image=\"#application.cdnSharedURL#/product-images/med/TLP26USBB-FRONT-M.jpg\" id=\"TLP26USBB-FRONT-M\" alt=\"Image\" class=\"img-responsive\">\n		                            	</a>\n		                            </div>\n		                            <div class=\"col-md-4 noPadLeft noPadRight\">\n		                            	<a href=\"javascript:void(0);\" class=\"thumbnail\">\n		                            		<img src=\"#application.cdnSharedURL#/group-images/sit-stand-desk/WWBASEGY-WWTOP60ESC-S.jpg\" data-group-image=\"#application.cdnSharedURL#/product-images/med/TLP606DMUSB-FRONT-M.jpg\" id=\"TLP606DMUSB-FRONT-M\" alt=\"Image\" class=\"img-responsive\">\n		                            	</a>\n		                            </div>\n		                        </div>\n		                    </div>",
+			"\n#productTypes .typeList, #productTypes .subTypeList {\n	padding-top: 5px;\n}",
+			"$1$2\\n",
+			"$1$2",
+			";\\n",
+			"$1$2",
+			"$1 $2",
+			"$1$2",
+			"$1$2$",
+			"$1$2",
+			"$1",
+			"local.createAttributeOptions = local.productService.createAttributeOptions( attributesQuery = local.getProductGroupFilters.data, preSelections = rc",
+			"local.createAttributeOptions = local.productService.createAttributeOptions( attributesQuery = local.getProductGroupFilters.data, attributeFilters = rc )",
+			"$1klingon=",
+			"arguments.searchType",
+			"searchType",
+			".searchType",
+			"$1klingon=",
+			"subtypeID",
+			"arguments.subtypeID",
+			"arguments.typeID",
+			"\n				// KEYWORD SEARCH - PAGES/PDF\n				arguments.type = \"7,10,11,22\"; // 7=Literature, 10=Owner's Manual, 11=Runtime Charts, 22=Search\n				arguments.subtype = \"15,16,18,19,42,44,45,46,47,48,49,50,51,52,53,54,55,57,112,116,12,59,119,120,125,126\";\n				local.response.data.qWebPage = variables.instance.searchGateway.qryObjectFreetextTable( argumentCollection = arguments );",
+			"/*\n========================================================================================================================================================================================================\n========================================================================================================================================================================================================\n*/",
+			"$1-post ",
+			"$1-$2",
+			"$1-post",
+			"joinModelTable",
+			"SELECT DISTINCT -- TOP 25\n	Objects.Object_ID\n	, Objects.EN_Object_Name\n	, Objects.EN_Object_Description\n	, Objects.Search_Keywords\n	, Objects.Object_Subtype_ID\n	, tblRank.RANK\nFROM Objects\n	INNER JOIN FREETEXTTABLE(Objects, ( EN_Object_Name,EN_Object_Description ), 'niap kvm') AS tblRank ON Objects.Object_ID = tblRank.[KEY]\nWHERE 0=0 \n	AND tblRank.RANK > 100\n	AND CONTAINS(( EN_Object_Name,EN_Object_Description ), 'niap ~ kvm')\n	AND Objects.object_type_id IN (22)  AND Objects.Object_Subtype_ID IN (117) \nORDER BY RANK DESC",
+			"\nSELECT DISTINCT Objects.Object_ID, Objects.Object_Subtype_ID, tblRank.RANK\nFROM Objects \n	INNER JOIN FREETEXTTABLE( Objects, ( EN_Object_Name,EN_Object_Description,EN_Keywords ), 'ups system' ) AS tblRank ON Objects.Object_ID = tblRank.[KEY]\nWHERE Objects.object_type_id IN (22) AND Objects.object_subtype_id IN (111,117)\nORDER BY RANK DESC",
+			"\n				// CONTAINS KEYWORDS - ALL  'register AND product'\n				arguments.searchTypes = \"all\";\n				local.qObjectContainsAll = variables.instance.searchGateway.qryObjectContains( argumentCollection = arguments );\n				\n				if( local.qObjectContainsAll.recordCount ){ \n					local.response.data = local.qObjectContainsAll;\n					return local.response;\n				}",
+			"rc.qModelExact",
+			"rc.qModelPartial",
+			"rc.qDownloads",
+			"rc.qPagePDFs",
+			"rc.qVideos",
+			".searchTerm",
+			"https://prodzone",
+			"https://prodzone-tripplite.netdna-ssl.com",
+			"prodzone-tripplite.netdna-ssl.com",
 			"\n			// User Type Checkboxes Group\n			this.formFields.userType = {\n				id           = \"userType\",\n				name         = \"userType\",\n				label        = \"\",\n				value        = \"\",\n				required     = false, // Un-require when not showing\n				errorMessage = \"\",\n				radios       = local.arrUserTypes, // Array of checkboxes (structs)\n				layout       = \"horizontal-item\",\n				splitOptions = false // Split options into 2 columns.\n			};",
 			"						",
 			"local",
@@ -1611,61 +1647,7 @@
 			"'products.upsSystems~11?2023=SmartOnline'",
 			"'products.ups-systems~11?2023=SmartOnline'",
 			"'products.kvm-switches~14?2036=NIAP-Certified%20Secure'",
-			"'products.rack-accessories~30'",
-			"'products.cooling~13?2026=Active'",
-			"'products.racks~12?1967=Open-Frame'",
-			"'products.upsSystems~11?2024=On-Line'",
-			"'products.upsSystems~11?2032=Network/Server'",
-			"'products.upsSystems~11?1503=NAFTA%20Compliant'",
-			"'products.powerDistributionUnitsPdus~15?1692=Monitored'",
-			"'products.powerDistributionUnitsPdus~15?1692=Metered'",
-			"'products.isolationTransformers~25?137=Medical-Grade'",
-			"'products.upsSystems~11?2024=Line-Interactive'",
-			"'products.surgeProtectors~19?2029=Premium%20Isobar'",
-			"'products.powerDistributionUnitsPdus~15?1692=Hot-Swap'",
-			"buildURL('products.powerStrips~20?2030=Hospital/Medical')",
-			"'products.racks~12?2056=Floor-Standing')",
-			"'products.racks~12?2056=Floor-Standing",
-			"'products.surgeProtectors~19?2029=Energy-Saving",
-			"'products.upsSystems~11?2032=Desktop",
-			"'products.kvmSwitches~14?2027=Desktop'",
-			"'products.displayMounts~21?1845=Clamp%20Mount'",
-			"'products.upsSystems~11?1697=3-Phase&2032=Data%20Center'",
-			"'products.coolingAccessories~33'",
-			"'products.consoleServers~22'",
-			"action='products.displayAudioCables~2'",
-			"}\n",
-			"-",
-			"$1\\t\\t\\t<fr lastChange=\"01/01/2012\"></fr>\\n$2",
-			"$1\\t\\t\\t<fr lastChange=\"01/01/2012\"></fr>\\n",
-			"$1\\t\\t\\t<fr lastChange=\"01/01/2012\"></fr>",
-			"$1\\t\\t<fr lastChange=\"01/01/2012\"></fr>",
-			"$1\\t<fr lastChange=\"01/01/2012\"></fr>",
-			"$1<fr lastChange=\"01/01/2012\"></fr>",
-			"logException(exception = dbError, exceptionType = \"database\"",
-			"Updated to inherit from foundation",
-			"<cfcomponent extends=\"foundation.model.beans.BaseBean\"",
-			"excludeCountries",
-			"excludeContries",
-			"<cfquery name=\"qSetPassword\" datasource=\"#variables.instance.dsn#\" result=\"setPasswordResult\">\n				UPDATE Partner_Contacts\n				SET UserPassword = <cfqueryparam value=\"#arguments.password#\" cfsqltype=\"cf_sql_varchar\" />\n				WHERE Contact_ID = <cfqueryparam value=\"#arguments.contactID#\" cfsqltype=\"cf_sql_bigint\">			\n			</cfquery>",
-			"Logo_Filename",
-			" OptPartners",
-			"$1OptPartners",
-			"OptPartners.",
-			"\n			// ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::\n			// Get Partner Data\n			// ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",
-			">\n",
-			"$1",
-			".$1$2",
-			"$1$2",
-			"$0$1$2",
-			"$0",
-			"$3",
-			"$1",
-			"$1$2",
-			"index.cfm/$2",
-			"index.com/$2",
-			"$1",
-			"$2"
+			"'products.rack-accessories~30'"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -1676,23 +1658,23 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 6,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/fcarmona/Desktop/Notes/Local Environment.txt",
+					"file": "/C/Users/fcarmona/Desktop/Notes/Scratch Paper.txt",
 					"settings":
 					{
-						"buffer_size": 5606,
+						"buffer_size": 13444,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1391,
-								1382
+								13444,
+								13444
 							]
 						],
 						"settings":
@@ -1701,25 +1683,53 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 368.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/C/Users/fcarmona/Desktop/Notes/TO DO List.TODO",
+					"file": "/C/Users/fcarmona/Desktop/Notes/Notes.txt",
 					"settings":
 					{
-						"buffer_size": 12516,
+						"buffer_size": 21275,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3814,
-								3814
+								21256,
+								21256
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 743.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/fcarmona/Desktop/Notes/TO DO List.TODO",
+					"settings":
+					{
+						"buffer_size": 13567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9608,
+								9611
 							]
 						],
 						"settings":
@@ -1730,60 +1740,30 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/Users/fcarmona/Desktop/Notes/Notes.txt",
-					"settings":
-					{
-						"buffer_size": 19826,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								16441,
-								16441
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"word_wrap": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 650.0,
+						"translation.y": 413.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "/C/Users/fcarmona/Desktop/Notes/FW1 Port Explanation - Notes.txt",
+					"file": "/C/Users/fcarmona/Desktop/T61 URLS 112716.txt",
 					"settings":
 					{
-						"buffer_size": 15508,
+						"buffer_size": 3851,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								3851,
+								3851
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1793,24 +1773,23 @@
 				},
 				{
 					"buffer": 4,
-					"file": "/C/Users/fcarmona/Desktop/Notes/Fusion Reactor - Notes.txt",
+					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/Application.cfc",
 					"settings":
 					{
-						"buffer_size": 6538,
+						"buffer_size": 31944,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6538,
-								6538
+								14695,
+								14695
 							]
 						],
 						"settings":
 						{
-							"auto_name": "Thank you for giving FusionReactor a try!",
-							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
@@ -1821,18 +1800,18 @@
 				},
 				{
 					"buffer": 5,
-					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/Application.cfc",
+					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/company.cfc",
 					"settings":
 					{
-						"buffer_size": 29355,
+						"buffer_size": 34209,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1732,
-								1737
+								12524,
+								12524
 							]
 						],
 						"settings":
@@ -1841,255 +1820,30 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 281.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 6,
-					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/controllers/myAccount.cfc",
+					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/GeneralInquiriesFormBuilder.cfc",
 					"settings":
 					{
-						"buffer_size": 43168,
+						"buffer_size": 15619,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								15658,
-								15658
+								2207,
+								2207
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 336.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/MyAccountNewsletterFormBuilder.cfc",
-					"settings":
-					{
-						"buffer_size": 18281,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								15014,
-								15007
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1806.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/builder/WarrantyFormBuilder.cfc",
-					"settings":
-					{
-						"buffer_size": 48089,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								19683,
-								19683
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 7622.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/services/CompanyService.cfc",
-					"settings":
-					{
-						"buffer_size": 21719,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								10129,
-								10139
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/dao/CompanyDAO.cfc",
-					"settings":
-					{
-						"buffer_size": 11626,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3254,
-								3254
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/model/gateways/CompanyGateway.cfc",
-					"settings":
-					{
-						"buffer_size": 15253,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6846,
-								6846
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"settings":
-					{
-						"buffer_size": 1729,
-						"regions":
-						{
-							"match":
-							{
-								"flags": 112,
-								"regions":
-								[
-									[
-										445,
-										465
-									],
-									[
-										557,
-										577
-									],
-									[
-										992,
-										1012
-									],
-									[
-										1110,
-										1130
-									],
-									[
-										1441,
-										1461
-									],
-									[
-										1729,
-										1729
-									]
-								],
-								"scope": ""
-							}
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"detect_indentation": false,
-							"output_tag": 4,
-							"result_base_dir": "",
-							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
-							"result_line_regex": "^ +([0-9]+):",
-							"scroll_past_end": true,
-							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "/C/Sites/cfmxapps/wwwroot/local.tripplite.com/assets/js/tripplite.myAccount.newsletter.js",
-					"settings":
-					{
-						"buffer_size": 1771,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1320,
-								1320
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
@@ -2143,156 +1897,424 @@
 		"selected_items":
 		[
 			[
-				"usergat",
-				"model/gateways/UserGateway.cfc"
+				"geninfo",
+				"model/builder/GeneralInquiriesFormBuilder.cfc"
 			],
 			[
-				"userda",
-				"model/dao/UserDAO.cfc"
+				"messquda",
+				"model/dao/MessageQueueDAO.cfc"
 			],
 			[
-				"companda",
-				"model/dao/CompanyDAO.cfc"
+				"messa",
+				"model/services/MessageQueueService.cfc"
 			],
 			[
-				"userbe",
-				"model/beans/UserBean.cfc"
+				"modeser",
+				"model/services/ModelService.cfc"
 			],
 			[
-				"forbu",
-				"model/builder/FormBuilder.cfc"
+				"web",
+				"web.config"
 			],
 			[
-				"newjs",
-				"assets/js/tripplite.myAccount.newsletter.js"
+				".xml",
+				"resourceBundles/tripplite.xml"
 			],
 			[
-				"compaga",
-				"model/gateways/CompanyGateway.cfc"
+				"suppo",
+				"controllers/support.cfc"
 			],
 			[
-				"companbe",
-				"model/beans/CompanyBean.cfc"
+				"supporser",
+				"model/services/SupportService.cfc"
 			],
 			[
-				"compnser",
-				"model/services/CompanyService.cfc"
+				"prppm",
+				"jobs/outboundData/powerReviews/prPPMDataFeed.cfm"
 			],
 			[
-				"formbui",
-				"model/builder/WarrantyFormBuilder.cfc"
+				"proga",
+				"model/gateways/ProductGateway.cfc"
 			],
 			[
-				"catjs",
-				"assets/js/tripplite.products.category.js"
+				"produser",
+				"model/services/ProductService.cfc"
 			],
 			[
-				"layocat",
-				"layouts/category.cfm"
+				"modelga",
+				"model/gateways/ModelGateway.cfc"
 			],
 			[
-				"produ",
-				"layouts/products.cfm"
+				"modelser",
+				"model/services/ModelService.cfc"
 			],
 			[
-				"snipmodlis",
-				"views/snippets/products/modelList.cfm"
-			],
-			[
-				"categojs",
-				"assets/js/tripplite.products.category.js"
-			],
-			[
-				"newlettjs",
-				"assets/js/tripplite.myAccount.newsletter.js"
-			],
-			[
-				"newlxml",
-				"resourceBundles/myAccount/newsletter.xml"
-			],
-			[
-				"forbui",
-				"model/builder/FormBuilder.cfc"
-			],
-			[
-				"manefo",
-				"model/builder/MyAccountNewsletterFormBuilder.cfc"
-			],
-			[
-				"mya",
-				"controllers/myAccount.cfc"
-			],
-			[
-				"dump",
-				"logs/dumpException.txt"
-			],
-			[
-				"dbe",
-				"logs/dbException.txt"
-			],
-			[
-				"one",
-				"framework/one.cfc"
-			],
-			[
-				"userser",
-				"model/services/UserService.cfc"
-			],
-			[
-				"dowl",
-				"views/support/downloads.cfm"
-			],
-			[
-				"trjs",
-				"assets/js/tripplite.js"
-			],
-			[
-				"prodsufomjs",
-				"assets/js/tripplite.support.productSupportForm.js"
+				"prsufobu",
+				"model/builder/ProductSupportFormBuilder.cfc"
 			],
 			[
 				"supp",
 				"controllers/support.cfc"
 			],
 			[
-				"produga",
-				"model/gateways/ProductGateway.cfc"
+				"modellis",
+				"views/snippets/products/modelList.cfm"
 			],
 			[
-				"snipmodli",
-				"views/snippets/products/modelList.cfm"
+				"finderjs",
+				"assets/js/tripplite.products.finder.js"
+			],
+			[
+				"catjs",
+				"assets/js/tripplite.products.category.js"
+			],
+			[
+				"prod",
+				"controllers/products.cfc"
+			],
+			[
+				"resellerser",
+				"jobs/resellerDatafeeds/model/resellerService.cfc"
+			],
+			[
+				"resellerpart",
+				"jobs/resellerDatafeeds/resellerLoadPart1.cfm"
+			],
+			[
+				"rbser",
+				"model/services/ResourceBundleService.cfc"
+			],
+			[
+				"pages",
+				"controllers/pages.cfc"
+			],
+			[
+				"objecbe",
+				"model/beans/ObjectBean.cfc"
+			],
+			[
+				"objeser",
+				"model/services/ObjectService.cfc"
+			],
+			[
+				"objeda",
+				"model/dao/ObjectDAO.cfc"
+			],
+			[
+				"objecda",
+				"model/dao/ObjectDAO.cfc"
+			],
+			[
+				"task",
+				"controllers/tasks.cfc"
+			],
+			[
+				"seaenser",
+				"model/services/SearchEngineService.cfc"
+			],
+			[
+				"5_",
+				"jobs/resellerDatafeeds/actions/5_ImportCiData.cfm"
+			],
+			[
+				"1_",
+				"jobs/resellerDatafeeds/actions/1_LoadModelData.cfm"
+			],
+			[
+				"reseloap",
+				"jobs/resellerDatafeeds/resellerLoadPart1.cfm"
+			],
+			[
+				"prodsuppxm",
+				"resourceBundles/support/productSupportForm.xml"
+			],
+			[
+				"supporservi",
+				"model/services/SupportService.cfc"
 			],
 			[
 				"sup",
 				"controllers/support.cfc"
 			],
 			[
-				"prosuf",
+				"prodform",
 				"model/builder/ProductSupportFormBuilder.cfc"
-			],
-			[
-				"suppor",
-				"controllers/support.cfc"
-			],
-			[
-				"prosu",
-				"model/builder/ProductSupportFormBuilder.cfc"
-			],
-			[
-				"warfo",
-				"model/builder/WarrantyFormBuilder.cfc"
-			],
-			[
-				"progat",
-				"model/gateways/ProductGateway.cfc"
 			],
 			[
 				"proser",
 				"model/services/ProductService.cfc"
 			],
 			[
-				"prosuforbu",
+				"reseller",
+				"controllers/resellers.cfc"
+			],
+			[
+				"utili",
+				"model/services/UtilityService.cfc"
+			],
+			[
+				"seargat",
+				"model/gateways/searchGateway.cfc"
+			],
+			[
+				"searchser",
+				"model/services/searchService.cfc"
+			],
+			[
+				"vide",
+				"views/pages/video.cfm"
+			],
+			[
+				"geogat",
+				"model/gateways/GeographyGateway.cfc"
+			],
+			[
+				"geoser",
+				"model/services/GeographyService.cfc"
+			],
+			[
+				"userhis",
+				"model/dao/UserHistoryDAO.cfc"
+			],
+			[
+				"userbe",
+				"model/beans/UserBean.cfc"
+			],
+			[
+				"userser",
+				"model/services/UserService.cfc"
+			],
+			[
+				"forb",
+				"model/builder/FormBuilder.cfc"
+			],
+			[
+				"formbui",
+				"model/builder/FormBuilder.cfc"
+			],
+			[
+				"seraenser",
+				"model/services/SearchEngineService.cfc"
+			],
+			[
+				"prodsu",
 				"model/builder/ProductSupportFormBuilder.cfc"
+			],
+			[
+				"progat",
+				"model/gateways/ProductGateway.cfc"
+			],
+			[
+				"main",
+				"controllers/main.cfc"
+			],
+			[
+				"searen",
+				"model/services/SearchEngineService.cfc"
+			],
+			[
+				"on",
+				"framework/one.cfc"
+			],
+			[
+				"produga",
+				"model/gateways/ProductGateway.cfc"
+			],
+			[
+				"",
+				"model/services/UtilityService.cfc"
+			],
+			[
+				"rviser",
+				"model/services/rviListService.cfc"
+			],
+			[
+				"modega",
+				"model/gateways/ModelGateway.cfc"
+			],
+			[
+				"formser",
+				"model/services/FormService.cfc"
+			],
+			[
+				"forbu",
+				"model/builder/FormBuilder.cfc"
+			],
+			[
+				"basser",
+				"model/services/BaseService.cfc"
+			],
+			[
+				"geoga",
+				"model/gateways/GeographyGateway.cfc"
+			],
+			[
+				"gepserv",
+				"model/services/GeographyService.cfc"
+			],
+			[
+				"utilitser",
+				"model/services/UtilityService.cfc"
+			],
+			[
+				"partconda",
+				"model/dao/PartnerContactDAO.cfc"
+			],
+			[
+				"partnerconser",
+				"model/services/PartnerContactService.cfc"
+			],
+			[
+				"parpafo",
+				"model/builder/PartnerPasswordFormBuilder.cfc"
+			],
+			[
+				"partner",
+				"controllers/partners.cfc"
+			],
+			[
+				"snipmod",
+				"views/snippets/products/modelList.cfm"
+			],
+			[
+				"cat",
+				"views/products/category.cfm"
+			],
+			[
+				"cate",
+				"layouts/category.cfm"
+			],
+			[
+				"cafinderjs",
+				"assets/js/tripplite.products.cableFinder.js"
+			],
+			[
+				"prodfinjs",
+				"assets/js/tripplite.products.finder.js"
+			],
+			[
+				"prodser",
+				"model/services/ProductService.cfc"
+			],
+			[
+				"snipmodellis",
+				"views/snippets/products/modelList.cfm"
+			],
+			[
+				"produ",
+				"controllers/products.cfc"
+			],
+			[
+				"wishliser",
+				"model/services/WishlistService.cfc"
+			],
+			[
+				"catxml",
+				"resourceBundles/products/category.xml"
+			],
+			[
+				"prog",
+				"model/gateways/ProductGateway.cfc"
+			],
+			[
+				"produc",
+				"controllers/products.cfc"
+			],
+			[
+				"compjs",
+				"assets/js/tripplite.company.js"
+			],
+			[
+				"compaga",
+				"model/gateways/CompanyGateway.cfc"
+			],
+			[
+				"companyser",
+				"model/services/CompanyService.cfc"
+			],
+			[
+				"compan",
+				"controllers/company.cfc"
+			],
+			[
+				"userb",
+				"model/beans/UserBean.cfc"
+			],
+			[
+				"findersid",
+				"views/snippets/products/finderSidebar.cfm"
+			],
+			[
+				"filter",
+				"views/snippets/search/finderFilter.cfm"
+			],
+			[
+				"profinjs",
+				"assets/js/tripplite.products.finder.js"
+			],
+			[
+				"searg",
+				"model/gateways/searchGateway.cfc"
+			],
+			[
+				"searchenser",
+				"model/services/SearchEngineService.cfc"
+			],
+			[
+				"compajs",
+				"assets/js/tripplite.company.js"
+			],
+			[
+				"coga",
+				"model/gateways/CompanyGateway.cfc"
+			],
+			[
+				"compaser",
+				"model/services/CompanyService.cfc"
+			],
+			[
+				"prosufo",
+				"model/builder/ProductSupportFormBuilder.cfc"
+			],
+			[
+				"generinf",
+				"model/builder/GeneralInquiriesFormBuilder.cfc"
+			],
+			[
+				"one",
+				"framework/one.cfc"
+			],
+			[
+				"wtb",
+				"controllers/whereToBuy.cfc"
+			],
+			[
+				"we",
+				"web.config"
+			],
+			[
+				"snipnav",
+				"views/snippets/navigation/megamenu.cfm"
+			],
+			[
+				"jobs",
+				"jobs/resellerDatafeeds/model/BaseService.cfc"
+			],
+			[
+				"compagat",
+				"model/gateways/CompanyGateway.cfc"
+			],
+			[
+				"parconda",
+				"model/dao/PartnerContactDAO.cfc"
+			],
+			[
+				"parconbe",
+				"model/beans/PartnerContactBean.cfc"
+			],
+			[
+				"seare",
+				"model/services/SearchEngineService.cfc"
 			],
 			[
 				"compga",
@@ -2303,356 +2325,88 @@
 				"model/services/CompanyService.cfc"
 			],
 			[
-				"warformb",
+				"warrafo",
 				"model/builder/WarrantyFormBuilder.cfc"
+			],
+			[
+				"producar",
+				"views/snippets/products/productCarousel.cfm"
+			],
+			[
+				"mini",
+				"views/snippets/navigation/minimenu.cfm"
+			],
+			[
+				"modell",
+				"views/snippets/products/modelList.cfm"
 			],
 			[
 				"prodgat",
 				"model/gateways/ProductGateway.cfc"
 			],
 			[
-				"prga",
-				"model/gateways/PartnerGateway.cfc"
+				"compda",
+				"model/dao/CompanyDAO.cfc"
 			],
 			[
-				"modelcfm",
-				"views/products/model.cfm"
+				"minime",
+				"views/snippets/navigation/minimenu.cfm"
 			],
 			[
-				"promojs",
-				"assets/js/tripplite.products.model.js"
+				"megmen",
+				"views/megaMenus.cfm"
 			],
 			[
-				"produsjs",
+				"prodcar",
+				"views/snippets/products/productCarousel.cfm"
+			],
+			[
+				"projs",
 				"assets/js/tripplite.products.js"
 			],
 			[
-				"modelist",
-				"views/snippets/products/modelList.cfm"
+				"minimen",
+				"views/snippets/navigation/minimenu.cfm"
 			],
 			[
-				"modega",
-				"model/gateways/ModelGateway.cfc"
-			],
-			[
-				"prog",
-				"model/gateways/ProductGateway.cfc"
-			],
-			[
-				"myac",
-				"model/builder/MyAccountNewsletterFormBuilder.cfc"
-			],
-			[
-				"trij",
-				"assets/js/tripplite.js"
-			],
-			[
-				"parconbea",
-				"model/beans/PartnerContactBean.cfc"
-			],
-			[
-				"basser",
-				"model/services/BaseService.cfc"
-			],
-			[
-				"companpo",
-				"model/builder/CompanyProfileFormBuilder.cfc"
-			],
-			[
-				"plogf",
-				"model/builder/PartnerLoginFormBuilder.cfc"
-			],
-			[
-				"partner",
-				"controllers/partners.cfc"
-			],
-			[
-				"basbea",
-				"model/beans/BaseBean.cfc"
-			],
-			[
-				"parconbe",
-				"model/beans/PartnerContactBean.cfc"
-			],
-			[
-				"sec",
-				"controllers/security.cfc"
-			],
-			[
-				"gelist",
-				"model/builder/GetListedFormBuilder.cfc"
-			],
-			[
-				"usega",
-				"model/gateways/UserGateway.cfc"
-			],
-			[
-				"warprefo",
-				"model/builder/WarrantyPreFormBuilder.cfc"
-			],
-			[
-				"suppo",
-				"controllers/support.cfc"
-			],
-			[
-				"masterfo",
-				"resourceBundles/masterForm/masterForm.xml"
-			],
-			[
-				"partlis",
-				"resourceBundles/whereToBuy/partnerList.xml"
-			],
-			[
-				"resexml",
-				"resourceBundles/myAccount/reset.xml"
-			],
-			[
-				"wtb",
-				"controllers/whereToBuy.cfc"
-			],
-			[
-				"tripcss",
-				"assets/css/tripplite.css"
-			],
-			[
-				"formbu",
-				"model/builder/FormBuilder.cfc"
-			],
-			[
-				"where",
-				"controllers/whereToBuy.cfc"
-			],
-			[
-				"produsu",
-				"model/builder/ProductSupportFormBuilder.cfc"
-			],
-			[
-				"model",
-				"views/products/model.cfm"
-			],
-			[
-				"myaccnew",
-				"model/builder/MyAccountNewsletterFormBuilder.cfc"
-			],
-			[
-				"myaccoxml",
-				"resourceBundles/myAccount/newsletter.xml"
-			],
-			[
-				"hompagcss",
-				"assets/css/tripplite.homepage.css"
-			],
-			[
-				"trcss",
-				"assets/css/tripplite.css"
-			],
-			[
-				"tr",
-				"assets/js/tripplite.js"
-			],
-			[
-				"applic",
-				"Application.cfc"
-			],
-			[
-				"usser",
-				"model/services/UserService.cfc"
-			],
-			[
-				"myanfo",
-				"model/builder/MyAccountNewsletterFormBuilder.cfc"
-			],
-			[
-				"defaul",
-				"layouts/default.cfm"
-			],
-			[
-				"du",
-				"logs/dumpException.txt"
-			],
-			[
-				"fram",
-				"framework/one.cfc"
-			],
-			[
-				"prodser",
-				"model/services/ProductService.cfc"
-			],
-			[
-				"produs",
-				"model/builder/ProductSupportFormBuilder.cfc"
-			],
-			[
-				"locaprof",
-				"model/builder/LocationProfileFormBuilder.cfc"
-			],
-			[
-				"partnpri",
-				"views/partners/profile.cfm"
-			],
-			[
-				"pfindjs",
+				"findjs",
 				"assets/js/tripplite.products.finder.js"
+			],
+			[
+				"findsid",
+				"views/snippets/products/finderSidebar.cfm"
+			],
+			[
+				"searenser",
+				"model/services/SearchEngineService.cfc"
 			],
 			[
 				"prodga",
 				"model/gateways/ProductGateway.cfc"
 			],
 			[
-				"web",
-				"web.config"
+				"formbuil",
+				"model/builder/FormBuilder.cfc"
 			],
 			[
-				"rese",
-				"controllers/resellers.cfc"
-			],
-			[
-				"jq",
-				"layouts/jqLoad.cfm"
-			],
-			[
-				"finderjs",
-				"assets/js/tripplite.products.finder.js"
-			],
-			[
-				"findi",
-				"layouts/findit.cfm"
-			],
-			[
-				"jqloa",
-				"layouts/jqLoad.cfm"
-			],
-			[
-				"reserpfindjs",
-				"assets/js/tripplite.resellers.productFinder.js"
-			],
-			[
-				"produfinjs",
-				"assets/js/tripplite.products.finder.js"
-			],
-			[
-				"proga",
-				"model/gateways/ProductGateway.cfc"
-			],
-			[
-				"progra",
-				"views/whereToBuy/resellerProgram.cfm"
-			],
-			[
-				"reselser",
-				"jobs/resellerDatafeeds/model/resellerService.cfc"
-			],
-			[
-				"producgat",
-				"model/gateways/ProductGateway.cfc"
-			],
-			[
-				"pros",
-				"model/services/ProductService.cfc"
-			],
-			[
-				"parloda",
-				"model/dao/PartnerLocationDAO.cfc"
-			],
-			[
-				"parlob",
-				"model/beans/PartnerLocationBean.cfc"
-			],
-			[
-				"rackplanjs",
-				"assets/js/tripplite.products.rackPlanner.js"
-			],
-			[
-				"rackprjs",
-				"assets/js/tripplite.products.rackPlanner.racks.js"
-			],
-			[
-				"rackplann",
-				"views/products/rackPlanner.cfm"
-			],
-			[
-				"rackprojcss",
-				"assets/css/tripplite.products.rackProjects.css"
-			],
-			[
-				"wiga",
-				"model/gateways/WishlistGateway.cfc"
-			],
-			[
-				"produgat",
-				"model/gateways/ProductGateway.cfc"
-			],
-			[
-				"promogat",
-				"model/gateways/PromotionGateway.cfc"
-			],
-			[
-				"findga",
-				"model/gateways/FinderGateway.cfc"
-			],
-			[
-				"dum",
-				"logs/dumpException.txt"
-			],
-			[
-				"service.c",
-				"model/services/ProductService.cfc"
-			],
-			[
-				"prosufo",
-				"model/builder/ProductSupportFormBuilder.cfc"
-			],
-			[
-				"produser",
-				"model/services/ProductService.cfc"
-			],
-			[
-				"suppser",
-				"model/services/SupportService.cfc"
-			],
-			[
-				"pages",
-				"controllers/pages.cfc"
-			],
-			[
-				"defau",
-				"layouts/default.cfm"
-			],
-			[
-				"usbcablea",
-				"views/pages/usbTypeCCablesAdapters.cfm"
-			],
-			[
-				"baseba",
-				"model/beans/BaseBean.cfc"
-			],
-			[
-				"framwork",
-				"framework/one.cfc"
-			],
-			[
-				"partsjs",
-				"assets/js/tripplite.support.partsRequest.js"
-			],
-			[
-				"sidba",
-				"views/snippets/products/finderSidebar.cfm"
-			],
-			[
-				"prod",
-				"controllers/products.cfc"
-			],
-			[
-				"warrfor",
+				"warraf",
 				"model/builder/WarrantyFormBuilder.cfc"
 			],
 			[
-				"visjs",
-				"assets/js/tripplite.visitor.js"
+				"suppor",
+				"controllers/support.cfc"
 			],
 			[
-				"parloser",
-				"model/services/PartnerLocationService.cfc"
+				"searcheng",
+				"model/services/SearchEngineService.cfc"
+			],
+			[
+				"searchgat",
+				"model/gateways/searchGateway.cfc"
+			],
+			[
+				"trippjs",
+				"assets/js/tripplite.js"
 			]
 		],
 		"width": 0.0
